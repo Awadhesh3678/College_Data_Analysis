@@ -1,6 +1,7 @@
 # College-Data-Analysis
 
 🎓 College Data Analysis for Admissions, Placements & Strategies
+
 📌 Overview
 
 This project focuses on leveraging Excel, SQL, and Power BI to analyze student data for admissions and placements. The goal is to help colleges make data-driven decisions by identifying placement trends, skill gaps, and admission-to-placement conversion ratios, while also enabling smarter marketing strategies and stronger industry alignment.
@@ -76,7 +77,6 @@ College-Data-Analysis/
 │
 ├── Data/
 ├── SQL/
-├── Excel/
 ├── PowerBI/
 ├── Docs/
 └── README.md
