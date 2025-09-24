@@ -3,43 +3,43 @@
 -- ==========================================
 CREATE TABLE student_records (
     StudentID       VARCHAR(20) PRIMARY KEY,
-    StudentName     TEXT NOT NULL,
-    FatherName      TEXT NOT NULL,
-    Email           TEXT NOT NULL UNIQUE,
+    StudentName     varchar(50)  NOT NULL,
+    FatherName      varchar(20)  NOT NULL,
+    Email           varchar(20)  NOT NULL UNIQUE,
     DOB             DATE NOT NULL,
     Gender          VARCHAR(10) CHECK (Gender IN ('Male','Female','Other')),
-    ProgramIntake   TEXT,
-    Branch          TEXT NOT NULL,
+    ProgramIntake   varchar(20) ,
+    Branch          varchar(20)  NOT NULL,
     10thMarks       INT CHECK (10thMarks BETWEEN 0 AND 100),
     12thMarks       INT CHECK (12thMarks BETWEEN 0 AND 100),
-    AdmissionType   TEXT,
-    EntranceExam    TEXT,
-    City            TEXT,
+    AdmissionType   varchar(20) ,
+    EntranceExam    varchar(20) ,
+    City            varchar(20) ,
     Pincode         INT CHECK (Pincode BETWEEN 100000 AND 999999),
-    ResidentialStatus TEXT
+    ResidentialStatus varchar(20) 
 );
 
 -- ==========================================
 -- Company Details
 -- ==========================================
 CREATE TABLE company_detail (
-    company_id              VARCHAR(20) PRIMARY KEY,
-    company_name            VARCHAR(150) UNIQUE NOT NULL,
-    location                VARCHAR(100) NOT NULL,
-    domain                  VARCHAR(50) NOT NULL,
-    eligibility_branch_wise VARCHAR(200),
-    eligibility_criteria    VARCHAR(20),
-    profile                 VARCHAR(100) NOT NULL,
-    skills_required         TEXT,
-    ctc_lpa                 DECIMAL(5,2) CHECK (ctc_lpa > 0),
-    no_of_openings          INT CHECK (no_of_openings >= 0),
-    no_of_students_placed   INT DEFAULT 0 CHECK (no_of_students_placed >= 0),
-    total_eligible_student  INT DEFAULT 0 CHECK (total_eligible_student >= 0),
-    no_of_rounds_company_took INT CHECK (no_of_rounds_company_took >= 0),
-    rounds_names            VARCHAR(255),
-    highest_elim_round      VARCHAR(100),
-    highest_elim_count      INT CHECK (highest_elim_count >= 0),
-    conversion_percent      DECIMAL(5,2) CHECK (conversion_percent BETWEEN 0 AND 100)
+company_id                   varchar(20) PK 
+company_name                 varchar(150) 
+location                     varchar(100) 
+domain                       varchar(50) 
+eligibility_branch_wise      varchar(200) 
+eligibility_criteria         varchar(20) 
+profile                      varchar(100) 
+skills_required              varchar(100) 
+ctc_lpa                      decimal(5,2) 
+no_of_openings               int 
+no_of_students_placed        int 
+total_eligible_student       int 
+no_of_rounds_company_took    int 
+rounds_names                 varchar(255) 
+highest_elim_round           varchar(100) 
+highest_elim_count           int 
+conversion_percent           decimal(5,2)
 );
 
 -- ==========================================
@@ -59,8 +59,8 @@ CREATE TABLE student_academics (
     Sem8GPA      DOUBLE,
     FinalCGPA    DOUBLE CHECK (FinalCGPA BETWEEN 0 AND 10),
     ActiveBacklog INT DEFAULT 0 CHECK (ActiveBacklog >= 0),
-    Training     TEXT,
-    Status       TEXT,
+    Training     varchar(20) ,
+    Status       varchar(20) ,
     Criteria     INT,
     CONSTRAINT fk_student_academics FOREIGN KEY (StudentID) 
         REFERENCES student_records(StudentID) ON DELETE CASCADE
@@ -71,11 +71,11 @@ CREATE TABLE student_academics (
 -- ==========================================
 CREATE TABLE student_applicable (
     StudentID                          VARCHAR(20) PRIMARY KEY,
-    StudentName                        TEXT,
-    Branch                             TEXT,
-    Criteria                           TEXT,
-    is_academic_eligible               TEXT,
-    not_eligible_reason                TEXT,
+    StudentName                        varchar(50) ,
+    Branch                             varchar(20) ,
+    Criteria                           varchar(20) ,
+    is_academic_eligible               varchar(20) ,
+    not_eligible_reason                varchar(20) ,
     total_companies_for_him            INT DEFAULT 0,
     same_domain_company_count          INT DEFAULT 0,
     remaining_companies                INT DEFAULT 0,
@@ -113,10 +113,10 @@ CREATE TABLE student_attendance (
 -- ==========================================
 CREATE TABLE placed_student_record (
     StudentID             VARCHAR(20),
-    Name                  TEXT NOT NULL,
-    Branch                TEXT NOT NULL,
-    Hometown_City         TEXT,
-    SkillsHad             TEXT,
+    Name                  varchar(50)  NOT NULL,
+    Branch                varchar(20)  NOT NULL,
+    Hometown_City         varchar(20) ,
+    SkillsHad             varchar(20) ,
     ProfileSelected       TEXT NOT NULL,
     company_id            VARCHAR(20) NOT NULL,
     CTC_LPA               DOUBLE CHECK (CTC_LPA > 0),
