@@ -1,0 +1,901 @@
+﻿StudentID,StudentName,FatherName,Email,DOB,Gender,ProgramIntake,Branch,10thMarks,12thMarks,AdmissionType,EntranceExam,City,Pincode,ResidentialStatus
+STU001,Ishaan Dora,Priyansh Dugal,ishaan.dora79@gmail.com,11/25/2000,Male,B.Tech,CSE,70,73,Management,Yes,Basti,272001,Hostler
+STU002,Madhav Buch,Rania Dewan,madhav.buch72@gmail.com,11/2/2004,Female,B.Tech,IT,84,88,Regular,Yes,Azamgarh,272001,Hostler
+STU003,Shalv Sengupta,Arhaan Chaudhari,shalv.sengupta96@gmail.com,12/2/2002,Female,B.Tech,CSD,79,89,Regular,Yes,Barabanki,272001,Day Scholar
+STU004,Vihaan Dhar,Yuvraj  Gulati,vihaan.dhar11@gmail.com,8/1/2004,Female,B.Tech,CSE,92,89,Management,Yes,Lucknow,272001,Hostler
+STU005,Mahika Karnik,Jivika Sahni,mahika.karnik46@gmail.com,5/23/2002,Male,B.Tech,CSE,60,95,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU006,Onkar Madan,Shayak Khosla,onkar.madan20@gmail.com,9/2/2000,Male,B.Tech,EE,93,65,Regular,Yes,Raebareli,272001,Day Scholar
+STU007,Diya Sangha,Dishani Mann,diya.sangha47@gmail.com,1/6/2003,Female,B.Tech,CSD,82,79,Management,No,Deoria,272001,Hostler
+STU008,Darshit Varkey,Jhanvi Deshpande,darshit.varkey63@gmail.com,8/19/2003,Female,B.Tech,CSE,63,84,Lateral Entry,Yes,Deoria,272001,Day Scholar
+STU009,Ivana Vyas,Hunar Halder,ivana.vyas12@gmail.com,12/23/2002,Male,B.Tech,EE,70,75,Regular,Yes,Gorakhpur,272001,Hostler
+STU010,Ishita Das,Diya Agrawal,ishita.das4@gmail.com,1/7/2000,Female,B.Tech,ME,61,79,Regular,Yes,Gorakhpur,272001,Hostler
+STU011,Riya Vora,Piya Ratti,riya.vora37@gmail.com,3/13/2004,Male,B.Tech,EC,65,78,Regular,Yes,Barabanki,272001,Day Scholar
+STU012,Damini Guha,Nitya Sama,damini.guha78@gmail.com,3/20/2001,Male,B.Tech,EC,77,83,Management,No,Barabanki,272001,Day Scholar
+STU013,Stuvan Datta,Charvi Jani,stuvan.datta15@gmail.com,8/13/2002,Female,B.Tech,CSE-AIML,85,78,Regular,Yes,Lucknow,272001,Day Scholar
+STU014,Krish Mane,Ishita Dua,krish.mane27@gmail.com,4/12/2000,Female,B.Tech,Civil,87,69,Management,Yes,Faizabad,272001,Day Scholar
+STU015,Rati Khurana,Azad Dara,rati.khurana56@gmail.com,5/21/2000,Female,B.Tech,IT,74,89,Regular,Yes,Gorakhpur,272001,Hostler
+STU016,Khushi Halder,Krish Chandra,khushi.halder46@gmail.com,3/24/2000,Male,B.Tech,CSE,95,72,Regular,Yes,Jaunpur,272001,Hostler
+STU017,Gokul Krishnamurthy,Jayesh Hayre,gokul.krishnamurthy62@gmail.com,3/1/2000,Male,B.Tech,ME,72,75,Regular,Yes,Mau,272001,Day Scholar
+STU018,Dhanush Gupta,Advik Sehgal,dhanush.gupta60@gmail.com,9/6/2000,Male,B.Tech,EC,86,79,Regular,Yes,Mau,272001,Day Scholar
+STU019,Fateh Gandhi,Ahana  Manda,fateh.gandhi27@gmail.com,1/22/2000,Male,B.Tech,CSE,86,60,Regular,Yes,Sultanpur,272001,Hostler
+STU020,Heer Lala,Uthkarsh Gade,heer.lala36@gmail.com,1/27/2003,Male,B.Tech,EE,90,70,Regular,Yes,Raebareli,272001,Hostler
+STU021,Rania Suresh,Inaaya  Srinivasan,rania.suresh18@gmail.com,4/11/2000,Male,B.Tech,EC,71,90,Management,No,Raebareli,272001,Day Scholar
+STU022,Suhana Bhatt,Kiaan Sachar,suhana.bhatt69@gmail.com,7/22/2001,Female,B.Tech,IT,71,64,Management,No,Jaunpur,272001,Day Scholar
+STU023,Shray Madan,Sahil Kothari,shray.madan26@gmail.com,5/16/2001,Female,B.Tech,CSD,87,64,Regular,Yes,Barabanki,272001,Hostler
+STU024,Sahil Chada,Alia Arya,sahil.chada14@gmail.com,3/29/2002,Male,B.Tech,ME,65,75,Management,Yes,Faizabad,272001,Hostler
+STU025,Mannat Suri,Aaina Deshmukh,mannat.suri6@gmail.com,1/1/2003,Female,B.Tech,EC,81,64,Regular,Yes,Deoria,272001,Hostler
+STU026,Damini Issac,Misha Madan,damini.issac3@gmail.com,7/25/2003,Male,B.Tech,IT,91,74,Regular,Yes,Mau,272001,Day Scholar
+STU027,Bhavin Chander,Bhamini Venkatesh,bhavin.chander65@gmail.com,2/19/2005,Female,B.Tech,EE,70,81,Regular,Yes,Ballia,272001,Day Scholar
+STU028,Urvi Sehgal,Jayesh Sami,urvi.sehgal38@gmail.com,10/18/2000,Male,B.Tech,CSE-AIML,61,89,Regular,Yes,Faizabad,272001,Hostler
+STU029,Samiha Ravi,Jhanvi Bala,samiha.ravi5@gmail.com,6/2/2003,Female,B.Tech,IT,82,84,Regular,Yes,Barabanki,272001,Day Scholar
+STU030,Kartik Goswami,Nehmat Majumdar,kartik.goswami10@gmail.com,7/26/2001,Male,B.Tech,CSE,78,66,Regular,Yes,Lucknow,272001,Hostler
+STU031,Kimaya Sarraf,Yuvaan Butala,kimaya.sarraf71@gmail.com,8/28/2005,Male,B.Tech,CSE-AIML,94,93,Regular,Yes,Lucknow,272001,Day Scholar
+STU032,Saira Gokhale,Arhaan Bora,saira.gokhale50@gmail.com,5/2/2003,Male,B.Tech,EC,93,65,Regular,Yes,Azamgarh,272001,Day Scholar
+STU033,Oorja Raj,Samaira Tank,oorja.raj78@gmail.com,3/27/2003,Female,B.Tech,CSE,94,87,Management,Yes,Deoria,272001,Hostler
+STU034,Divyansh Yohannan,Misha Brar,divyansh.yohannan30@gmail.com,9/2/2001,Female,B.Tech,ME,84,94,Lateral Entry,Yes,Deoria,272001,Hostler
+STU035,Aaina Sachdev,Gatik Swamy,aaina.sachdev67@gmail.com,1/3/2003,Female,B.Tech,EC,90,87,Regular,Yes,Basti,272001,Day Scholar
+STU036,Ira Chhabra,Shayak Banik,ira.chhabra40@gmail.com,7/19/2002,Female,B.Tech,CSE,67,74,Regular,Yes,Deoria,272001,Hostler
+STU037,Miraan Bhakta,Amira Bassi,miraan.bhakta70@gmail.com,3/20/2000,Female,B.Tech,IT,87,81,Regular,Yes,Lucknow,272001,Hostler
+STU038,Ira Kade,Tiya Ghose,ira.kade70@gmail.com,1/16/2004,Male,B.Tech,CSE-AIML,61,92,Management,Yes,Sultanpur,272001,Hostler
+STU039,Mannat Apte,Gatik Wason,mannat.apte28@gmail.com,2/8/2004,Male,B.Tech,CSE,82,85,Regular,Yes,Raebareli,272001,Hostler
+STU040,Manjari Das,Biju Rao,manjari.das20@gmail.com,4/7/2003,Male,B.Tech,CSD,91,65,Regular,Yes,Faizabad,272001,Day Scholar
+STU041,Anay Guha,Ayesha Dhaliwal,anay.guha17@gmail.com,10/7/2004,Male,B.Tech,IT,60,89,Regular,Yes,Ballia,272001,Hostler
+STU042,Ivana Barman,Taimur Majumdar,ivana.barman77@gmail.com,3/11/2002,Male,B.Tech,CSD,64,95,Management,Yes,Faizabad,272001,Day Scholar
+STU043,Prisha Sood,Kabir Raja,prisha.sood47@gmail.com,10/17/2000,Male,B.Tech,CSE,86,69,Lateral Entry,No,Faizabad,272001,Hostler
+STU044,Gatik Bir,Ela Chaudry,gatik.bir41@gmail.com,5/7/2003,Female,B.Tech,EC,71,71,Management,Yes,Mau,272001,Hostler
+STU045,Nayantara Soman,Vivaan Vaidya,nayantara.soman39@gmail.com,2/11/2002,Female,B.Tech,EE,83,73,Regular,Yes,Barabanki,272001,Day Scholar
+STU046,Neysa Arya,Nakul Chopra,neysa.arya35@gmail.com,12/16/2004,Female,B.Tech,EE,62,87,Management,No,Lucknow,272001,Day Scholar
+STU047,Jayan Setty,Kabir Chander,jayan.setty73@gmail.com,11/9/2000,Male,B.Tech,EC,83,79,Regular,Yes,Barabanki,272001,Day Scholar
+STU048,Shlok Thaman,Umang Dubey,shlok.thaman44@gmail.com,9/29/2003,Female,B.Tech,EE,74,88,Regular,Yes,Raebareli,272001,Hostler
+STU049,Indrajit Tailor,Tiya Gandhi,indrajit.tailor57@gmail.com,1/19/2004,Female,B.Tech,EC,69,88,Regular,Yes,Raebareli,272001,Day Scholar
+STU050,Vedika Tak,Shanaya Bobal,vedika.tak61@gmail.com,10/14/2004,Male,B.Tech,EC,91,95,Regular,Yes,Basti,272001,Hostler
+STU051,Advik Kota,Umang Thakkar,advik.kota88@gmail.com,1/17/2000,Male,B.Tech,CSE,84,83,Regular,Yes,Azamgarh,272001,Hostler
+STU052,Nitara Mane,Azad Agate,nitara.mane2@gmail.com,7/15/2001,Female,B.Tech,EC,82,68,Management,Yes,Ballia,272001,Hostler
+STU053,Zeeshan Khanna,Mamooty Soni,zeeshan.khanna9@gmail.com,8/11/2000,Female,B.Tech,CSE,78,92,Regular,Yes,Azamgarh,272001,Hostler
+STU054,Lakshay Dhar,Dishani Dey,lakshay.dhar57@gmail.com,11/24/2002,Male,B.Tech,CSD,67,78,Regular,Yes,Sultanpur,272001,Hostler
+STU055,Dhanush Kar,Shanaya Dugar,dhanush.kar83@gmail.com,10/28/2003,Male,B.Tech,CSE-AIML,78,65,Regular,Yes,Barabanki,272001,Day Scholar
+STU056,Vardaniya Goswami,Baiju Bakshi,vardaniya.goswami40@gmail.com,6/21/2001,Female,B.Tech,CSD,90,87,Regular,Yes,Azamgarh,272001,Hostler
+STU057,Veer Basak,Farhan Kalita,veer.basak92@gmail.com,6/12/2000,Female,B.Tech,CSE,60,82,Regular,Yes,Deoria,272001,Day Scholar
+STU058,Nitara Varughese,Vihaan Sankar,nitara.varughese35@gmail.com,10/3/2001,Male,B.Tech,IT,79,77,Management,No,Faizabad,272001,Hostler
+STU059,Anya Loke,Prisha Iyer,anya.loke69@gmail.com,6/2/2001,Male,B.Tech,IT,93,90,Regular,Yes,Gorakhpur,272001,Hostler
+STU060,Inaaya  Bhavsar,Gatik Bir,inaaya..bhavsar89@gmail.com,5/17/2003,Female,B.Tech,CSD,67,61,Regular,Yes,Faizabad,272001,Day Scholar
+STU061,Nayantara Lad,Trisha Gade,nayantara.lad90@gmail.com,10/25/2003,Female,B.Tech,EE,83,80,Regular,Yes,Barabanki,272001,Hostler
+STU062,Armaan Tank,Kashvi Lal,armaan.tank25@gmail.com,2/7/2000,Female,B.Tech,CSE,88,93,Regular,Yes,Raebareli,272001,Hostler
+STU063,Shlok Rao,Samaira Sha,shlok.rao32@gmail.com,6/1/2005,Male,B.Tech,ME,80,82,Regular,Yes,Lucknow,272001,Hostler
+STU064,Emir Edwin,Mamooty Sem,emir.edwin13@gmail.com,5/1/2002,Male,B.Tech,EE,60,76,Regular,Yes,Mau,272001,Hostler
+STU065,Stuvan Dixit,Riya Sura,stuvan.dixit27@gmail.com,1/26/2002,Male,B.Tech,IT,67,86,Regular,Yes,Raebareli,272001,Hostler
+STU066,Kabir Mane,Pari Halder,kabir.mane56@gmail.com,6/7/2000,Male,B.Tech,CSE-AIML,93,84,Regular,Yes,Ballia,272001,Day Scholar
+STU067,Kabir Bahl,Rhea Dewan,kabir.bahl80@gmail.com,8/13/2000,Female,B.Tech,ME,87,73,Regular,Yes,Lucknow,272001,Day Scholar
+STU068,Divyansh Sule,Samar Bajaj,divyansh.sule49@gmail.com,4/17/2001,Female,B.Tech,CSE,89,72,Regular,Yes,Jaunpur,272001,Day Scholar
+STU069,Aaryahi Venkatesh,Khushi Bhargava,aaryahi.venkatesh90@gmail.com,11/12/2001,Female,B.Tech,CSE,88,88,Regular,Yes,Jaunpur,272001,Hostler
+STU070,Advika Sengupta,Fateh Swamy,advika.sengupta40@gmail.com,1/20/2003,Male,B.Tech,Civil,67,69,Regular,Yes,Sultanpur,272001,Day Scholar
+STU071,Veer Choudhry,Reyansh Kannan,veer.choudhry8@gmail.com,5/15/2005,Male,B.Tech,CSE,67,85,Regular,Yes,Basti,272001,Hostler
+STU072,Nirvaan Loyal,Romil Dara,nirvaan.loyal11@gmail.com,10/15/2002,Male,B.Tech,CSE,73,83,Regular,Yes,Raebareli,272001,Day Scholar
+STU073,Arhaan Korpal,Indrans Chander,arhaan.korpal40@gmail.com,8/9/2001,Male,B.Tech,CSD,78,83,Regular,Yes,Deoria,272001,Hostler
+STU074,Arhaan Bhardwaj,Purab Ram,arhaan.bhardwaj31@gmail.com,5/26/2004,Male,B.Tech,CSE-AIML,88,67,Regular,Yes,Gorakhpur,272001,Hostler
+STU075,Arhaan Raja,Vaibhav Savant,arhaan.raja57@gmail.com,6/4/2000,Male,B.Tech,CSE,70,63,Regular,Yes,Barabanki,272001,Day Scholar
+STU076,Alia Chatterjee,Veer Soman,alia.chatterjee25@gmail.com,4/25/2002,Female,B.Tech,CSD,84,65,Management,No,Lucknow,272001,Hostler
+STU077,Aniruddh Gill,Indranil Varghese,aniruddh.gill92@gmail.com,2/28/2004,Male,B.Tech,CSE,69,88,Regular,Yes,Lucknow,272001,Day Scholar
+STU078,Kismat Walla,Ritvik Shere,kismat.walla50@gmail.com,11/18/2001,Male,B.Tech,CSD,60,83,Regular,Yes,Mau,272001,Hostler
+STU079,Nayantara Thaman,Arhaan Bhagat,nayantara.thaman45@gmail.com,9/20/2001,Female,B.Tech,ME,80,62,Regular,Yes,Gorakhpur,272001,Hostler
+STU080,Manjari Bhatt,Mamooty Seshadri,manjari.bhatt21@gmail.com,2/19/2004,Male,B.Tech,IT,67,71,Regular,Yes,Lucknow,272001,Hostler
+STU081,Saanvi Bail,Jhanvi Johal,saanvi.bail71@gmail.com,4/25/2000,Female,B.Tech,IT,76,77,Regular,Yes,Deoria,272001,Day Scholar
+STU082,Ryan Goel,Anika Sawhney,ryan.goel2@gmail.com,3/13/2004,Male,B.Tech,ME,78,64,Regular,Yes,Azamgarh,272001,Hostler
+STU083,Aradhya Dixit,Anvi Mani,aradhya.dixit2@gmail.com,11/16/2002,Female,B.Tech,EE,80,74,Management,No,Azamgarh,272001,Hostler
+STU084,Mahika Ahuja,Samarth Sibal,mahika.ahuja66@gmail.com,7/31/2004,Male,B.Tech,IT,94,92,Regular,Yes,Barabanki,272001,Hostler
+STU085,Ishita D’Alia,Riya Balasubramanian,ishita.d’alia45@gmail.com,6/25/2000,Female,B.Tech,CSE,75,83,Regular,Yes,Deoria,272001,Hostler
+STU086,Adira Arora,Piya Jain,adira.arora46@gmail.com,7/12/2000,Male,B.Tech,CSE,86,86,Management,Yes,Jaunpur,272001,Day Scholar
+STU087,Himmat Hora,Madhav Bobal,himmat.hora4@gmail.com,11/4/2000,Female,B.Tech,CSD,60,70,Regular,Yes,Jaunpur,272001,Hostler
+STU088,Nehmat Iyer,Kiaan Behl,nehmat.iyer93@gmail.com,2/26/2000,Female,B.Tech,IT,64,63,Regular,Yes,Raebareli,272001,Day Scholar
+STU089,Yuvraj  Mannan,Kanav Ganguly,yuvraj..mannan31@gmail.com,2/8/2000,Female,B.Tech,CSD,95,78,Regular,Yes,Azamgarh,272001,Hostler
+STU090,Darshit Sodhi,Nirvi Gera,darshit.sodhi45@gmail.com,4/25/2004,Male,B.Tech,CSE,61,73,Regular,Yes,Raebareli,272001,Day Scholar
+STU091,Hazel Goda,Navya Mall,hazel.goda86@gmail.com,10/21/2000,Female,B.Tech,CSE,85,91,Lateral Entry,No,Deoria,272001,Hostler
+STU092,Mehul Bath,Raunak Virk,mehul.bath97@gmail.com,12/15/2001,Female,B.Tech,CSE,67,81,Regular,Yes,Raebareli,272001,Day Scholar
+STU093,Ivan Sabharwal,Madhav Bath,ivan.sabharwal12@gmail.com,4/26/2004,Male,B.Tech,CSD,65,68,Regular,Yes,Azamgarh,272001,Hostler
+STU094,Lakshay Bhargava,Ryan Chatterjee,lakshay.bhargava69@gmail.com,6/8/2000,Female,B.Tech,CSE-AIML,60,93,Regular,Yes,Lucknow,272001,Day Scholar
+STU095,Uthkarsh Keer,Divyansh Sridhar,uthkarsh.keer1@gmail.com,6/18/2000,Female,B.Tech,CSE-AIML,63,87,Regular,Yes,Sultanpur,272001,Day Scholar
+STU096,Samaira Konda,Zara Aggarwal,samaira.konda88@gmail.com,4/8/2002,Male,B.Tech,CSD,65,95,Regular,Yes,Sultanpur,272001,Day Scholar
+STU097,Ishaan Seshadri,Trisha Thakur,ishaan.seshadri27@gmail.com,1/20/2000,Male,B.Tech,CSE,79,93,Regular,Yes,Raebareli,272001,Day Scholar
+STU098,Badal Sama,Rati Ranganathan,badal.sama7@gmail.com,10/6/2003,Female,B.Tech,CSD,78,88,Regular,Yes,Lucknow,272001,Day Scholar
+STU099,Saira Toor,Sara Agarwal,saira.toor1@gmail.com,4/14/2002,Female,B.Tech,Civil,81,72,Regular,Yes,Jaunpur,272001,Day Scholar
+STU100,Tejas Manne,Priyansh Ganesan,tejas.manne31@gmail.com,8/19/2004,Female,B.Tech,CSE,86,82,Regular,Yes,Deoria,272001,Hostler
+STU101,Reyansh Rajagopal,Krish Gade,reyansh.rajagopal65@gmail.com,2/6/2000,Male,B.Tech,CSD,94,67,Regular,Yes,Lucknow,272001,Day Scholar
+STU102,Nayantara Raman,Raghav Chauhan,nayantara.raman58@gmail.com,5/10/2000,Male,B.Tech,CSD,75,86,Lateral Entry,No,Deoria,272001,Hostler
+STU103,Trisha Ghose,Advik Master,trisha.ghose13@gmail.com,12/15/2000,Male,B.Tech,IT,68,68,Management,Yes,Raebareli,272001,Hostler
+STU104,Jhanvi De,Madhav Bhandari,jhanvi.de21@gmail.com,5/8/2001,Male,B.Tech,CSD,83,81,Management,No,Deoria,272001,Day Scholar
+STU105,Lagan Mander,Samar Thakkar,lagan.mander87@gmail.com,9/10/2001,Female,B.Tech,CSE,83,90,Management,Yes,Raebareli,272001,Day Scholar
+STU106,Lavanya Suresh,Rhea Chad,lavanya.suresh73@gmail.com,7/14/2003,Female,B.Tech,EE,83,69,Management,Yes,Faizabad,272001,Hostler
+STU107,Hiran Shroff,Prisha Aggarwal,hiran.shroff31@gmail.com,2/22/2004,Female,B.Tech,CSD,62,66,Regular,Yes,Jaunpur,272001,Hostler
+STU108,Stuvan Deshmukh,Aaina Bawa,stuvan.deshmukh48@gmail.com,3/31/2000,Male,B.Tech,CSE,84,90,Regular,Yes,Basti,272001,Day Scholar
+STU109,Samaira Ravi,Seher Rege,samaira.ravi34@gmail.com,11/5/2001,Male,B.Tech,CSE,89,76,Regular,Yes,Jaunpur,272001,Hostler
+STU110,Misha Koshy,Reyansh Chawla,misha.koshy99@gmail.com,3/21/2003,Female,B.Tech,IT,83,81,Management,No,Lucknow,272001,Day Scholar
+STU111,Kanav Konda,Navya Sen,kanav.konda55@gmail.com,1/17/2003,Male,B.Tech,CSD,60,84,Lateral Entry,No,Barabanki,272001,Hostler
+STU112,Hrishita Raja,Aarav Sampath,hrishita.raja17@gmail.com,4/5/2004,Male,B.Tech,IT,84,88,Regular,Yes,Barabanki,272001,Day Scholar
+STU113,Madhup Soni,Mohanlal Sem,madhup.soni73@gmail.com,2/21/2003,Female,B.Tech,CSE-AIML,83,74,Regular,Yes,Ballia,272001,Day Scholar
+STU114,Reyansh Acharya,Myra Goswami,reyansh.acharya23@gmail.com,12/29/2000,Male,B.Tech,CSE,95,95,Regular,Yes,Lucknow,272001,Hostler
+STU115,Trisha Chawla,Raghav Bir,trisha.chawla79@gmail.com,8/20/2000,Male,B.Tech,IT,71,80,Regular,Yes,Faizabad,272001,Day Scholar
+STU116,Zaina Gara,Anahi Boase,zaina.gara10@gmail.com,1/15/2003,Male,B.Tech,EC,93,87,Regular,Yes,Gorakhpur,272001,Hostler
+STU117,Nirvi Sandhu,Stuvan Sarkar,nirvi.sandhu10@gmail.com,4/29/2005,Male,B.Tech,CSD,68,78,Regular,Yes,Basti,272001,Day Scholar
+STU118,Ishita Warrior,Rania Gala,ishita.warrior27@gmail.com,12/24/2000,Female,B.Tech,CSE,94,90,Regular,Yes,Mau,272001,Day Scholar
+STU119,Ira Deshpande,Jhanvi Comar,ira.deshpande75@gmail.com,10/9/2000,Female,B.Tech,IT,60,69,Regular,Yes,Ballia,272001,Hostler
+STU120,Nehmat Venkataraman,Vaibhav Wason,nehmat.venkataraman49@gmail.com,1/17/2004,Female,B.Tech,IT,62,94,Regular,Yes,Sultanpur,272001,Hostler
+STU121,Kabir Iyer,Baiju Jaggi,kabir.iyer23@gmail.com,7/19/2000,Female,B.Tech,EE,94,95,Management,No,Gorakhpur,272001,Hostler
+STU122,Manikya Dass,Zaina Ramachandran,manikya.dass86@gmail.com,2/15/2005,Male,B.Tech,CSE,91,73,Regular,Yes,Faizabad,272001,Day Scholar
+STU123,Eva Bhattacharyya,Indrajit Dhaliwal,eva.bhattacharyya60@gmail.com,6/10/2002,Male,B.Tech,EC,62,77,Regular,Yes,Mau,272001,Day Scholar
+STU124,Taran Malhotra,Vihaan Dugar,taran.malhotra96@gmail.com,5/28/2001,Female,B.Tech,EE,79,93,Management,No,Faizabad,272001,Hostler
+STU125,Aarush Raman,Mehul Barad,aarush.raman48@gmail.com,12/7/2004,Female,B.Tech,IT,78,66,Regular,Yes,Lucknow,272001,Hostler
+STU126,Adah Doctor,Faiyaz Bassi,adah.doctor5@gmail.com,1/1/2001,Female,B.Tech,IT,95,72,Regular,Yes,Ballia,272001,Hostler
+STU127,Indranil Ahuja,Eva Agrawal,indranil.ahuja7@gmail.com,5/24/2000,Male,B.Tech,EE,67,90,Regular,Yes,Sultanpur,272001,Hostler
+STU128,Sara Soman,Arnav Chand,sara.soman73@gmail.com,7/13/2000,Female,B.Tech,CSD,92,84,Regular,Yes,Azamgarh,272001,Hostler
+STU129,Dhruv Sem,Kaira Kaur,dhruv.sem6@gmail.com,8/7/2004,Male,B.Tech,CSE,76,76,Regular,Yes,Sultanpur,272001,Hostler
+STU130,Ranbir Banerjee,Yashvi Konda,ranbir.banerjee21@gmail.com,9/7/2001,Female,B.Tech,CSD,87,91,Management,Yes,Raebareli,272001,Hostler
+STU131,Shalv Chakrabarti,Himmat Krishnamurthy,shalv.chakrabarti45@gmail.com,10/10/2001,Male,B.Tech,CSE,72,74,Lateral Entry,Yes,Ballia,272001,Day Scholar
+STU132,Tejas Kadakia,Yashvi Hayre,tejas.kadakia88@gmail.com,8/28/2002,Female,B.Tech,CSE,78,95,Management,Yes,Gorakhpur,272001,Day Scholar
+STU133,Dishani Tara,Aayush Khalsa,dishani.tara8@gmail.com,5/18/2004,Female,B.Tech,EC,75,77,Regular,Yes,Gorakhpur,272001,Hostler
+STU134,Rohan Sarin,Kaira Korpal,rohan.sarin12@gmail.com,1/22/2000,Male,B.Tech,CSD,63,60,Regular,Yes,Azamgarh,272001,Day Scholar
+STU135,Rasha Chopra,Seher Dua,rasha.chopra23@gmail.com,11/6/2002,Female,B.Tech,EC,93,80,Regular,Yes,Gorakhpur,272001,Hostler
+STU136,Sara Sani,Renee Magar,sara.sani67@gmail.com,2/16/2003,Female,B.Tech,EE,88,84,Regular,Yes,Lucknow,272001,Hostler
+STU137,Taimur Ramanathan,Kiara Tella,taimur.ramanathan69@gmail.com,1/2/2004,Male,B.Tech,ME,78,80,Regular,Yes,Ballia,272001,Hostler
+STU138,Piya Roy,Nitara Saini,piya.roy20@gmail.com,9/24/2000,Male,B.Tech,EE,92,62,Regular,Yes,Lucknow,272001,Hostler
+STU139,Samaira Gala,Ayesha Chandra,samaira.gala47@gmail.com,5/11/2001,Female,B.Tech,EE,60,68,Regular,Yes,Deoria,272001,Day Scholar
+STU140,Rasha Ramakrishnan,Hunar Divan,rasha.ramakrishnan38@gmail.com,8/19/2005,Male,B.Tech,CSE,76,77,Regular,Yes,Raebareli,272001,Day Scholar
+STU141,Tejas Bajwa,Mohanlal Dhawan,tejas.bajwa83@gmail.com,6/20/2002,Female,B.Tech,IT,90,83,Management,Yes,Ballia,272001,Day Scholar
+STU142,Samiha Varma,Samiha Chawla,samiha.varma66@gmail.com,9/5/2000,Male,B.Tech,CSE-AIML,92,94,Regular,Yes,Jaunpur,272001,Hostler
+STU143,Akarsh Reddy,Ela Bedi,akarsh.reddy26@gmail.com,11/19/2000,Male,B.Tech,CSD,85,67,Lateral Entry,Yes,Gorakhpur,272001,Hostler
+STU144,Anay Date,Nakul Borra,anay.date49@gmail.com,6/3/2003,Male,B.Tech,IT,60,71,Regular,Yes,Lucknow,272001,Day Scholar
+STU145,Yuvraj  Bhandari,Urvi Sen,yuvraj..bhandari43@gmail.com,5/19/2000,Female,B.Tech,CSE-AIML,60,83,Regular,Yes,Barabanki,272001,Hostler
+STU146,Ishita Mann,Purab Doshi,ishita.mann98@gmail.com,2/11/2004,Male,B.Tech,IT,66,68,Management,No,Mau,272001,Hostler
+STU147,Kaira Tara,Navya Saxena,kaira.tara36@gmail.com,8/24/2005,Female,B.Tech,IT,62,71,Regular,Yes,Barabanki,272001,Day Scholar
+STU148,Kashvi Dara,Vaibhav Amble,kashvi.dara68@gmail.com,2/10/2000,Female,B.Tech,CSE-AIML,84,88,Regular,Yes,Basti,272001,Day Scholar
+STU149,Amira Kohli,Elakshi Walia,amira.kohli76@gmail.com,3/30/2002,Female,B.Tech,CSE,93,69,Management,Yes,Ballia,272001,Hostler
+STU150,Onkar Golla,Gatik Thakkar,onkar.golla44@gmail.com,11/14/2001,Female,B.Tech,IT,67,62,Regular,Yes,Deoria,272001,Day Scholar
+STU151,Piya Kar,Baiju Srivastava,piya.kar95@gmail.com,12/1/2000,Male,B.Tech,CSD,87,79,Lateral Entry,Yes,Jaunpur,272001,Hostler
+STU152,Manikya Sidhu,Aarush Gole,manikya.sidhu9@gmail.com,8/9/2005,Female,B.Tech,CSE,69,94,Lateral Entry,No,Ballia,272001,Hostler
+STU153,Yashvi Apte,Tara Lall,yashvi.apte91@gmail.com,4/15/2005,Male,B.Tech,EE,94,68,Regular,Yes,Mau,272001,Day Scholar
+STU154,Oorja Bandi,Kartik Saxena,oorja.bandi38@gmail.com,12/23/2003,Female,B.Tech,CSE-AIML,95,74,Regular,Yes,Basti,272001,Day Scholar
+STU155,Neysa Contractor,Saira Mann,neysa.contractor80@gmail.com,9/30/2002,Male,B.Tech,CSE-AIML,71,83,Lateral Entry,No,Lucknow,272001,Hostler
+STU156,Anika Baria,Azad Andra,anika.baria71@gmail.com,10/30/2002,Male,B.Tech,ME,76,85,Management,Yes,Lucknow,272001,Hostler
+STU157,Tara Ratti,Jivika Shah,tara.ratti58@gmail.com,10/4/2003,Male,B.Tech,ME,77,85,Management,No,Gorakhpur,272001,Hostler
+STU158,Jivin Gole,Ryan Dass,jivin.gole83@gmail.com,3/17/2003,Male,B.Tech,IT,83,76,Regular,Yes,Deoria,272001,Hostler
+STU159,Nitya Bansal,Eshani Ranganathan,nitya.bansal50@gmail.com,7/20/2000,Female,B.Tech,CSD,60,84,Regular,Yes,Lucknow,272001,Hostler
+STU160,Aradhya Chhabra,Trisha Butala,aradhya.chhabra59@gmail.com,4/28/2005,Male,B.Tech,CSE,74,80,Regular,Yes,Lucknow,272001,Hostler
+STU161,Vritika Andra,Zoya Varghese,vritika.andra64@gmail.com,9/29/2000,Female,B.Tech,IT,77,91,Regular,Yes,Jaunpur,272001,Hostler
+STU162,Eshani Lad,Zara Mammen,eshani.lad88@gmail.com,8/26/2000,Male,B.Tech,CSD,73,86,Regular,Yes,Ballia,272001,Hostler
+STU163,Faiyaz Sandhu,Jayant Iyengar,faiyaz.sandhu74@gmail.com,6/17/2000,Male,B.Tech,EC,87,82,Management,No,Barabanki,272001,Day Scholar
+STU164,Azad Swamy,Krish Mani,azad.swamy13@gmail.com,6/22/2004,Male,B.Tech,CSD,65,85,Regular,Yes,Raebareli,272001,Day Scholar
+STU165,Amira Loyal,Jayan Mani,amira.loyal94@gmail.com,7/26/2004,Male,B.Tech,IT,80,89,Regular,Yes,Gorakhpur,272001,Hostler
+STU166,Kashvi Trivedi,Priyansh Sankar,kashvi.trivedi32@gmail.com,6/12/2000,Female,B.Tech,CSD,84,87,Management,No,Sultanpur,272001,Hostler
+STU167,Anaya Deol,Alia Bhasin,anaya.deol81@gmail.com,11/19/2000,Male,B.Tech,CSE-AIML,81,78,Regular,Yes,Deoria,272001,Day Scholar
+STU168,Shray Batra,Purab Hegde,shray.batra60@gmail.com,9/19/2001,Male,B.Tech,CSE-AIML,70,94,Regular,Yes,Faizabad,272001,Day Scholar
+STU169,Arnav Kant,Oorja Edwin,arnav.kant89@gmail.com,1/23/2001,Female,B.Tech,CSE,70,83,Regular,Yes,Barabanki,272001,Day Scholar
+STU170,Bhamini Cherian,Alisha Solanki,bhamini.cherian73@gmail.com,6/30/2002,Female,B.Tech,EC,71,88,Regular,Yes,Mau,272001,Day Scholar
+STU171,Ojas Rout,Pranay Goel,ojas.rout84@gmail.com,3/27/2001,Male,B.Tech,Civil,86,63,Regular,Yes,Lucknow,272001,Day Scholar
+STU172,Aradhya Keer,Hrishita D’Alia,aradhya.keer12@gmail.com,3/15/2000,Female,B.Tech,EC,67,90,Management,No,Gorakhpur,272001,Day Scholar
+STU173,Ishita Bansal,Misha Kaur,ishita.bansal30@gmail.com,12/29/2003,Female,B.Tech,IT,61,67,Regular,Yes,Jaunpur,272001,Hostler
+STU174,Lagan Sarna,Prerak Zachariah,lagan.sarna29@gmail.com,7/4/2001,Male,B.Tech,EE,86,62,Management,Yes,Raebareli,272001,Hostler
+STU175,Ahana  Barman,Vihaan Bhagat,ahana..barman86@gmail.com,4/14/2001,Male,B.Tech,IT,74,77,Management,No,Ballia,272001,Hostler
+STU176,Kartik Bandi,Dharmajan Tak,kartik.bandi74@gmail.com,4/5/2001,Female,B.Tech,CSE,85,61,Regular,Yes,Azamgarh,272001,Day Scholar
+STU177,Aaina Golla,Amani Walla,aaina.golla66@gmail.com,4/18/2000,Male,B.Tech,IT,94,64,Regular,Yes,Jaunpur,272001,Day Scholar
+STU178,Prerak Raman,Anya Mahal,prerak.raman29@gmail.com,1/7/2001,Female,B.Tech,EE,73,74,Regular,Yes,Ballia,272001,Hostler
+STU179,Umang Brahmbhatt,Sahil Tara,umang.brahmbhatt39@gmail.com,7/21/2000,Female,B.Tech,Civil,84,79,Regular,Yes,Azamgarh,272001,Hostler
+STU180,Shanaya Rau,Farhan Gulati,shanaya.rau40@gmail.com,10/6/2001,Male,B.Tech,CSE,87,69,Management,No,Faizabad,272001,Hostler
+STU181,Raunak Sathe,Alisha Kant,raunak.sathe91@gmail.com,12/21/2001,Female,B.Tech,EC,80,94,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU182,Anay Agate,Nakul Kalita,anay.agate17@gmail.com,9/30/2004,Female,B.Tech,CSD,72,86,Lateral Entry,Yes,Deoria,272001,Hostler
+STU183,Sana Chaudhari,Manikya Manda,sana.chaudhari45@gmail.com,8/3/2002,Male,B.Tech,CSE,71,64,Regular,Yes,Jaunpur,272001,Hostler
+STU184,Jayant Chowdhury,Ela Wali,jayant.chowdhury78@gmail.com,11/19/2001,Female,B.Tech,CSD,68,76,Regular,Yes,Barabanki,272001,Day Scholar
+STU185,Raghav Bedi,Mishti Dhar,raghav.bedi60@gmail.com,3/23/2001,Male,B.Tech,ME,63,64,Regular,Yes,Lucknow,272001,Hostler
+STU186,Biju Sinha,Dishani Khare,biju.sinha93@gmail.com,12/30/2002,Female,B.Tech,CSE,78,63,Regular,Yes,Jaunpur,272001,Hostler
+STU187,Navya Sachdeva,Zeeshan Sunder,navya.sachdeva69@gmail.com,9/16/2000,Female,B.Tech,CSE,93,66,Regular,Yes,Barabanki,272001,Hostler
+STU188,Riaan Kakar,Chirag Kadakia,riaan.kakar72@gmail.com,2/10/2000,Male,B.Tech,CSE,85,68,Management,No,Sultanpur,272001,Hostler
+STU189,Navya Bhasin,Akarsh Dass,navya.bhasin72@gmail.com,4/6/2004,Male,B.Tech,EC,61,81,Regular,Yes,Faizabad,272001,Day Scholar
+STU190,Dishani Vaidya,Hridaan Bal,dishani.vaidya72@gmail.com,7/15/2000,Male,B.Tech,CSD,79,66,Management,No,Raebareli,272001,Hostler
+STU191,Jivin Rao,Aarna Sarraf,jivin.rao44@gmail.com,8/14/2001,Female,B.Tech,CSD,60,86,Regular,Yes,Ballia,272001,Day Scholar
+STU192,Indrajit Char,Kiara Cherian,indrajit.char78@gmail.com,3/5/2003,Female,B.Tech,CSD,89,92,Regular,Yes,Basti,272001,Day Scholar
+STU193,Hrishita Samra,Jiya Jain,hrishita.samra18@gmail.com,3/2/2003,Male,B.Tech,CSD,81,87,Regular,Yes,Raebareli,272001,Day Scholar
+STU194,Trisha Subramanian,Amani Krishna,trisha.subramanian45@gmail.com,4/22/2005,Female,B.Tech,IT,62,66,Regular,Yes,Mau,272001,Hostler
+STU195,Purab Sekhon,Madhav Zachariah,purab.sekhon84@gmail.com,12/21/2000,Male,B.Tech,CSE-AIML,83,87,Regular,Yes,Azamgarh,272001,Hostler
+STU196,Sumer Chakrabarti,Pranay Chaudhry,sumer.chakrabarti78@gmail.com,4/20/2001,Male,B.Tech,IT,60,62,Regular,Yes,Deoria,272001,Hostler
+STU197,Elakshi Saran,Yasmin Bhandari,elakshi.saran11@gmail.com,11/26/2001,Male,B.Tech,CSD,79,76,Regular,Yes,Barabanki,272001,Hostler
+STU198,Tarini Doshi,Sana Sunder,tarini.doshi90@gmail.com,12/28/2001,Male,B.Tech,CSE-AIML,72,92,Regular,Yes,Faizabad,272001,Hostler
+STU199,Advik Hora,Shlok Wable,advik.hora51@gmail.com,5/8/2002,Male,B.Tech,CSE,77,80,Regular,Yes,Sultanpur,272001,Hostler
+STU200,Kismat Chada,Shray Srinivas,kismat.chada69@gmail.com,6/10/2000,Female,B.Tech,CSE,78,88,Management,Yes,Ballia,272001,Hostler
+STU201,Mishti Agarwal,Shamik Sahni,mishti.agarwal84@gmail.com,5/18/2004,Male,B.Tech,EE,80,91,Regular,Yes,Ballia,272001,Hostler
+STU202,Ryan Kata,Reyansh Som,ryan.kata39@gmail.com,7/11/2000,Female,B.Tech,EE,74,88,Regular,Yes,Raebareli,272001,Hostler
+STU203,Indrajit Uppal,Advika Bala,indrajit.uppal21@gmail.com,8/2/2001,Male,B.Tech,CSE,76,63,Regular,Yes,Sultanpur,272001,Hostler
+STU204,Shalv Mani,Tara Kadakia,shalv.mani87@gmail.com,3/10/2000,Male,B.Tech,Civil,62,88,Regular,Yes,Ballia,272001,Hostler
+STU205,Kiara Bose,Heer Barad,kiara.bose97@gmail.com,10/3/2001,Male,B.Tech,CSE-AIML,76,87,Regular,Yes,Lucknow,272001,Hostler
+STU206,Taimur Bandi,Pari Sethi,taimur.bandi68@gmail.com,10/6/2001,Male,B.Tech,CSE,91,95,Management,No,Azamgarh,272001,Day Scholar
+STU207,Lakshit Bhakta,Jayan Dugal,lakshit.bhakta19@gmail.com,5/22/2005,Male,B.Tech,CSE-AIML,91,79,Regular,Yes,Ballia,272001,Day Scholar
+STU208,Ritvik Reddy,Zara Guha,ritvik.reddy4@gmail.com,9/11/2000,Male,B.Tech,CSE,75,87,Regular,Yes,Deoria,272001,Day Scholar
+STU209,Vidur Singhal,Faiyaz Rao,vidur.singhal93@gmail.com,10/25/2001,Male,B.Tech,EE,94,73,Regular,Yes,Deoria,272001,Hostler
+STU210,Yuvraj  Sridhar,Vihaan Ghose,yuvraj..sridhar27@gmail.com,6/16/2005,Female,B.Tech,IT,79,87,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU211,Lavanya Mannan,Parinaaz Randhawa,lavanya.mannan31@gmail.com,8/6/2000,Female,B.Tech,EC,64,79,Management,No,Deoria,272001,Day Scholar
+STU212,Shayak Bansal,Farhan Sridhar,shayak.bansal70@gmail.com,5/5/2004,Female,B.Tech,ME,86,76,Regular,Yes,Deoria,272001,Day Scholar
+STU213,Adira Kakar,Siya Ganguly,adira.kakar31@gmail.com,7/17/2000,Male,B.Tech,CSE,95,80,Regular,Yes,Sultanpur,272001,Day Scholar
+STU214,Rhea Bumb,Mannat Sheth,rhea.bumb30@gmail.com,10/5/2004,Female,B.Tech,IT,90,72,Regular,Yes,Deoria,272001,Hostler
+STU215,Shamik Suresh,Lakshit Tank,shamik.suresh38@gmail.com,8/9/2000,Female,B.Tech,CSD,65,88,Regular,Yes,Sultanpur,272001,Hostler
+STU216,Vivaan Garde,Ranbir Joshi,vivaan.garde74@gmail.com,12/11/2001,Male,B.Tech,Civil,80,89,Management,Yes,Barabanki,272001,Hostler
+STU217,Tarini Saran,Hridaan Contractor,tarini.saran9@gmail.com,6/5/2005,Female,B.Tech,CSE,60,61,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU218,Lavanya Basu,Devansh Sethi,lavanya.basu25@gmail.com,9/21/2000,Male,B.Tech,EC,65,93,Regular,Yes,Basti,272001,Day Scholar
+STU219,Suhana Mann,Saanvi Sibal,suhana.mann44@gmail.com,11/1/2000,Female,B.Tech,EC,81,64,Management,No,Mau,272001,Day Scholar
+STU220,Seher Handa,Taran Dhar,seher.handa30@gmail.com,1/18/2003,Male,B.Tech,EE,84,83,Regular,Yes,Deoria,272001,Hostler
+STU221,Seher Badami,Sara Tailor,seher.badami48@gmail.com,11/25/2001,Male,B.Tech,CSE,60,75,Regular,Yes,Deoria,272001,Hostler
+STU222,Sahil Badami,Azad Dada,sahil.badami72@gmail.com,5/22/2004,Male,B.Tech,EE,77,60,Regular,Yes,Gorakhpur,272001,Hostler
+STU223,Anvi Kumar,Indrans Malhotra,anvi.kumar10@gmail.com,3/31/2005,Male,B.Tech,CSE,74,94,Management,No,Raebareli,272001,Day Scholar
+STU224,Dhanuk Maharaj,Amira Borde,dhanuk.maharaj89@gmail.com,6/16/2000,Male,B.Tech,CSE-AIML,75,90,Management,No,Azamgarh,272001,Hostler
+STU225,Ishaan Rastogi,Urvi Dada,ishaan.rastogi48@gmail.com,12/29/2002,Female,B.Tech,CSD,87,82,Regular,Yes,Raebareli,272001,Day Scholar
+STU226,Saira Barad,Diya Chacko,saira.barad43@gmail.com,12/13/2002,Female,B.Tech,CSE,84,92,Regular,Yes,Barabanki,272001,Day Scholar
+STU227,Ishaan Sharaf,Neelofar Deo,ishaan.sharaf28@gmail.com,10/13/2000,Male,B.Tech,CSE,71,85,Regular,Yes,Ballia,272001,Hostler
+STU228,Tarini Chanda,Raghav Devan,tarini.chanda30@gmail.com,5/4/2004,Female,B.Tech,CSE,87,72,Regular,Yes,Barabanki,272001,Day Scholar
+STU229,Kismat Sengupta,Uthkarsh Vig,kismat.sengupta89@gmail.com,6/19/2000,Female,B.Tech,IT,69,88,Regular,Yes,Sultanpur,272001,Hostler
+STU230,Ehsaan Sandhu,Adah Kar,ehsaan.sandhu8@gmail.com,4/26/2005,Female,B.Tech,Civil,82,74,Management,Yes,Lucknow,272001,Day Scholar
+STU231,Rohan Sule,Bhavin Chaudhuri,rohan.sule90@gmail.com,7/8/2001,Male,B.Tech,CSD,74,62,Regular,Yes,Basti,272001,Day Scholar
+STU232,Eshani Walia,Anya Ramachandran,eshani.walia18@gmail.com,3/6/2001,Male,B.Tech,CSD,77,92,Management,No,Mau,272001,Hostler
+STU233,Hunar Ahluwalia,Kanav Bhandari,hunar.ahluwalia58@gmail.com,7/29/2005,Male,B.Tech,CSD,79,88,Regular,Yes,Mau,272001,Hostler
+STU234,Divit Golla,Romil Sachdeva,divit.golla16@gmail.com,11/20/2000,Female,B.Tech,CSE,67,91,Regular,Yes,Ballia,272001,Day Scholar
+STU235,Prisha Rege,Hrishita Dua,prisha.rege31@gmail.com,11/17/2001,Male,B.Tech,CSE-AIML,73,78,Regular,Yes,Deoria,272001,Hostler
+STU236,Manjari Mann,Tejas Bera,manjari.mann4@gmail.com,12/22/2000,Female,B.Tech,ME,85,90,Regular,Yes,Sultanpur,272001,Day Scholar
+STU237,Siya Chopra,Mohanlal Deshmukh,siya.chopra98@gmail.com,11/3/2002,Male,B.Tech,CSD,73,82,Regular,Yes,Raebareli,272001,Hostler
+STU238,Aaina Iyer,Amani Varkey,aaina.iyer47@gmail.com,5/25/2000,Male,B.Tech,CSD,89,82,Regular,Yes,Basti,272001,Day Scholar
+STU239,Lavanya Soni,Ehsaan Agarwal,lavanya.soni81@gmail.com,1/27/2001,Female,B.Tech,Civil,82,65,Regular,Yes,Mau,272001,Hostler
+STU240,Neelofar Ravel,Stuvan Thakkar,neelofar.ravel17@gmail.com,5/13/2005,Female,B.Tech,CSE-AIML,77,61,Regular,Yes,Basti,272001,Day Scholar
+STU241,Jivin Rajan,Mamooty Gandhi,jivin.rajan98@gmail.com,11/13/2003,Male,B.Tech,IT,63,86,Management,Yes,Sultanpur,272001,Hostler
+STU242,Nishith Thaman,Indrajit Jani,nishith.thaman42@gmail.com,6/5/2000,Female,B.Tech,IT,92,92,Regular,Yes,Faizabad,272001,Day Scholar
+STU243,Aayush Sibal,Onkar Bhakta,aayush.sibal10@gmail.com,10/4/2001,Female,B.Tech,IT,89,65,Lateral Entry,Yes,Jaunpur,272001,Hostler
+STU244,Eshani Dhar,Pranay Zachariah,eshani.dhar17@gmail.com,7/22/2002,Female,B.Tech,CSE-AIML,88,69,Regular,Yes,Azamgarh,272001,Day Scholar
+STU245,Kabir Bhandari,Akarsh Sane,kabir.bhandari63@gmail.com,4/25/2004,Female,B.Tech,CSE,62,87,Management,No,Mau,272001,Hostler
+STU246,Yuvraj  Bali,Tanya Manne,yuvraj..bali66@gmail.com,4/23/2000,Female,B.Tech,EE,77,61,Regular,Yes,Gorakhpur,272001,Hostler
+STU247,Nakul Choudhary,Jayant Rama,nakul.choudhary85@gmail.com,5/14/2000,Female,B.Tech,IT,60,74,Regular,Yes,Ballia,272001,Hostler
+STU248,Veer Loke,Parinaaz Deol,veer.loke71@gmail.com,4/13/2003,Male,B.Tech,IT,83,82,Regular,Yes,Barabanki,272001,Day Scholar
+STU249,Shray Bala,Rania Deshmukh,shray.bala76@gmail.com,11/9/2001,Male,B.Tech,ME,69,79,Regular,Yes,Faizabad,272001,Day Scholar
+STU250,Seher Gopal,Nitya Tiwari,seher.gopal62@gmail.com,3/5/2005,Female,B.Tech,CSE,92,89,Regular,Yes,Basti,272001,Day Scholar
+STU251,Farhan Bhatt,Aarush Reddy,farhan.bhatt50@gmail.com,12/31/2001,Female,B.Tech,EC,62,74,Regular,Yes,Jaunpur,272001,Day Scholar
+STU252,Yuvraj  Agrawal,Vihaan Saran,yuvraj..agrawal18@gmail.com,1/5/2003,Female,B.Tech,CSE,86,76,Regular,Yes,Jaunpur,272001,Hostler
+STU253,Krish Sunder,Ivana Kala,krish.sunder43@gmail.com,1/26/2004,Male,B.Tech,CSE,94,69,Regular,Yes,Raebareli,272001,Day Scholar
+STU254,Shanaya Wagle,Amani Bora,shanaya.wagle59@gmail.com,1/19/2000,Female,B.Tech,CSD,79,83,Lateral Entry,No,Faizabad,272001,Day Scholar
+STU255,Parinaaz Rattan,Manikya Rattan,parinaaz.rattan67@gmail.com,9/27/2001,Male,B.Tech,CSE,69,60,Regular,Yes,Ballia,272001,Hostler
+STU256,Tejas Dixit,Siya Dass,tejas.dixit81@gmail.com,3/11/2002,Female,B.Tech,CSE,78,78,Regular,Yes,Mau,272001,Hostler
+STU257,Seher Shankar,Mishti Kannan,seher.shankar95@gmail.com,1/21/2000,Male,B.Tech,EC,64,71,Management,Yes,Lucknow,272001,Hostler
+STU258,Kiara Gade,Mehul Bhasin,kiara.gade45@gmail.com,4/29/2004,Male,B.Tech,CSD,62,70,Management,No,Faizabad,272001,Hostler
+STU259,Jiya Varkey,Tushar Varkey,jiya.varkey62@gmail.com,6/8/2002,Male,B.Tech,CSE,80,84,Lateral Entry,Yes,Sultanpur,272001,Hostler
+STU260,Shayak Sen,Darshit Bail,shayak.sen80@gmail.com,2/12/2000,Male,B.Tech,CSE,62,84,Management,Yes,Lucknow,272001,Day Scholar
+STU261,Eva Ghose,Hazel Gala,eva.ghose42@gmail.com,2/8/2005,Female,B.Tech,IT,79,80,Regular,Yes,Ballia,272001,Hostler
+STU262,Dhanush Kunda,Zain Verma,dhanush.kunda53@gmail.com,4/18/2000,Male,B.Tech,EE,80,62,Regular,Yes,Azamgarh,272001,Day Scholar
+STU263,Farhan Krishnan,Farhan Sarma,farhan.krishnan76@gmail.com,4/20/2000,Female,B.Tech,CSE,94,62,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU264,Jivin Sawhney,Lagan Barad,jivin.sawhney76@gmail.com,4/14/2001,Male,B.Tech,CSE,87,65,Regular,Yes,Ballia,272001,Hostler
+STU265,Prerak Bhardwaj,Kartik Lata,prerak.bhardwaj26@gmail.com,9/15/2000,Female,B.Tech,CSD,64,81,Management,Yes,Deoria,272001,Hostler
+STU266,Badal Kakar,Alia Kashyap,badal.kakar38@gmail.com,5/30/2003,Male,B.Tech,CSE,68,70,Regular,Yes,Ballia,272001,Day Scholar
+STU267,Zara Kohli,Navya Baria,zara.kohli13@gmail.com,6/19/2001,Male,B.Tech,EE,70,70,Management,Yes,Ballia,272001,Day Scholar
+STU268,Jivika Upadhyay,Stuvan Bava,jivika.upadhyay65@gmail.com,6/23/2000,Male,B.Tech,CSD,84,71,Regular,Yes,Azamgarh,272001,Day Scholar
+STU269,Krish Rama,Tejas Issac,krish.rama50@gmail.com,11/5/2001,Female,B.Tech,IT,68,63,Lateral Entry,Yes,Sultanpur,272001,Day Scholar
+STU270,Kashvi Srinivasan,Aayush Krishna,kashvi.srinivasan40@gmail.com,3/30/2000,Female,B.Tech,ME,84,69,Regular,Yes,Basti,272001,Day Scholar
+STU271,Ishita Sekhon,Diya Kala,ishita.sekhon69@gmail.com,8/18/2000,Male,B.Tech,CSE,62,88,Regular,Yes,Sultanpur,272001,Hostler
+STU272,Devansh Chandra,Anahita Bhakta,devansh.chandra81@gmail.com,6/23/2002,Male,B.Tech,CSD,66,76,Regular,Yes,Deoria,272001,Hostler
+STU273,Elakshi Shah,Ira Mand,elakshi.shah56@gmail.com,10/23/2001,Female,B.Tech,IT,65,81,Management,Yes,Gorakhpur,272001,Day Scholar
+STU274,Sumer Dugar,Vritika Wadhwa,sumer.dugar41@gmail.com,4/20/2005,Female,B.Tech,IT,77,69,Management,No,Raebareli,272001,Hostler
+STU275,Bhavin Banerjee,Kabir Kari,bhavin.banerjee83@gmail.com,2/11/2001,Male,B.Tech,CSD,80,71,Regular,Yes,Sultanpur,272001,Hostler
+STU276,Shamik De,Ritvik Bhagat,shamik.de47@gmail.com,4/15/2004,Female,B.Tech,IT,84,84,Regular,Yes,Jaunpur,272001,Hostler
+STU277,Vivaan Chatterjee,Jiya Jha,vivaan.chatterjee78@gmail.com,8/6/2003,Female,B.Tech,IT,64,90,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU278,Lakshay Bajaj,Anika Suresh,lakshay.bajaj99@gmail.com,8/10/2000,Female,B.Tech,Civil,74,81,Lateral Entry,Yes,Raebareli,272001,Day Scholar
+STU279,Romil Ramesh,Yashvi Dhar,romil.ramesh30@gmail.com,3/6/2003,Female,B.Tech,IT,86,95,Management,Yes,Basti,272001,Day Scholar
+STU280,Urvi Amble,Devansh Sehgal,urvi.amble98@gmail.com,5/10/2004,Male,B.Tech,IT,72,72,Regular,Yes,Ballia,272001,Hostler
+STU281,Aaina Kohli,Jayan Walla,aaina.kohli64@gmail.com,7/28/2001,Female,B.Tech,IT,95,63,Management,Yes,Barabanki,272001,Day Scholar
+STU282,Inaaya  Master,Elakshi Vasa,inaaya..master96@gmail.com,4/26/2005,Male,B.Tech,CSE,80,63,Regular,Yes,Deoria,272001,Hostler
+STU283,Ishita Talwar,Divyansh Sura,ishita.talwar35@gmail.com,1/28/2002,Male,B.Tech,CSE-AIML,89,60,Regular,Yes,Lucknow,272001,Hostler
+STU284,Badal Shan,Shanaya Balasubramanian,badal.shan45@gmail.com,5/19/2002,Male,B.Tech,CSE-AIML,87,72,Regular,Yes,Raebareli,272001,Day Scholar
+STU285,Diya Gokhale,Arnav Khurana,diya.gokhale54@gmail.com,4/25/2003,Male,B.Tech,Civil,71,91,Management,No,Jaunpur,272001,Day Scholar
+STU286,Miraya Boase,Samaira Varma,miraya.boase61@gmail.com,4/10/2004,Male,B.Tech,IT,81,83,Management,No,Azamgarh,272001,Hostler
+STU287,Aarav Sant,Diya Gokhale,aarav.sant10@gmail.com,9/16/2000,Female,B.Tech,CSE,68,81,Regular,Yes,Sultanpur,272001,Hostler
+STU288,Drishya Brar,Reyansh Sagar,drishya.brar80@gmail.com,4/28/2000,Female,B.Tech,ME,77,60,Management,No,Jaunpur,272001,Day Scholar
+STU289,Advika Yogi,Ishita Dash,advika.yogi74@gmail.com,4/22/2000,Female,B.Tech,CSD,71,86,Regular,Yes,Basti,272001,Hostler
+STU290,Mahika Solanki,Dhanuk Sankaran,mahika.solanki3@gmail.com,7/20/2004,Female,B.Tech,CSE,73,87,Regular,Yes,Azamgarh,272001,Hostler
+STU291,Ivana Comar,Anika Chakrabarti,ivana.comar72@gmail.com,7/17/2004,Male,B.Tech,CSE,72,77,Regular,Yes,Faizabad,272001,Hostler
+STU292,Jivin Kothari,Rohan Talwar,jivin.kothari83@gmail.com,7/3/2004,Female,B.Tech,CSE,71,79,Regular,Yes,Basti,272001,Day Scholar
+STU293,Shaan Tandon,Ojas Saini,shaan.tandon89@gmail.com,9/6/2000,Male,B.Tech,EC,90,75,Regular,Yes,Basti,272001,Day Scholar
+STU294,Pranay Barman,Jayan Butala,pranay.barman11@gmail.com,6/3/2004,Male,B.Tech,CSE,76,81,Regular,Yes,Barabanki,272001,Day Scholar
+STU295,Aniruddh Jani,Lagan Gulati,aniruddh.jani7@gmail.com,5/30/2000,Male,B.Tech,CSD,91,94,Management,Yes,Basti,272001,Day Scholar
+STU296,Aaina Bansal,Khushi Bhatnagar,aaina.bansal54@gmail.com,5/28/2002,Female,B.Tech,CSE,70,71,Regular,Yes,Lucknow,272001,Day Scholar
+STU297,Zaina Ramachandran,Nirvi Sharma,zaina.ramachandran35@gmail.com,12/8/2001,Female,B.Tech,CSE-AIML,66,64,Regular,Yes,Deoria,272001,Day Scholar
+STU298,Jhanvi Vaidya,Kanav Sani,jhanvi.vaidya38@gmail.com,2/3/2005,Female,B.Tech,Civil,73,62,Regular,Yes,Basti,272001,Day Scholar
+STU299,Manjari Ray,Aaryahi Varty,manjari.ray16@gmail.com,5/13/2003,Female,B.Tech,CSE-AIML,86,62,Regular,Yes,Lucknow,272001,Day Scholar
+STU300,Shalv Sundaram,Advika Kanda,shalv.sundaram80@gmail.com,6/23/2000,Female,B.Tech,CSD,74,66,Regular,Yes,Deoria,272001,Hostler
+STU301,Devansh Barad,Darshit Gandhi,devansh.barad11@gmail.com,10/10/2003,Female,B.Tech,CSE,80,66,Lateral Entry,No,Gorakhpur,272001,Day Scholar
+STU302,Mamooty Iyer,Tara Grover,mamooty.iyer75@gmail.com,1/20/2005,Male,B.Tech,Civil,75,70,Regular,Yes,Mau,272001,Hostler
+STU303,Fateh Dugar,Taran Balan,fateh.dugar22@gmail.com,4/2/2002,Female,B.Tech,CSE,78,85,Regular,Yes,Basti,272001,Hostler
+STU304,Rati Vig,Himmat Kata,rati.vig76@gmail.com,5/17/2002,Female,B.Tech,IT,79,74,Regular,Yes,Sultanpur,272001,Hostler
+STU305,Diya Jhaveri,Yuvaan Brahmbhatt,diya.jhaveri16@gmail.com,4/22/2002,Male,B.Tech,CSE,73,88,Regular,Yes,Barabanki,272001,Day Scholar
+STU306,Parinaaz Dube,Oorja Vasa,parinaaz.dube67@gmail.com,9/10/2001,Male,B.Tech,CSE-AIML,68,89,Regular,Yes,Ballia,272001,Day Scholar
+STU307,Nayantara Chaudhuri,Eva Kata,nayantara.chaudhuri76@gmail.com,7/15/2002,Male,B.Tech,ME,71,68,Management,Yes,Azamgarh,272001,Day Scholar
+STU308,Myra Dutta,Onkar Chahal,myra.dutta60@gmail.com,11/17/2001,Female,B.Tech,IT,80,77,Management,Yes,Sultanpur,272001,Day Scholar
+STU309,Kabir Baral,Shlok Balan,kabir.baral42@gmail.com,1/28/2000,Male,B.Tech,CSE-AIML,89,65,Regular,Yes,Mau,272001,Hostler
+STU310,Dishani Handa,Stuvan Jain,dishani.handa78@gmail.com,7/15/2005,Male,B.Tech,IT,94,61,Management,Yes,Basti,272001,Day Scholar
+STU311,Anaya Sarna,Vidur Mallick,anaya.sarna32@gmail.com,7/13/2001,Female,B.Tech,EE,67,67,Management,Yes,Jaunpur,272001,Hostler
+STU312,Piya Sidhu,Priyansh Brahmbhatt,piya.sidhu97@gmail.com,1/10/2002,Female,B.Tech,CSD,76,95,Regular,Yes,Lucknow,272001,Day Scholar
+STU313,Indrans Devi,Rhea Loyal,indrans.devi87@gmail.com,7/24/2003,Male,B.Tech,EE,77,95,Regular,Yes,Jaunpur,272001,Hostler
+STU314,Kavya Boase,Anika Rau,kavya.boase29@gmail.com,8/12/2004,Male,B.Tech,CSE-AIML,67,80,Regular,Yes,Ballia,272001,Hostler
+STU315,Stuvan Kamdar,Uthkarsh Subramaniam,stuvan.kamdar79@gmail.com,7/19/2000,Female,B.Tech,ME,65,93,Regular,Yes,Lucknow,272001,Day Scholar
+STU316,Aaryahi Mahal,Kismat Korpal,aaryahi.mahal67@gmail.com,2/19/2004,Male,B.Tech,Civil,82,66,Regular,Yes,Deoria,272001,Hostler
+STU317,Mehul Bhatti,Madhav Bhalla,mehul.bhatti72@gmail.com,2/28/2001,Male,B.Tech,IT,76,94,Regular,Yes,Azamgarh,272001,Day Scholar
+STU318,Urvi Kata,Oorja Ahluwalia,urvi.kata50@gmail.com,8/5/2002,Female,B.Tech,ME,86,85,Regular,Yes,Basti,272001,Hostler
+STU319,Zeeshan Kala,Misha Dewan,zeeshan.kala93@gmail.com,9/24/2003,Female,B.Tech,IT,94,94,Regular,Yes,Raebareli,272001,Hostler
+STU320,Zara Wadhwa,Hiran Barad,zara.wadhwa53@gmail.com,5/8/2000,Female,B.Tech,CSE-AIML,90,74,Management,Yes,Lucknow,272001,Day Scholar
+STU321,Madhup Garg,Ishita Chauhan,madhup.garg35@gmail.com,2/2/2004,Male,B.Tech,CSE,85,64,Regular,Yes,Barabanki,272001,Hostler
+STU322,Dharmajan Kumar,Yuvraj  Magar,dharmajan.kumar28@gmail.com,1/14/2002,Male,B.Tech,CSE-AIML,80,71,Regular,Yes,Mau,272001,Hostler
+STU323,Saanvi Chad,Rati Bhavsar,saanvi.chad74@gmail.com,5/5/2004,Male,B.Tech,CSD,68,88,Lateral Entry,No,Faizabad,272001,Hostler
+STU324,Kavya Brar,Yakshit Rana,kavya.brar35@gmail.com,11/15/2001,Female,B.Tech,EC,85,94,Regular,Yes,Raebareli,272001,Day Scholar
+STU325,Damini Sarna,Nehmat Gaba,damini.sarna28@gmail.com,6/20/2002,Male,B.Tech,CSE,89,94,Regular,Yes,Jaunpur,272001,Day Scholar
+STU326,Anay Dhar,Arhaan Sha,anay.dhar1@gmail.com,4/25/2001,Male,B.Tech,CSE,88,90,Regular,Yes,Basti,272001,Hostler
+STU327,Charvi Wali,Kavya Kuruvilla,charvi.wali89@gmail.com,12/26/2000,Male,B.Tech,EC,81,66,Regular,Yes,Ballia,272001,Hostler
+STU328,Rohan Brahmbhatt,Umang Balasubramanian,rohan.brahmbhatt21@gmail.com,7/11/2001,Male,B.Tech,CSE-AIML,92,78,Regular,Yes,Sultanpur,272001,Day Scholar
+STU329,Advika Wason,Miraan Vasa,advika.wason92@gmail.com,6/20/2003,Female,B.Tech,CSD,74,74,Regular,Yes,Mau,272001,Hostler
+STU330,Yakshit Shah,Mahika Bal,yakshit.shah37@gmail.com,2/24/2000,Male,B.Tech,EE,76,89,Regular,Yes,Barabanki,272001,Day Scholar
+STU331,Ishita Mall,Indranil Baral,ishita.mall59@gmail.com,12/27/2001,Female,B.Tech,CSE-AIML,75,86,Regular,Yes,Mau,272001,Hostler
+STU332,Hrishita Kothari,Kabir Wable,hrishita.kothari23@gmail.com,8/22/2005,Female,B.Tech,Civil,69,94,Regular,Yes,Basti,272001,Hostler
+STU333,Samarth Bhargava,Ivan Wason,samarth.bhargava24@gmail.com,6/28/2005,Female,B.Tech,CSE,86,95,Regular,Yes,Lucknow,272001,Day Scholar
+STU334,Ranbir Mani,Azad Bhalla,ranbir.mani34@gmail.com,9/28/2001,Female,B.Tech,IT,60,80,Lateral Entry,Yes,Raebareli,272001,Hostler
+STU335,Heer Shukla,Madhav Bhasin,heer.shukla80@gmail.com,12/29/2003,Female,B.Tech,CSE,64,89,Regular,Yes,Basti,272001,Day Scholar
+STU336,Aarna Kanda,Nitara Bora,aarna.kanda23@gmail.com,7/14/2003,Female,B.Tech,CSE,70,73,Regular,Yes,Ballia,272001,Day Scholar
+STU337,Neelofar Kaur,Zoya Krishnan,neelofar.kaur34@gmail.com,11/8/2002,Male,B.Tech,CSD,62,86,Regular,Yes,Ballia,272001,Hostler
+STU338,Ranbir Kumar,Misha Ramesh,ranbir.kumar78@gmail.com,10/31/2000,Female,B.Tech,CSD,71,81,Regular,Yes,Jaunpur,272001,Day Scholar
+STU339,Sahil Chanda,Miraya Brahmbhatt,sahil.chanda16@gmail.com,10/21/2000,Female,B.Tech,CSE-AIML,60,87,Management,Yes,Lucknow,272001,Hostler
+STU340,Miraya Sharaf,Mohanlal Varghese,miraya.sharaf75@gmail.com,4/3/2004,Male,B.Tech,EE,81,65,Management,Yes,Jaunpur,272001,Hostler
+STU341,Faiyaz Gupta,Suhana Baria,faiyaz.gupta51@gmail.com,8/3/2002,Male,B.Tech,CSE,60,93,Regular,Yes,Ballia,272001,Hostler
+STU342,Darshit Sidhu,Dharmajan Soni,darshit.sidhu80@gmail.com,4/21/2002,Male,B.Tech,CSD,81,77,Regular,Yes,Ballia,272001,Day Scholar
+STU343,Chirag Verma,Hansh Sama,chirag.verma38@gmail.com,3/19/2000,Male,B.Tech,Civil,63,72,Regular,Yes,Mau,272001,Hostler
+STU344,Aarav Korpal,Zain Chaudhari,aarav.korpal11@gmail.com,11/13/2000,Male,B.Tech,CSE,86,63,Regular,Yes,Faizabad,272001,Hostler
+STU345,Faiyaz Sharma,Sara Banerjee,faiyaz.sharma47@gmail.com,8/27/2004,Male,B.Tech,CSE-AIML,79,63,Regular,Yes,Faizabad,272001,Hostler
+STU346,Ojas Vyas,Dhruv Dora,ojas.vyas33@gmail.com,11/9/2001,Female,B.Tech,EE,62,64,Regular,Yes,Azamgarh,272001,Hostler
+STU347,Amira Ben,Samiha Chaudhary,amira.ben43@gmail.com,10/16/2004,Female,B.Tech,IT,81,61,Regular,Yes,Lucknow,272001,Day Scholar
+STU348,Ehsaan Dutt,Divij Raja,ehsaan.dutt75@gmail.com,3/9/2005,Male,B.Tech,CSE-AIML,71,88,Regular,Yes,Azamgarh,272001,Hostler
+STU349,Lakshay Kapadia,Kaira Sen,lakshay.kapadia36@gmail.com,6/24/2000,Male,B.Tech,CSE,85,80,Regular,Yes,Raebareli,272001,Hostler
+STU350,Ivan Sachar,Oorja Rattan,ivan.sachar92@gmail.com,10/11/2004,Male,B.Tech,ME,70,91,Regular,Yes,Jaunpur,272001,Day Scholar
+STU351,Madhup Sagar,Aayush Bansal,madhup.sagar66@gmail.com,6/15/2005,Male,B.Tech,Civil,71,77,Regular,Yes,Jaunpur,272001,Day Scholar
+STU352,Purab Aurora,Rasha Dhillon,purab.aurora1@gmail.com,5/29/2005,Female,B.Tech,Civil,94,81,Regular,Yes,Gorakhpur,272001,Hostler
+STU353,Aaryahi Iyengar,Dhruv Vohra,aaryahi.iyengar36@gmail.com,2/19/2003,Male,B.Tech,CSE,70,74,Regular,Yes,Jaunpur,272001,Hostler
+STU354,Zeeshan Ramanathan,Divit Sarna,zeeshan.ramanathan82@gmail.com,9/5/2000,Female,B.Tech,CSE,85,68,Regular,Yes,Gorakhpur,272001,Hostler
+STU355,Hrishita Savant,Nirvi Dhawan,hrishita.savant22@gmail.com,12/10/2001,Male,B.Tech,CSE-AIML,93,89,Regular,Yes,Azamgarh,272001,Day Scholar
+STU356,Aaryahi Bawa,Anahi Kadakia,aaryahi.bawa61@gmail.com,2/3/2000,Male,B.Tech,EE,92,87,Management,No,Sultanpur,272001,Hostler
+STU357,Divit Manda,Ivana Dara,divit.manda43@gmail.com,5/6/2004,Female,B.Tech,EC,73,66,Regular,Yes,Lucknow,272001,Hostler
+STU358,Pari Hari,Riaan Bal,pari.hari47@gmail.com,5/28/2002,Male,B.Tech,IT,89,72,Regular,Yes,Basti,272001,Hostler
+STU359,Hansh Sibal,Hridaan Rajagopalan,hansh.sibal90@gmail.com,9/19/2001,Female,B.Tech,IT,70,95,Regular,Yes,Basti,272001,Day Scholar
+STU360,Shayak Soman,Divit Khurana,shayak.soman87@gmail.com,3/20/2000,Male,B.Tech,CSE,63,87,Regular,Yes,Faizabad,272001,Hostler
+STU361,Riaan Bora,Siya Grover,riaan.bora9@gmail.com,5/12/2005,Male,B.Tech,CSE-AIML,95,62,Regular,Yes,Sultanpur,272001,Day Scholar
+STU362,Shray Borra,Pari Ben,shray.borra67@gmail.com,12/21/2001,Male,B.Tech,IT,68,87,Lateral Entry,No,Lucknow,272001,Hostler
+STU363,Diya Madan,Tejas Bhatia,diya.madan97@gmail.com,4/7/2002,Male,B.Tech,Civil,74,62,Regular,Yes,Azamgarh,272001,Hostler
+STU364,Mehul Bhargava,Divij Hegde,mehul.bhargava22@gmail.com,1/18/2000,Female,B.Tech,EE,63,60,Regular,Yes,Basti,272001,Hostler
+STU365,Vivaan Bansal,Anay Mahal,vivaan.bansal30@gmail.com,3/27/2004,Male,B.Tech,Civil,71,93,Regular,Yes,Raebareli,272001,Hostler
+STU366,Gokul Ben,Zoya Bhandari,gokul.ben12@gmail.com,3/26/2003,Female,B.Tech,IT,68,79,Regular,Yes,Faizabad,272001,Hostler
+STU367,Amira Rattan,Aarush Mane,amira.rattan7@gmail.com,2/5/2004,Female,B.Tech,CSE-AIML,91,90,Management,No,Ballia,272001,Hostler
+STU368,Kismat Raju,Azad Gulati,kismat.raju66@gmail.com,1/15/2001,Male,B.Tech,ME,64,76,Regular,Yes,Azamgarh,272001,Day Scholar
+STU369,Rhea Barad,Ivan Setty,rhea.barad72@gmail.com,3/2/2000,Female,B.Tech,EE,63,75,Regular,Yes,Sultanpur,272001,Day Scholar
+STU370,Dhanuk Randhawa,Dishani Behl,dhanuk.randhawa69@gmail.com,8/25/2000,Male,B.Tech,CSD,62,85,Regular,Yes,Barabanki,272001,Hostler
+STU371,Aniruddh Dave,Tarini Goswami,aniruddh.dave23@gmail.com,8/17/2000,Female,B.Tech,CSE-AIML,74,68,Regular,Yes,Sultanpur,272001,Day Scholar
+STU372,Kiara Balay,Myra Bassi,kiara.balay59@gmail.com,4/16/2003,Male,B.Tech,EE,94,61,Regular,Yes,Mau,272001,Hostler
+STU373,Ryan Mani,Bhamini Ganesh,ryan.mani69@gmail.com,8/1/2004,Female,B.Tech,CSE,68,90,Regular,Yes,Deoria,272001,Hostler
+STU374,Anahita Lad,Kiara Zacharia,anahita.lad56@gmail.com,12/6/2002,Male,B.Tech,CSD,65,81,Regular,Yes,Deoria,272001,Day Scholar
+STU375,Raghav Rastogi,Kismat Singhal,raghav.rastogi20@gmail.com,11/3/2001,Female,B.Tech,IT,89,67,Regular,Yes,Mau,272001,Day Scholar
+STU376,Ritvik Bava,Nayantara Saha,ritvik.bava44@gmail.com,7/14/2001,Male,B.Tech,CSE,84,87,Regular,Yes,Sultanpur,272001,Hostler
+STU377,Nishith Lalla,Diya Doctor,nishith.lalla99@gmail.com,5/10/2000,Female,B.Tech,IT,88,62,Regular,Yes,Lucknow,272001,Day Scholar
+STU378,Dhanush Khare,Dishani Tripathi,dhanush.khare88@gmail.com,10/8/2001,Female,B.Tech,CSD,82,72,Management,Yes,Raebareli,272001,Hostler
+STU379,Amani Dalal,Ojas Karnik,amani.dalal19@gmail.com,4/9/2005,Female,B.Tech,IT,76,85,Regular,Yes,Jaunpur,272001,Day Scholar
+STU380,Aaryahi Kala,Dhanuk Setty,aaryahi.kala71@gmail.com,1/5/2003,Female,B.Tech,CSD,87,70,Regular,Yes,Raebareli,272001,Day Scholar
+STU381,Mehul Sheth,Veer Dar,mehul.sheth92@gmail.com,2/10/2004,Female,B.Tech,IT,81,71,Regular,Yes,Lucknow,272001,Day Scholar
+STU382,Adira Walia,Seher Gera,adira.walia70@gmail.com,4/21/2001,Male,B.Tech,CSD,72,60,Management,No,Ballia,272001,Hostler
+STU383,Amira Bala,Shamik Thaker,amira.bala81@gmail.com,10/24/2000,Female,B.Tech,EE,93,78,Regular,Yes,Gorakhpur,272001,Hostler
+STU384,Sara Garg,Tara Anne,sara.garg20@gmail.com,6/24/2000,Female,B.Tech,IT,95,95,Regular,Yes,Deoria,272001,Hostler
+STU385,Vedika Varghese,Kashvi Samra,vedika.varghese13@gmail.com,12/22/2003,Male,B.Tech,CSD,74,67,Regular,Yes,Deoria,272001,Hostler
+STU386,Azad Sehgal,Kiaan Wable,azad.sehgal63@gmail.com,9/12/2001,Male,B.Tech,CSE,76,94,Regular,Yes,Gorakhpur,272001,Hostler
+STU387,Tara Sen,Anay Samra,tara.sen73@gmail.com,8/1/2003,Male,B.Tech,CSE-AIML,63,92,Management,Yes,Barabanki,272001,Hostler
+STU388,Seher Krishna,Zeeshan Majumdar,seher.krishna88@gmail.com,10/30/2000,Female,B.Tech,EE,71,66,Regular,Yes,Azamgarh,272001,Day Scholar
+STU389,Bhavin Butala,Ryan Trivedi,bhavin.butala14@gmail.com,6/4/2004,Female,B.Tech,IT,82,90,Regular,Yes,Barabanki,272001,Hostler
+STU390,Hansh Bhalla,Vritika Date,hansh.bhalla94@gmail.com,2/11/2004,Female,B.Tech,CSE,79,84,Regular,Yes,Azamgarh,272001,Hostler
+STU391,Seher Guha,Tiya Dugar,seher.guha5@gmail.com,4/5/2004,Female,B.Tech,Civil,84,82,Regular,Yes,Sultanpur,272001,Hostler
+STU392,Ivana Chakrabarti,Elakshi Chaudhari,ivana.chakrabarti80@gmail.com,11/3/2000,Female,B.Tech,Civil,76,94,Lateral Entry,Yes,Basti,272001,Hostler
+STU393,Devansh Sarkar,Aradhya Bajaj,devansh.sarkar25@gmail.com,9/29/2000,Male,B.Tech,CSE,63,92,Lateral Entry,Yes,Mau,272001,Day Scholar
+STU394,Prerak Wali,Zoya Barman,prerak.wali29@gmail.com,3/6/2005,Male,B.Tech,CSE-AIML,80,71,Regular,Yes,Lucknow,272001,Hostler
+STU395,Kashvi Sachdev,Lavanya Anne,kashvi.sachdev58@gmail.com,1/26/2001,Male,B.Tech,IT,61,63,Regular,Yes,Ballia,272001,Day Scholar
+STU396,Nitya Bava,Neysa Bala,nitya.bava96@gmail.com,11/11/2001,Female,B.Tech,CSD,64,60,Regular,Yes,Barabanki,272001,Day Scholar
+STU397,Ayesha Thaman,Jayesh Yogi,ayesha.thaman11@gmail.com,7/9/2004,Male,B.Tech,CSE,94,83,Management,Yes,Deoria,272001,Day Scholar
+STU398,Dhanush Grewal,Kiara Virk,dhanush.grewal72@gmail.com,6/11/2002,Female,B.Tech,CSD,61,84,Regular,Yes,Faizabad,272001,Day Scholar
+STU399,Ritvik Ramesh,Farhan Reddy,ritvik.ramesh9@gmail.com,6/23/2000,Male,B.Tech,ME,75,91,Regular,Yes,Jaunpur,272001,Hostler
+STU400,Myra Dhawan,Anvi Ranganathan,myra.dhawan98@gmail.com,5/3/2005,Female,B.Tech,ME,87,60,Lateral Entry,No,Jaunpur,272001,Day Scholar
+STU401,Dhanuk Shanker,Vanya Das,dhanuk.shanker98@gmail.com,2/3/2003,Male,B.Tech,IT,62,61,Management,Yes,Raebareli,272001,Hostler
+STU402,Seher Kunda,Saira Issac,seher.kunda5@gmail.com,7/8/2002,Male,B.Tech,EC,65,92,Regular,Yes,Barabanki,272001,Hostler
+STU403,Madhup Desai,Anahita Gera,madhup.desai96@gmail.com,5/6/2000,Female,B.Tech,IT,72,65,Regular,Yes,Basti,272001,Day Scholar
+STU404,Priyansh Kapadia,Aarna Sane,priyansh.kapadia15@gmail.com,10/21/2003,Female,B.Tech,CSE-AIML,88,75,Regular,Yes,Lucknow,272001,Day Scholar
+STU405,Emir Dube,Ishaan Goel,emir.dube15@gmail.com,7/29/2000,Female,B.Tech,CSE-AIML,82,66,Regular,Yes,Barabanki,272001,Hostler
+STU406,Urvi Grover,Ahana  Raj,urvi.grover6@gmail.com,6/6/2000,Male,B.Tech,EC,60,65,Regular,Yes,Azamgarh,272001,Hostler
+STU407,Madhup Roy,Ojas Sule,madhup.roy44@gmail.com,12/31/2001,Male,B.Tech,CSE,73,92,Regular,Yes,Lucknow,272001,Hostler
+STU408,Badal Khurana,Stuvan Sahota,badal.khurana57@gmail.com,12/22/2001,Male,B.Tech,EC,74,93,Management,Yes,Mau,272001,Day Scholar
+STU409,Samaira Kumer,Anya Bandi,samaira.kumer76@gmail.com,2/27/2003,Male,B.Tech,EE,77,75,Lateral Entry,No,Lucknow,272001,Hostler
+STU410,Kismat Kara,Mishti Setty,kismat.kara35@gmail.com,7/21/2000,Female,B.Tech,ME,73,75,Regular,Yes,Mau,272001,Day Scholar
+STU411,Vedika Sibal,Zara Devan,vedika.sibal45@gmail.com,4/19/2003,Male,B.Tech,CSD,70,64,Regular,Yes,Basti,272001,Day Scholar
+STU412,Nirvi Dhillon,Siya Badal,nirvi.dhillon70@gmail.com,7/12/2004,Female,B.Tech,ME,88,84,Regular,Yes,Faizabad,272001,Hostler
+STU413,Riya Kade,Pranay Mani,riya.kade97@gmail.com,1/25/2004,Female,B.Tech,EC,85,73,Regular,Yes,Basti,272001,Day Scholar
+STU414,Aaryahi Brar,Neysa Batta,aaryahi.brar62@gmail.com,11/6/2004,Male,B.Tech,CSE,70,84,Regular,Yes,Azamgarh,272001,Day Scholar
+STU415,Anvi Seshadri,Darshit Goel,anvi.seshadri42@gmail.com,8/24/2000,Male,B.Tech,ME,90,92,Regular,Yes,Deoria,272001,Day Scholar
+STU416,Dhanush Srinivas,Ishita Babu,dhanush.srinivas3@gmail.com,7/5/2005,Male,B.Tech,CSE-AIML,93,88,Regular,Yes,Lucknow,272001,Day Scholar
+STU417,Parinaaz Balakrishnan,Shayak Chaudhari,parinaaz.balakrishnan38@gmail.com,6/28/2003,Female,B.Tech,EE,81,77,Management,No,Azamgarh,272001,Hostler
+STU418,Kiara Korpal,Rohan Rout,kiara.korpal40@gmail.com,8/5/2004,Female,B.Tech,Civil,78,83,Regular,Yes,Gorakhpur,272001,Hostler
+STU419,Aarush Shere,Samarth Rajan,aarush.shere71@gmail.com,6/20/2005,Male,B.Tech,CSE,80,85,Management,Yes,Azamgarh,272001,Hostler
+STU420,Aradhya Devan,Priyansh Guha,aradhya.devan38@gmail.com,8/11/2004,Male,B.Tech,EC,90,79,Regular,Yes,Deoria,272001,Day Scholar
+STU421,Raghav Mahal,Dhanuk Jaggi,raghav.mahal30@gmail.com,4/2/2000,Male,B.Tech,CSE,63,79,Regular,Yes,Raebareli,272001,Hostler
+STU422,Stuvan Doshi,Ehsaan Bhagat,stuvan.doshi74@gmail.com,3/25/2000,Male,B.Tech,CSE,77,91,Regular,Yes,Lucknow,272001,Hostler
+STU423,Samarth Bhandari,Seher Sule,samarth.bhandari11@gmail.com,7/5/2000,Male,B.Tech,CSE-AIML,62,81,Regular,Yes,Raebareli,272001,Day Scholar
+STU424,Fateh Dewan,Nehmat Chander,fateh.dewan76@gmail.com,7/16/2005,Female,B.Tech,CSE-AIML,68,75,Management,Yes,Raebareli,272001,Day Scholar
+STU425,Bhavin Ray,Zeeshan Mammen,bhavin.ray80@gmail.com,9/9/2002,Male,B.Tech,EE,85,91,Regular,Yes,Barabanki,272001,Hostler
+STU426,Misha Ratti,Nitya Bir,misha.ratti25@gmail.com,10/29/2004,Male,B.Tech,CSE,95,76,Management,No,Jaunpur,272001,Day Scholar
+STU427,Rania Kothari,Yuvaan Bhasin,rania.kothari41@gmail.com,6/17/2003,Female,B.Tech,CSD,78,91,Regular,Yes,Basti,272001,Day Scholar
+STU428,Zaina Trivedi,Kiara Borde,zaina.trivedi85@gmail.com,1/25/2004,Male,B.Tech,EC,77,86,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU429,Chirag Chaudhary,Taran Chaudry,chirag.chaudhary17@gmail.com,5/12/2003,Male,B.Tech,CSE-AIML,93,88,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU430,Yuvraj  Sarna,Shlok Srivastava,yuvraj..sarna16@gmail.com,7/6/2003,Male,B.Tech,IT,85,93,Lateral Entry,No,Faizabad,272001,Hostler
+STU431,Gatik Ahuja,Adira Soman,gatik.ahuja75@gmail.com,12/13/2000,Male,B.Tech,CSD,85,88,Management,No,Lucknow,272001,Hostler
+STU432,Zeeshan Hayer,Vivaan Golla,zeeshan.hayer56@gmail.com,12/1/2001,Female,B.Tech,CSE,95,88,Regular,Yes,Ballia,272001,Hostler
+STU433,Samiha Kari,Rania Chandran,samiha.kari76@gmail.com,5/21/2003,Female,B.Tech,CSE,82,92,Management,Yes,Jaunpur,272001,Day Scholar
+STU434,Jiya Shan,Uthkarsh Rao,jiya.shan83@gmail.com,1/4/2002,Male,B.Tech,CSD,79,81,Management,No,Jaunpur,272001,Hostler
+STU435,Miraan Rajagopal,Kanav Baral,miraan.rajagopal18@gmail.com,11/24/2001,Female,B.Tech,CSE-AIML,93,66,Regular,Yes,Lucknow,272001,Hostler
+STU436,Tanya Loyal,Tanya Sami,tanya.loyal70@gmail.com,12/14/2000,Female,B.Tech,CSE,85,82,Regular,Yes,Sultanpur,272001,Day Scholar
+STU437,Suhana Lala,Adah Ram,suhana.lala44@gmail.com,8/18/2000,Male,B.Tech,ME,74,75,Regular,Yes,Sultanpur,272001,Day Scholar
+STU438,Dharmajan Sahni,Anaya Agrawal,dharmajan.sahni16@gmail.com,7/22/2000,Male,B.Tech,ME,91,60,Regular,Yes,Faizabad,272001,Day Scholar
+STU439,Aarav Upadhyay,Rania Brar,aarav.upadhyay28@gmail.com,1/7/2002,Female,B.Tech,CSD,62,72,Regular,Yes,Sultanpur,272001,Day Scholar
+STU440,Sana Soni,Anvi Ratta,sana.soni95@gmail.com,9/25/2000,Male,B.Tech,CSD,70,76,Regular,Yes,Faizabad,272001,Day Scholar
+STU441,Arhaan Srivastava,Azad Kumar,arhaan.srivastava88@gmail.com,1/14/2005,Female,B.Tech,EC,88,71,Regular,Yes,Mau,272001,Hostler
+STU442,Shaan Rajagopal,Lakshay Comar,shaan.rajagopal27@gmail.com,3/29/2002,Male,B.Tech,CSE-AIML,84,77,Regular,Yes,Ballia,272001,Day Scholar
+STU443,Aarna Mallick,Taran Edwin,aarna.mallick88@gmail.com,11/23/2004,Female,B.Tech,CSE-AIML,63,93,Regular,Yes,Raebareli,272001,Day Scholar
+STU444,Samiha Kunda,Ivana Upadhyay,samiha.kunda4@gmail.com,7/21/2000,Male,B.Tech,IT,85,76,Management,Yes,Gorakhpur,272001,Hostler
+STU445,Jivin Ranganathan,Trisha Seshadri,jivin.ranganathan12@gmail.com,3/2/2005,Male,B.Tech,CSE,61,76,Regular,Yes,Faizabad,272001,Hostler
+STU446,Adah Ramanathan,Kabir Bahri,adah.ramanathan40@gmail.com,2/16/2002,Male,B.Tech,CSE,88,75,Management,No,Raebareli,272001,Hostler
+STU447,Nirvi Kota,Amani Sodhi,nirvi.kota1@gmail.com,1/12/2005,Female,B.Tech,CSE,64,77,Management,No,Barabanki,272001,Day Scholar
+STU448,Devansh Gupta,Vidur Bhardwaj,devansh.gupta44@gmail.com,8/26/2005,Female,B.Tech,IT,77,93,Regular,Yes,Raebareli,272001,Day Scholar
+STU449,Tanya Sharaf,Saira Sunder,tanya.sharaf5@gmail.com,2/3/2000,Male,B.Tech,EE,77,66,Management,Yes,Raebareli,272001,Hostler
+STU450,Anaya Ramachandran,Charvi Sankar,anaya.ramachandran89@gmail.com,11/24/2002,Male,B.Tech,CSE,61,66,Regular,Yes,Deoria,272001,Day Scholar
+STU451,Kimaya Dutta,Bhavin Sundaram,kimaya.dutta30@gmail.com,3/7/2003,Female,B.Tech,EE,71,63,Management,Yes,Deoria,272001,Day Scholar
+STU452,Akarsh Sinha,Dhanuk Grewal,akarsh.sinha49@gmail.com,10/16/2000,Female,B.Tech,CSE-AIML,66,66,Regular,Yes,Deoria,272001,Hostler
+STU453,Oorja Sabharwal,Yakshit Bala,oorja.sabharwal50@gmail.com,3/25/2004,Female,B.Tech,CSE,72,88,Regular,Yes,Deoria,272001,Hostler
+STU454,Nirvaan Rajagopal,Zara Bhavsar,nirvaan.rajagopal81@gmail.com,10/23/2003,Female,B.Tech,IT,71,74,Lateral Entry,No,Gorakhpur,272001,Day Scholar
+STU455,Zain Keer,Jivin Shenoy,zain.keer2@gmail.com,8/31/2003,Female,B.Tech,ME,72,89,Management,Yes,Mau,272001,Hostler
+STU456,Kaira Sachdeva,Mehul Bawa,kaira.sachdeva7@gmail.com,6/19/2002,Female,B.Tech,CSE,82,81,Regular,Yes,Sultanpur,272001,Day Scholar
+STU457,Dishani Singhal,Fateh Khare,dishani.singhal34@gmail.com,1/5/2003,Male,B.Tech,EE,80,60,Regular,Yes,Lucknow,272001,Hostler
+STU458,Jayan Sanghvi,Nirvi Shukla,jayan.sanghvi25@gmail.com,7/5/2001,Female,B.Tech,IT,62,68,Regular,Yes,Gorakhpur,272001,Hostler
+STU459,Sahil Manda,Manjari Singh,sahil.manda75@gmail.com,3/24/2003,Male,B.Tech,ME,76,62,Management,Yes,Barabanki,272001,Hostler
+STU460,Oorja Gandhi,Lakshay Batta,oorja.gandhi33@gmail.com,5/16/2004,Female,B.Tech,CSE,92,89,Regular,Yes,Sultanpur,272001,Hostler
+STU461,Lakshay Rajagopal,Lakshay Trivedi,lakshay.rajagopal23@gmail.com,7/16/2003,Male,B.Tech,CSE,79,78,Management,No,Jaunpur,272001,Hostler
+STU462,Aarna Choudhury,Tarini Kashyap,aarna.choudhury54@gmail.com,8/10/2000,Male,B.Tech,IT,93,82,Regular,Yes,Jaunpur,272001,Hostler
+STU463,Rania Bhargava,Dhanuk Uppal,rania.bhargava11@gmail.com,3/7/2003,Male,B.Tech,CSD,79,79,Regular,Yes,Barabanki,272001,Hostler
+STU464,Heer Shetty,Divit Raj,heer.shetty62@gmail.com,5/5/2003,Female,B.Tech,EE,84,84,Management,No,Barabanki,272001,Hostler
+STU465,Saira Korpal,Nakul Maharaj,saira.korpal13@gmail.com,6/13/2002,Male,B.Tech,CSD,72,90,Regular,Yes,Gorakhpur,272001,Hostler
+STU466,Rohan Sule,Dhanuk Setty,rohan.sule20@gmail.com,5/16/2000,Male,B.Tech,ME,90,71,Regular,Yes,Mau,272001,Hostler
+STU467,Charvi Bhatti,Yashvi Baral,charvi.bhatti80@gmail.com,8/6/2003,Male,B.Tech,Civil,93,80,Management,No,Gorakhpur,272001,Day Scholar
+STU468,Keya Yohannan,Amira Thaker,keya.yohannan7@gmail.com,1/5/2004,Male,B.Tech,CSE,67,91,Management,Yes,Raebareli,272001,Hostler
+STU469,Lagan Bandi,Arhaan Sekhon,lagan.bandi89@gmail.com,11/14/2001,Female,B.Tech,CSD,66,83,Regular,Yes,Gorakhpur,272001,Hostler
+STU470,Amira Vohra,Dhanush Bhakta,amira.vohra93@gmail.com,8/10/2004,Male,B.Tech,CSE-AIML,77,61,Regular,Yes,Faizabad,272001,Hostler
+STU471,Mohanlal Chanda,Lavanya Dasgupta,mohanlal.chanda70@gmail.com,3/27/2001,Female,B.Tech,EE,75,93,Regular,Yes,Azamgarh,272001,Day Scholar
+STU472,Lavanya Borra,Renee Samra,lavanya.borra21@gmail.com,10/7/2001,Male,B.Tech,IT,75,77,Regular,Yes,Ballia,272001,Day Scholar
+STU473,Jayant Sandhu,Taimur Datta,jayant.sandhu35@gmail.com,6/22/2003,Male,B.Tech,IT,81,65,Regular,Yes,Deoria,272001,Day Scholar
+STU474,Prerak Shukla,Advika Vasa,prerak.shukla23@gmail.com,12/4/2003,Male,B.Tech,IT,78,79,Management,Yes,Gorakhpur,272001,Day Scholar
+STU475,Samar Sangha,Parinaaz Khare,samar.sangha49@gmail.com,2/12/2000,Female,B.Tech,ME,76,85,Regular,Yes,Deoria,272001,Day Scholar
+STU476,Taimur Cherian,Siya Kapur,taimur.cherian60@gmail.com,2/13/2000,Male,B.Tech,CSD,75,60,Management,Yes,Ballia,272001,Hostler
+STU477,Shanaya Chawla,Miraan Kadakia,shanaya.chawla74@gmail.com,6/6/2002,Female,B.Tech,CSE-AIML,95,64,Management,Yes,Basti,272001,Hostler
+STU478,Zoya Mangal,Heer Sarin,zoya.mangal14@gmail.com,9/8/2000,Male,B.Tech,IT,88,71,Regular,Yes,Raebareli,272001,Day Scholar
+STU479,Zain Dara,Khushi Wali,zain.dara76@gmail.com,9/27/2002,Male,B.Tech,CSE,75,93,Regular,Yes,Sultanpur,272001,Hostler
+STU480,Indranil Basu,Tarini Ravi,indranil.basu12@gmail.com,10/15/2000,Female,B.Tech,IT,72,60,Regular,Yes,Raebareli,272001,Day Scholar
+STU481,Heer Amble,Lagan Bera,heer.amble33@gmail.com,7/24/2002,Female,B.Tech,CSE,85,67,Management,Yes,Gorakhpur,272001,Day Scholar
+STU482,Pranay Chhabra,Divyansh Dar,pranay.chhabra51@gmail.com,2/29/2000,Male,B.Tech,CSD,75,64,Management,No,Lucknow,272001,Hostler
+STU483,Samiha Chad,Anahi Shukla,samiha.chad45@gmail.com,11/14/2003,Female,B.Tech,EE,64,73,Regular,Yes,Lucknow,272001,Day Scholar
+STU484,Reyansh Ramachandran,Pari Kaul,reyansh.ramachandran28@gmail.com,7/9/2000,Male,B.Tech,Civil,60,69,Regular,Yes,Raebareli,272001,Hostler
+STU485,Krish Chaudry,Ritvik Bala,krish.chaudry80@gmail.com,12/28/2002,Female,B.Tech,CSE,93,64,Regular,Yes,Azamgarh,272001,Hostler
+STU486,Bhamini Dhillon,Hiran Vasa,bhamini.dhillon26@gmail.com,4/25/2001,Male,B.Tech,CSE,78,67,Regular,Yes,Sultanpur,272001,Day Scholar
+STU487,Kiaan Chakrabarti,Kismat Agate,kiaan.chakrabarti3@gmail.com,7/22/2004,Male,B.Tech,IT,84,67,Lateral Entry,Yes,Jaunpur,272001,Day Scholar
+STU488,Faiyaz Thakur,Anay Dhingra,faiyaz.thakur3@gmail.com,11/11/2002,Female,B.Tech,CSE,76,78,Regular,Yes,Raebareli,272001,Hostler
+STU489,Anay Chandra,Oorja Sanghvi,anay.chandra93@gmail.com,7/14/2000,Female,B.Tech,Civil,67,91,Regular,Yes,Barabanki,272001,Hostler
+STU490,Eshani Badami,Kartik Acharya,eshani.badami16@gmail.com,6/7/2000,Male,B.Tech,CSE,87,74,Regular,Yes,Sultanpur,272001,Day Scholar
+STU491,Advik Cheema,Ayesha Chanda,advik.cheema85@gmail.com,7/21/2003,Female,B.Tech,CSE-AIML,68,89,Management,Yes,Raebareli,272001,Hostler
+STU492,Dhruv Jaggi,Hazel Chacko,dhruv.jaggi98@gmail.com,5/26/2002,Female,B.Tech,IT,84,74,Regular,Yes,Basti,272001,Hostler
+STU493,Alia Kala,Eva Gulati,alia.kala97@gmail.com,2/2/2000,Male,B.Tech,CSD,84,70,Lateral Entry,No,Sultanpur,272001,Hostler
+STU494,Nirvi Trivedi,Rohan Bawa,nirvi.trivedi82@gmail.com,2/17/2000,Male,B.Tech,ME,72,66,Management,Yes,Ballia,272001,Day Scholar
+STU495,Aarav Subramanian,Samaira Gupta,aarav.subramanian70@gmail.com,1/14/2004,Male,B.Tech,Civil,69,92,Management,Yes,Jaunpur,272001,Hostler
+STU496,Rasha Jayaraman,Badal Jhaveri,rasha.jayaraman25@gmail.com,6/26/2000,Female,B.Tech,CSE,88,67,Regular,Yes,Basti,272001,Hostler
+STU497,Saira Loke,Vritika Ramachandran,saira.loke52@gmail.com,5/3/2001,Female,B.Tech,CSE,71,74,Regular,Yes,Sultanpur,272001,Hostler
+STU498,Raghav Walla,Ayesha Lanka,raghav.walla36@gmail.com,4/11/2001,Male,B.Tech,CSE-AIML,91,90,Regular,Yes,Faizabad,272001,Hostler
+STU499,Biju Saraf,Purab Uppal,biju.saraf50@gmail.com,12/10/2001,Female,B.Tech,IT,84,92,Regular,Yes,Faizabad,272001,Day Scholar
+STU500,Anika Sangha,Anay Apte,anika.sangha40@gmail.com,12/3/2000,Male,B.Tech,EC,93,85,Regular,Yes,Raebareli,272001,Hostler
+STU501,Sahil Sehgal,Sumer Kala,sahil.sehgal33@gmail.com,12/27/2003,Female,B.Tech,IT,94,73,Management,Yes,Barabanki,272001,Hostler
+STU502,Mehul Bhandari,Vedika Bandi,mehul.bhandari16@gmail.com,4/12/2005,Female,B.Tech,EE,69,67,Regular,Yes,Jaunpur,272001,Hostler
+STU503,Pranay Ramesh,Miraya Sunder,pranay.ramesh75@gmail.com,3/31/2003,Female,B.Tech,IT,93,68,Regular,Yes,Mau,272001,Hostler
+STU504,Shayak D’Alia,Zaina Sharma,shayak.d’alia59@gmail.com,11/28/2003,Male,B.Tech,IT,64,65,Regular,Yes,Jaunpur,272001,Hostler
+STU505,Advika Chandran,Vardaniya Goswami,advika.chandran88@gmail.com,3/9/2001,Female,B.Tech,CSD,92,95,Regular,Yes,Gorakhpur,272001,Hostler
+STU506,Damini Rastogi,Amani Bhatt,damini.rastogi32@gmail.com,1/26/2000,Female,B.Tech,CSE,90,94,Management,Yes,Gorakhpur,272001,Hostler
+STU507,Ivan Gaba,Shamik Arya,ivan.gaba49@gmail.com,8/30/2002,Female,B.Tech,CSE,92,92,Regular,Yes,Ballia,272001,Day Scholar
+STU508,Nayantara Anne,Miraya Sachdev,nayantara.anne74@gmail.com,4/27/2005,Male,B.Tech,CSD,74,95,Management,No,Basti,272001,Day Scholar
+STU509,Keya Bahl,Hazel Mahajan,keya.bahl10@gmail.com,10/7/2000,Male,B.Tech,CSD,72,95,Management,No,Deoria,272001,Day Scholar
+STU510,Yasmin Sharma,Kartik Bali,yasmin.sharma69@gmail.com,1/29/2004,Male,B.Tech,CSE,82,76,Regular,Yes,Azamgarh,272001,Hostler
+STU511,Zeeshan Varkey,Anaya Sahota,zeeshan.varkey19@gmail.com,1/17/2003,Female,B.Tech,Civil,92,60,Management,No,Sultanpur,272001,Hostler
+STU512,Trisha Bhandari,Lakshit Dasgupta,trisha.bhandari59@gmail.com,10/30/2000,Female,B.Tech,EE,86,93,Regular,Yes,Sultanpur,272001,Hostler
+STU513,Miraya Mammen,Inaaya  Chowdhury,miraya.mammen44@gmail.com,2/19/2003,Female,B.Tech,CSD,79,68,Regular,Yes,Azamgarh,272001,Day Scholar
+STU514,Aayush Date,Ivan Korpal,aayush.date60@gmail.com,3/5/2001,Male,B.Tech,ME,90,76,Regular,Yes,Azamgarh,272001,Day Scholar
+STU515,Chirag Lad,Tejas Brar,chirag.lad13@gmail.com,7/13/2003,Male,B.Tech,CSE,91,70,Management,No,Faizabad,272001,Hostler
+STU516,Dhanush Krishnamurthy,Adah Ramakrishnan,dhanush.krishnamurthy36@gmail.com,1/3/2004,Male,B.Tech,ME,95,80,Regular,Yes,Jaunpur,272001,Day Scholar
+STU517,Zaina Kara,Badal Talwar,zaina.kara80@gmail.com,4/21/2002,Male,B.Tech,CSE,74,60,Regular,Yes,Sultanpur,272001,Hostler
+STU518,Anika Tak,Hridaan Mane,anika.tak45@gmail.com,8/13/2000,Male,B.Tech,IT,62,62,Regular,Yes,Azamgarh,272001,Hostler
+STU519,Vihaan Dyal,Tushar Sethi,vihaan.dyal73@gmail.com,2/23/2003,Male,B.Tech,CSE-AIML,86,89,Management,Yes,Barabanki,272001,Hostler
+STU520,Badal Goyal,Azad Dixit,badal.goyal87@gmail.com,5/4/2003,Female,B.Tech,CSE,77,80,Regular,Yes,Gorakhpur,272001,Hostler
+STU521,Vaibhav Rao,Diya Kumer,vaibhav.rao68@gmail.com,3/14/2000,Female,B.Tech,EE,91,71,Regular,Yes,Deoria,272001,Day Scholar
+STU522,Chirag Deo,Manjari Talwar,chirag.deo17@gmail.com,5/29/2004,Male,B.Tech,CSE,60,75,Regular,Yes,Faizabad,272001,Hostler
+STU523,Saanvi Grover,Dishani Chowdhury,saanvi.grover74@gmail.com,6/11/2001,Male,B.Tech,CSE,88,65,Regular,Yes,Mau,272001,Hostler
+STU524,Vritika Dalal,Ela Babu,vritika.dalal84@gmail.com,5/31/2003,Male,B.Tech,IT,73,78,Lateral Entry,No,Mau,272001,Day Scholar
+STU525,Dharmajan Bir,Vedika Kothari,dharmajan.bir41@gmail.com,2/10/2002,Female,B.Tech,CSE,69,80,Regular,Yes,Azamgarh,272001,Hostler
+STU526,Tarini Bains,Ritvik Raj,tarini.bains88@gmail.com,8/11/2003,Male,B.Tech,CSE,92,86,Regular,Yes,Azamgarh,272001,Hostler
+STU527,Mishti Sem,Pari Bobal,mishti.sem63@gmail.com,3/9/2002,Male,B.Tech,CSE,72,64,Regular,Yes,Basti,272001,Hostler
+STU528,Shamik Kala,Misha Tailor,shamik.kala3@gmail.com,5/16/2002,Male,B.Tech,EE,65,81,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU529,Jayan Cheema,Aradhya Sodhi,jayan.cheema68@gmail.com,4/14/2002,Male,B.Tech,EC,63,62,Regular,Yes,Mau,272001,Day Scholar
+STU530,Jayant Madan,Kimaya Dutt,jayant.madan51@gmail.com,1/23/2005,Female,B.Tech,EE,80,79,Regular,Yes,Basti,272001,Day Scholar
+STU531,Jhanvi Ramanathan,Adira Lall,jhanvi.ramanathan33@gmail.com,10/25/2004,Female,B.Tech,CSD,74,78,Regular,Yes,Gorakhpur,272001,Hostler
+STU532,Aniruddh Uppal,Lagan Garde,aniruddh.uppal90@gmail.com,11/13/2001,Male,B.Tech,CSD,66,81,Regular,Yes,Barabanki,272001,Day Scholar
+STU533,Kiaan Randhawa,Hazel Sha,kiaan.randhawa39@gmail.com,12/17/2000,Female,B.Tech,EE,88,95,Regular,Yes,Sultanpur,272001,Day Scholar
+STU534,Anvi Setty,Kartik Karnik,anvi.setty42@gmail.com,5/8/2003,Female,B.Tech,EC,62,70,Regular,Yes,Azamgarh,272001,Day Scholar
+STU535,Nitara Krishna,Samiha Rege,nitara.krishna75@gmail.com,1/18/2002,Female,B.Tech,CSE-AIML,80,93,Regular,Yes,Jaunpur,272001,Day Scholar
+STU536,Zoya Tella,Tarini Joshi,zoya.tella94@gmail.com,8/28/2000,Male,B.Tech,IT,92,73,Regular,Yes,Faizabad,272001,Hostler
+STU537,Miraan Deshpande,Trisha Bath,miraan.deshpande27@gmail.com,8/11/2001,Female,B.Tech,CSE,83,73,Management,No,Lucknow,272001,Hostler
+STU538,Badal Kaur,Vritika Rajagopal,badal.kaur93@gmail.com,1/6/2003,Male,B.Tech,CSE-AIML,89,81,Management,No,Sultanpur,272001,Hostler
+STU539,Yakshit Kohli,Keya Rana,yakshit.kohli75@gmail.com,11/1/2004,Male,B.Tech,ME,65,69,Regular,Yes,Deoria,272001,Hostler
+STU540,Rhea Borra,Siya Sethi,rhea.borra70@gmail.com,1/1/2005,Male,B.Tech,CSD,70,69,Regular,Yes,Lucknow,272001,Hostler
+STU541,Nitya Shetty,Dishani Walla,nitya.shetty84@gmail.com,12/29/2000,Male,B.Tech,CSD,94,76,Regular,Yes,Sultanpur,272001,Day Scholar
+STU542,Farhan Bava,Hunar Dada,farhan.bava89@gmail.com,8/2/2004,Female,B.Tech,CSE,82,87,Management,No,Jaunpur,272001,Day Scholar
+STU543,Dishani Kata,Advika Shan,dishani.kata59@gmail.com,8/3/2001,Female,B.Tech,CSE-AIML,83,95,Regular,Yes,Sultanpur,272001,Day Scholar
+STU544,Tushar Tandon,Jhanvi Dada,tushar.tandon58@gmail.com,3/10/2001,Female,B.Tech,CSE-AIML,86,74,Regular,Yes,Ballia,272001,Day Scholar
+STU545,Sana Varty,Mamooty Sem,sana.varty89@gmail.com,1/1/2001,Female,B.Tech,IT,67,90,Management,Yes,Azamgarh,272001,Hostler
+STU546,Mehul Shroff,Pranay Trivedi,mehul.shroff51@gmail.com,9/18/2002,Female,B.Tech,EC,79,60,Regular,Yes,Lucknow,272001,Hostler
+STU547,Anya Som,Vanya Shan,anya.som99@gmail.com,5/6/2003,Male,B.Tech,IT,71,69,Lateral Entry,No,Faizabad,272001,Hostler
+STU548,Aarush Goel,Dhruv Kaur,aarush.goel82@gmail.com,12/4/2003,Male,B.Tech,EC,74,72,Regular,Yes,Barabanki,272001,Hostler
+STU549,Tushar Kumar,Ritvik Borah,tushar.kumar18@gmail.com,11/27/2000,Female,B.Tech,Civil,77,61,Regular,Yes,Basti,272001,Hostler
+STU550,Divij Mane,Ranbir Barad,divij.mane5@gmail.com,3/25/2000,Male,B.Tech,EE,64,89,Regular,Yes,Deoria,272001,Day Scholar
+STU551,Onkar Chander,Raghav Das,onkar.chander68@gmail.com,12/29/2000,Female,B.Tech,CSD,73,87,Regular,Yes,Mau,272001,Day Scholar
+STU552,Fateh Buch,Arhaan Loke,fateh.buch54@gmail.com,5/25/2002,Female,B.Tech,EE,95,89,Regular,Yes,Azamgarh,272001,Day Scholar
+STU553,Shalv Swaminathan,Ahana  Sem,shalv.swaminathan98@gmail.com,8/17/2004,Male,B.Tech,CSD,93,88,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU554,Alia Dugar,Gatik Dixit,alia.dugar28@gmail.com,5/13/2002,Male,B.Tech,EE,86,62,Regular,Yes,Deoria,272001,Hostler
+STU555,Yakshit Batta,Keya Gade,yakshit.batta48@gmail.com,12/27/2000,Male,B.Tech,CSD,93,77,Regular,Yes,Mau,272001,Hostler
+STU556,Raghav Raja,Umang Varughese,raghav.raja3@gmail.com,7/2/2002,Male,B.Tech,CSE,85,65,Regular,Yes,Lucknow,272001,Hostler
+STU557,Tanya Mann,Nakul Dewan,tanya.mann30@gmail.com,7/15/2003,Male,B.Tech,IT,83,70,Management,Yes,Mau,272001,Hostler
+STU558,Vardaniya Dyal,Rati Goel,vardaniya.dyal78@gmail.com,4/28/2003,Female,B.Tech,EE,65,63,Regular,Yes,Azamgarh,272001,Day Scholar
+STU559,Nehmat Venkatesh,Aradhya Bhavsar,nehmat.venkatesh46@gmail.com,4/12/2004,Male,B.Tech,CSE-AIML,90,89,Regular,Yes,Basti,272001,Day Scholar
+STU560,Tushar Jain,Sana Tata,tushar.jain36@gmail.com,12/13/2001,Female,B.Tech,EC,80,63,Regular,Yes,Deoria,272001,Day Scholar
+STU561,Neelofar Kuruvilla,Indrans Taneja,neelofar.kuruvilla8@gmail.com,12/28/2001,Female,B.Tech,CSE,83,77,Regular,Yes,Lucknow,272001,Hostler
+STU562,Anvi Goda,Riya Singh,anvi.goda40@gmail.com,2/14/2005,Female,B.Tech,CSE,75,87,Regular,Yes,Lucknow,272001,Day Scholar
+STU563,Madhup Bandi,Kimaya Doctor,madhup.bandi17@gmail.com,12/17/2000,Female,B.Tech,CSD,81,76,Lateral Entry,No,Deoria,272001,Day Scholar
+STU564,Advika Loyal,Shayak Sachdev,advika.loyal12@gmail.com,2/14/2002,Male,B.Tech,CSE,60,87,Management,No,Ballia,272001,Day Scholar
+STU565,Madhup Lanka,Samarth Uppal,madhup.lanka10@gmail.com,1/19/2001,Male,B.Tech,IT,60,79,Management,No,Basti,272001,Hostler
+STU566,Aarush Dewan,Amira Dua,aarush.dewan40@gmail.com,3/22/2001,Female,B.Tech,CSD,72,88,Management,Yes,Barabanki,272001,Day Scholar
+STU567,Sumer Taneja,Uthkarsh Bal,sumer.taneja66@gmail.com,12/3/2003,Male,B.Tech,IT,89,60,Management,No,Azamgarh,272001,Day Scholar
+STU568,Anay Tank,Hrishita Kapadia,anay.tank59@gmail.com,7/5/2001,Male,B.Tech,CSE,60,62,Regular,Yes,Basti,272001,Day Scholar
+STU569,Rania Salvi,Stuvan Barad,rania.salvi64@gmail.com,2/23/2003,Female,B.Tech,CSE-AIML,81,89,Regular,Yes,Deoria,272001,Day Scholar
+STU570,Raghav Kaul,Aaryahi Chawla,raghav.kaul22@gmail.com,6/25/2002,Female,B.Tech,CSE,75,91,Lateral Entry,Yes,Barabanki,272001,Day Scholar
+STU571,Aniruddh Loyal,Riya Dalal,aniruddh.loyal19@gmail.com,8/9/2004,Female,B.Tech,EE,83,62,Regular,Yes,Deoria,272001,Hostler
+STU572,Piya Kumar,Vanya Dhawan,piya.kumar1@gmail.com,1/4/2001,Female,B.Tech,CSE,72,61,Management,No,Faizabad,272001,Hostler
+STU573,Jiya Madan,Neysa Arya,jiya.madan31@gmail.com,9/15/2000,Female,B.Tech,ME,84,91,Management,Yes,Faizabad,272001,Day Scholar
+STU574,Vritika Thaman,Amani Chand,vritika.thaman30@gmail.com,10/28/2002,Female,B.Tech,EE,86,71,Regular,Yes,Mau,272001,Hostler
+STU575,Jhanvi Varkey,Nayantara Bawa,jhanvi.varkey18@gmail.com,8/15/2000,Female,B.Tech,IT,74,82,Management,No,Jaunpur,272001,Day Scholar
+STU576,Nishith Doctor,Zain Golla,nishith.doctor26@gmail.com,4/4/2000,Male,B.Tech,CSE,82,81,Management,Yes,Gorakhpur,272001,Day Scholar
+STU577,Manjari Rao,Jayant Jaggi,manjari.rao67@gmail.com,12/8/2002,Female,B.Tech,CSD,83,83,Regular,Yes,Sultanpur,272001,Day Scholar
+STU578,Kaira Kamdar,Zara Ramaswamy,kaira.kamdar10@gmail.com,1/22/2004,Male,B.Tech,ME,62,73,Regular,Yes,Basti,272001,Day Scholar
+STU579,Aarav Anne,Heer Dar,aarav.anne88@gmail.com,9/27/2001,Female,B.Tech,CSD,62,69,Regular,Yes,Gorakhpur,272001,Hostler
+STU580,Taimur Garde,Mehul Brahmbhatt,taimur.garde46@gmail.com,4/5/2001,Female,B.Tech,CSE,71,91,Regular,Yes,Raebareli,272001,Hostler
+STU581,Miraya Dora,Bhavin Kade,miraya.dora63@gmail.com,7/22/2000,Female,B.Tech,CSD,62,82,Regular,Yes,Faizabad,272001,Hostler
+STU582,Heer Bhat,Ira Dani,heer.bhat92@gmail.com,2/16/2004,Female,B.Tech,CSE,80,64,Regular,Yes,Deoria,272001,Hostler
+STU583,Ishita Babu,Ivan Bala,ishita.babu59@gmail.com,12/21/2004,Male,B.Tech,CSE,95,71,Regular,Yes,Gorakhpur,272001,Hostler
+STU584,Romil Kalita,Farhan Kala,romil.kalita4@gmail.com,9/18/2000,Male,B.Tech,ME,94,69,Regular,Yes,Faizabad,272001,Day Scholar
+STU585,Reyansh Bhatnagar,Hridaan Gill,reyansh.bhatnagar48@gmail.com,7/27/2000,Male,B.Tech,CSD,83,80,Regular,Yes,Sultanpur,272001,Hostler
+STU586,Ishita Shukla,Yashvi Dara,ishita.shukla41@gmail.com,5/6/2003,Female,B.Tech,CSD,82,66,Regular,Yes,Deoria,272001,Day Scholar
+STU587,Mishti Khalsa,Akarsh Dar,mishti.khalsa92@gmail.com,11/4/2000,Female,B.Tech,IT,65,79,Management,Yes,Lucknow,272001,Day Scholar
+STU588,Zain Balay,Heer Zachariah,zain.balay60@gmail.com,8/2/2003,Male,B.Tech,CSE,77,71,Regular,Yes,Faizabad,272001,Hostler
+STU589,Nishith Saraf,Suhana Taneja,nishith.saraf57@gmail.com,12/17/2001,Female,B.Tech,CSD,76,91,Regular,Yes,Gorakhpur,272001,Hostler
+STU590,Priyansh Saran,Biju Sarraf,priyansh.saran5@gmail.com,10/12/2001,Male,B.Tech,ME,70,73,Regular,Yes,Barabanki,272001,Day Scholar
+STU591,Kiara Sami,Yashvi Char,kiara.sami71@gmail.com,7/25/2000,Female,B.Tech,EC,78,70,Regular,Yes,Raebareli,272001,Hostler
+STU592,Samaira Thaman,Dhruv Tata,samaira.thaman14@gmail.com,11/30/2000,Female,B.Tech,CSD,64,84,Management,No,Basti,272001,Hostler
+STU593,Sana Kala,Ranbir Sarna,sana.kala47@gmail.com,2/22/2001,Female,B.Tech,CSE,74,62,Regular,Yes,Jaunpur,272001,Day Scholar
+STU594,Pihu Sahota,Ishita Ramakrishnan,pihu.sahota51@gmail.com,7/19/2001,Male,B.Tech,CSE,70,72,Regular,Yes,Barabanki,272001,Day Scholar
+STU595,Rasha Jhaveri,Miraya Agrawal,rasha.jhaveri70@gmail.com,5/2/2005,Female,B.Tech,EC,62,93,Regular,Yes,Mau,272001,Day Scholar
+STU596,Sara Gour,Shaan Verma,sara.gour79@gmail.com,11/1/2001,Female,B.Tech,IT,78,63,Regular,Yes,Azamgarh,272001,Day Scholar
+STU597,Madhav Bansal,Arhaan Hayer,madhav.bansal67@gmail.com,9/9/2000,Female,B.Tech,IT,61,69,Regular,Yes,Raebareli,272001,Day Scholar
+STU598,Tiya Sampath,Rohan Brahmbhatt,tiya.sampath48@gmail.com,3/27/2005,Male,B.Tech,CSE-AIML,63,81,Regular,Yes,Sultanpur,272001,Day Scholar
+STU599,Nitya Sharaf,Shaan Halder,nitya.sharaf24@gmail.com,10/2/2000,Female,B.Tech,CSE,90,64,Regular,Yes,Basti,272001,Day Scholar
+STU600,Biju Das,Bhavin Sha,biju.das56@gmail.com,7/16/2001,Female,B.Tech,EE,79,64,Regular,Yes,Barabanki,272001,Hostler
+STU601,Shlok Kapur,Uthkarsh Kashyap,shlok.kapur97@gmail.com,2/29/2004,Female,B.Tech,CSD,69,86,Management,No,Barabanki,272001,Day Scholar
+STU602,Fateh Konda,Pihu Bhasin,fateh.konda13@gmail.com,4/3/2001,Male,B.Tech,CSE,73,75,Regular,Yes,Raebareli,272001,Day Scholar
+STU603,Mahika Kuruvilla,Ira Rout,mahika.kuruvilla3@gmail.com,12/13/2001,Female,B.Tech,CSE-AIML,73,70,Regular,Yes,Faizabad,272001,Day Scholar
+STU604,Umang Date,Mannat Iyengar,umang.date89@gmail.com,5/23/2002,Female,B.Tech,IT,88,87,Regular,Yes,Sultanpur,272001,Hostler
+STU605,Divit Ravi,Fateh Sandal,divit.ravi97@gmail.com,5/24/2000,Male,B.Tech,CSE,92,76,Management,Yes,Sultanpur,272001,Day Scholar
+STU606,Badal Kant,Adira Vora,badal.kant55@gmail.com,1/15/2002,Male,B.Tech,CSD,86,81,Regular,Yes,Ballia,272001,Day Scholar
+STU607,Taimur Sandhu,Ayesha Bains,taimur.sandhu37@gmail.com,2/21/2003,Male,B.Tech,CSE,94,89,Regular,Yes,Raebareli,272001,Hostler
+STU608,Neelofar Khalsa,Yakshit Sood,neelofar.khalsa53@gmail.com,4/25/2001,Male,B.Tech,EC,61,92,Lateral Entry,No,Mau,272001,Hostler
+STU609,Indrans Master,Anvi Hegde,indrans.master66@gmail.com,10/30/2001,Male,B.Tech,EC,62,93,Regular,Yes,Mau,272001,Hostler
+STU610,Lakshay Handa,Tiya Varghese,lakshay.handa60@gmail.com,2/28/2005,Male,B.Tech,CSE,73,62,Regular,Yes,Sultanpur,272001,Day Scholar
+STU611,Shayak Sama,Madhav Ranganathan,shayak.sama6@gmail.com,1/14/2005,Female,B.Tech,CSE,85,77,Regular,Yes,Raebareli,272001,Day Scholar
+STU612,Emir Gala,Aayush Trivedi,emir.gala62@gmail.com,12/30/2000,Male,B.Tech,CSD,95,77,Management,Yes,Ballia,272001,Day Scholar
+STU613,Jivika Bhardwaj,Romil Sundaram,jivika.bhardwaj54@gmail.com,1/27/2002,Female,B.Tech,ME,93,83,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU614,Anaya Gour,Ivan Keer,anaya.gour9@gmail.com,1/26/2000,Female,B.Tech,IT,90,60,Regular,Yes,Mau,272001,Day Scholar
+STU615,Lakshay Goswami,Aarav Sahni,lakshay.goswami52@gmail.com,3/17/2001,Male,B.Tech,CSE,86,90,Regular,Yes,Sultanpur,272001,Day Scholar
+STU616,Lagan Sundaram,Kiara Konda,lagan.sundaram56@gmail.com,7/16/2002,Male,B.Tech,CSD,64,80,Management,No,Azamgarh,272001,Hostler
+STU617,Renee Mangat,Samarth Gopal,renee.mangat63@gmail.com,6/12/2002,Female,B.Tech,EC,63,79,Regular,Yes,Jaunpur,272001,Hostler
+STU618,Dhanush Contractor,Ryan Golla,dhanush.contractor68@gmail.com,9/2/2002,Male,B.Tech,CSD,82,73,Regular,Yes,Azamgarh,272001,Hostler
+STU619,Tanya Choudhary,Jayesh Sarin,tanya.choudhary26@gmail.com,10/1/2000,Female,B.Tech,CSD,89,75,Regular,Yes,Azamgarh,272001,Day Scholar
+STU620,Biju Lal,Himmat Dora,biju.lal63@gmail.com,9/8/2002,Female,B.Tech,Civil,91,63,Regular,Yes,Faizabad,272001,Day Scholar
+STU621,Heer Johal,Arhaan Datta,heer.johal29@gmail.com,6/10/2000,Male,B.Tech,IT,74,80,Regular,Yes,Jaunpur,272001,Hostler
+STU622,Ojas Dhar,Saanvi Halder,ojas.dhar52@gmail.com,6/2/2005,Male,B.Tech,Civil,67,94,Regular,Yes,Lucknow,272001,Hostler
+STU623,Dishani Mall,Rati Jani,dishani.mall65@gmail.com,7/28/2000,Male,B.Tech,IT,95,88,Management,Yes,Sultanpur,272001,Hostler
+STU624,Diya Kohli,Anya Master,diya.kohli32@gmail.com,2/28/2003,Female,B.Tech,CSE-AIML,90,77,Regular,Yes,Jaunpur,272001,Hostler
+STU625,Navya Dhar,Nitara Badami,navya.dhar30@gmail.com,6/30/2002,Female,B.Tech,EC,95,63,Regular,Yes,Barabanki,272001,Day Scholar
+STU626,Amani Ahuja,Zoya Tata,amani.ahuja77@gmail.com,3/27/2005,Male,B.Tech,CSD,80,85,Management,No,Ballia,272001,Hostler
+STU627,Samar Batta,Ishaan Kata,samar.batta32@gmail.com,1/10/2005,Male,B.Tech,Civil,63,76,Regular,Yes,Raebareli,272001,Day Scholar
+STU628,Tarini Banik,Samiha Chatterjee,tarini.banik50@gmail.com,7/24/2003,Male,B.Tech,CSE,61,88,Management,Yes,Faizabad,272001,Day Scholar
+STU629,Nishith Bhandari,Shalv Garde,nishith.bhandari80@gmail.com,5/14/2000,Male,B.Tech,Civil,81,66,Regular,Yes,Raebareli,272001,Hostler
+STU630,Taimur Anne,Gatik Sarraf,taimur.anne86@gmail.com,10/18/2003,Female,B.Tech,CSD,94,75,Regular,Yes,Raebareli,272001,Hostler
+STU631,Ivana Shan,Divit Varkey,ivana.shan7@gmail.com,2/3/2003,Male,B.Tech,CSD,89,84,Regular,Yes,Lucknow,272001,Hostler
+STU632,Abram Goel,Pranay Dani,abram.goel34@gmail.com,7/1/2003,Male,B.Tech,IT,89,66,Management,Yes,Barabanki,272001,Hostler
+STU633,Aaina Ravi,Eshani Butala,aaina.ravi3@gmail.com,5/28/2000,Female,B.Tech,CSE,76,66,Management,Yes,Gorakhpur,272001,Day Scholar
+STU634,Anika Chada,Mahika Vyas,anika.chada49@gmail.com,3/5/2000,Male,B.Tech,CSE,79,77,Regular,Yes,Faizabad,272001,Day Scholar
+STU635,Shamik Bassi,Darshit Comar,shamik.bassi71@gmail.com,4/9/2004,Male,B.Tech,CSE,63,88,Regular,Yes,Gorakhpur,272001,Hostler
+STU636,Hrishita Dey,Samarth Ramesh,hrishita.dey1@gmail.com,6/17/2004,Female,B.Tech,IT,68,86,Regular,Yes,Raebareli,272001,Day Scholar
+STU637,Shaan Borah,Diya Lala,shaan.borah80@gmail.com,6/28/2000,Female,B.Tech,IT,95,80,Lateral Entry,No,Faizabad,272001,Hostler
+STU638,Zara Hayre,Shray Sood,zara.hayre10@gmail.com,6/3/2004,Female,B.Tech,IT,90,60,Management,No,Ballia,272001,Day Scholar
+STU639,Hansh Soman,Mohanlal Roy,hansh.soman84@gmail.com,5/20/2000,Male,B.Tech,Civil,84,82,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU640,Prerak Ganesh,Sana Chopra,prerak.ganesh97@gmail.com,1/20/2000,Female,B.Tech,EC,64,78,Management,Yes,Sultanpur,272001,Hostler
+STU641,Arhaan Sachdeva,Jivin Bhattacharyya,arhaan.sachdeva3@gmail.com,9/9/2003,Female,B.Tech,CSD,71,94,Regular,Yes,Jaunpur,272001,Day Scholar
+STU642,Vedika Mangat,Eshani Baria,vedika.mangat51@gmail.com,10/20/2004,Female,B.Tech,CSD,90,94,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU643,Gatik Dasgupta,Aayush Sama,gatik.dasgupta3@gmail.com,1/17/2003,Male,B.Tech,CSE-AIML,95,68,Regular,Yes,Basti,272001,Hostler
+STU644,Abram Sood,Samar Desai,abram.sood95@gmail.com,12/3/2004,Male,B.Tech,IT,64,94,Regular,Yes,Azamgarh,272001,Day Scholar
+STU645,Aaina Sundaram,Madhup Shankar,aaina.sundaram49@gmail.com,8/18/2002,Female,B.Tech,EE,61,83,Regular,Yes,Jaunpur,272001,Hostler
+STU646,Hiran Lalla,Misha Talwar,hiran.lalla27@gmail.com,12/20/2002,Female,B.Tech,IT,87,65,Regular,Yes,Sultanpur,272001,Day Scholar
+STU647,Vidur Banik,Manjari Chandran,vidur.banik53@gmail.com,3/8/2001,Female,B.Tech,IT,68,73,Regular,Yes,Sultanpur,272001,Hostler
+STU648,Dharmajan Chaudhuri,Samiha Karpe,dharmajan.chaudhuri54@gmail.com,5/8/2005,Female,B.Tech,IT,76,79,Regular,Yes,Raebareli,272001,Hostler
+STU649,Zaina Sachdeva,Manjari Majumdar,zaina.sachdeva42@gmail.com,11/14/2001,Male,B.Tech,CSE-AIML,68,86,Management,No,Azamgarh,272001,Hostler
+STU650,Dhanush Bala,Divij Viswanathan,dhanush.bala35@gmail.com,8/3/2004,Male,B.Tech,CSD,70,91,Regular,Yes,Faizabad,272001,Hostler
+STU651,Nehmat Rege,Emir Thaman,nehmat.rege93@gmail.com,2/10/2000,Male,B.Tech,IT,81,91,Management,Yes,Deoria,272001,Hostler
+STU652,Devansh Madan,Mahika Borra,devansh.madan85@gmail.com,5/25/2000,Male,B.Tech,CSD,63,84,Regular,Yes,Sultanpur,272001,Day Scholar
+STU653,Tiya Dube,Anahita Gandhi,tiya.dube7@gmail.com,1/3/2002,Female,B.Tech,CSD,76,86,Regular,Yes,Lucknow,272001,Day Scholar
+STU654,Rohan Randhawa,Farhan Korpal,rohan.randhawa93@gmail.com,3/15/2001,Female,B.Tech,ME,64,89,Regular,Yes,Ballia,272001,Hostler
+STU655,Zara Koshy,Saanvi Thaker,zara.koshy55@gmail.com,9/16/2004,Female,B.Tech,Civil,65,72,Management,No,Lucknow,272001,Day Scholar
+STU656,Jivika Ravel,Navya Choudhary,jivika.ravel87@gmail.com,5/16/2005,Female,B.Tech,CSE-AIML,84,75,Regular,Yes,Mau,272001,Day Scholar
+STU657,Uthkarsh Lala,Hridaan Lalla,uthkarsh.lala10@gmail.com,7/5/2004,Male,B.Tech,IT,74,93,Regular,Yes,Azamgarh,272001,Day Scholar
+STU658,Riya Bumb,Raunak Bhasin,riya.bumb98@gmail.com,8/20/2004,Male,B.Tech,CSE-AIML,92,67,Regular,Yes,Basti,272001,Hostler
+STU659,Indrajit Sha,Riaan Garde,indrajit.sha25@gmail.com,11/26/2003,Female,B.Tech,EC,67,61,Regular,Yes,Lucknow,272001,Hostler
+STU660,Tiya Malhotra,Dharmajan Tandon,tiya.malhotra24@gmail.com,5/31/2005,Female,B.Tech,CSE,60,95,Management,No,Azamgarh,272001,Day Scholar
+STU661,Anika Koshy,Samarth Sandhu,anika.koshy79@gmail.com,7/31/2004,Male,B.Tech,EE,78,88,Regular,Yes,Mau,272001,Hostler
+STU662,Mehul Sahota,Jayan Dayal,mehul.sahota65@gmail.com,5/8/2002,Male,B.Tech,CSE,64,69,Regular,Yes,Lucknow,272001,Hostler
+STU663,Anahi Sachdev,Jhanvi Badami,anahi.sachdev78@gmail.com,5/2/2000,Female,B.Tech,IT,60,91,Regular,Yes,Azamgarh,272001,Day Scholar
+STU664,Ojas Apte,Samaira Lad,ojas.apte26@gmail.com,4/8/2004,Male,B.Tech,IT,90,83,Regular,Yes,Sultanpur,272001,Day Scholar
+STU665,Baiju Bhagat,Kimaya Hora,baiju.bhagat54@gmail.com,4/10/2005,Female,B.Tech,IT,87,92,Regular,Yes,Basti,272001,Day Scholar
+STU666,Elakshi Garg,Damini Trivedi,elakshi.garg57@gmail.com,2/11/2002,Male,B.Tech,CSD,85,90,Regular,Yes,Gorakhpur,272001,Hostler
+STU667,Anaya Bahri,Urvi Bhattacharyya,anaya.bahri99@gmail.com,7/26/2000,Male,B.Tech,CSD,91,76,Regular,Yes,Barabanki,272001,Hostler
+STU668,Piya Mangat,Anay Venkatesh,piya.mangat51@gmail.com,2/23/2001,Female,B.Tech,CSD,85,91,Regular,Yes,Faizabad,272001,Hostler
+STU669,Rasha Mall,Kashvi Goel,rasha.mall72@gmail.com,7/12/2003,Female,B.Tech,Civil,69,66,Regular,Yes,Mau,272001,Day Scholar
+STU670,Prisha Chaudhry,Anay Balan,prisha.chaudhry23@gmail.com,5/30/2002,Female,B.Tech,CSE,86,87,Regular,Yes,Deoria,272001,Day Scholar
+STU671,Taran Kunda,Tiya Varty,taran.kunda83@gmail.com,10/10/2001,Male,B.Tech,CSE,65,65,Regular,Yes,Azamgarh,272001,Hostler
+STU672,Vihaan Saxena,Nehmat Kara,vihaan.saxena59@gmail.com,5/18/2002,Male,B.Tech,EC,95,71,Regular,Yes,Basti,272001,Day Scholar
+STU673,Gokul Bhatti,Ishaan Divan,gokul.bhatti61@gmail.com,8/30/2000,Male,B.Tech,CSE-AIML,82,93,Lateral Entry,No,Azamgarh,272001,Day Scholar
+STU674,Jivin Atwal,Kanav Mall,jivin.atwal86@gmail.com,12/25/2001,Male,B.Tech,IT,67,85,Regular,Yes,Barabanki,272001,Day Scholar
+STU675,Hazel Srinivas,Hrishita Dada,hazel.srinivas37@gmail.com,10/22/2001,Male,B.Tech,CSE-AIML,90,81,Regular,Yes,Basti,272001,Hostler
+STU676,Kabir Tata,Renee Bumb,kabir.tata92@gmail.com,3/13/2005,Female,B.Tech,CSD,81,75,Regular,Yes,Lucknow,272001,Hostler
+STU677,Siya Hans,Myra Choudhry,siya.hans63@gmail.com,12/2/2003,Female,B.Tech,IT,69,65,Regular,Yes,Raebareli,272001,Hostler
+STU678,Abram Ramesh,Uthkarsh Bhandari,abram.ramesh57@gmail.com,12/18/2001,Female,B.Tech,CSE,63,82,Regular,Yes,Deoria,272001,Hostler
+STU679,Reyansh Barman,Elakshi Babu,reyansh.barman3@gmail.com,4/11/2003,Female,B.Tech,Civil,60,64,Management,Yes,Barabanki,272001,Day Scholar
+STU680,Heer Majumdar,Nirvaan Ahluwalia,heer.majumdar15@gmail.com,5/8/2002,Male,B.Tech,CSE-AIML,67,94,Management,No,Sultanpur,272001,Hostler
+STU681,Aarna Barad,Shlok Varma,aarna.barad75@gmail.com,11/9/2002,Female,B.Tech,CSE-AIML,74,70,Regular,Yes,Ballia,272001,Hostler
+STU682,Sumer Basak,Jivin Chauhan,sumer.basak92@gmail.com,11/23/2002,Female,B.Tech,ME,73,93,Regular,Yes,Lucknow,272001,Hostler
+STU683,Ishaan Tripathi,Indranil Sathe,ishaan.tripathi31@gmail.com,10/20/2001,Female,B.Tech,CSE-AIML,66,82,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU684,Elakshi Vohra,Taran Dalal,elakshi.vohra92@gmail.com,5/21/2004,Male,B.Tech,EE,91,78,Regular,Yes,Jaunpur,272001,Hostler
+STU685,Devansh Salvi,Veer Lalla,devansh.salvi19@gmail.com,7/13/2002,Male,B.Tech,CSE,66,80,Regular,Yes,Jaunpur,272001,Day Scholar
+STU686,Dhanush Shankar,Yasmin Varughese,dhanush.shankar50@gmail.com,4/3/2000,Male,B.Tech,CSD,71,88,Regular,Yes,Deoria,272001,Hostler
+STU687,Alisha Buch,Amira Behl,alisha.buch9@gmail.com,2/1/2003,Female,B.Tech,CSD,90,71,Regular,Yes,Basti,272001,Day Scholar
+STU688,Rania Sanghvi,Piya Upadhyay,rania.sanghvi97@gmail.com,10/26/2000,Female,B.Tech,CSE,64,81,Regular,Yes,Gorakhpur,272001,Hostler
+STU689,Advika Chawla,Baiju Doshi,advika.chawla26@gmail.com,6/5/2003,Female,B.Tech,EC,75,93,Regular,Yes,Mau,272001,Hostler
+STU690,Sahil Khosla,Yuvaan Toor,sahil.khosla32@gmail.com,9/3/2004,Male,B.Tech,EE,79,61,Regular,Yes,Gorakhpur,272001,Hostler
+STU691,Himmat Kade,Emir Kuruvilla,himmat.kade31@gmail.com,8/16/2001,Male,B.Tech,CSE-AIML,66,81,Regular,Yes,Sultanpur,272001,Hostler
+STU692,Damini Sule,Zaina Kari,damini.sule35@gmail.com,8/27/2000,Female,B.Tech,CSE,60,93,Lateral Entry,No,Gorakhpur,272001,Hostler
+STU693,Yasmin Krishnan,Anahita Dara,yasmin.krishnan11@gmail.com,9/7/2001,Female,B.Tech,CSE-AIML,72,68,Regular,Yes,Ballia,272001,Hostler
+STU694,Kismat Wagle,Adira Roy,kismat.wagle43@gmail.com,8/8/2004,Female,B.Tech,CSE,86,80,Regular,Yes,Sultanpur,272001,Day Scholar
+STU695,Piya Kanda,Yashvi Rajagopal,piya.kanda95@gmail.com,10/23/2000,Male,B.Tech,CSE,84,77,Regular,Yes,Faizabad,272001,Day Scholar
+STU696,Umang Gaba,Vaibhav Saran,umang.gaba26@gmail.com,4/10/2000,Male,B.Tech,CSE,85,75,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU697,Alia Sangha,Anay Setty,alia.sangha99@gmail.com,4/1/2004,Male,B.Tech,IT,69,87,Regular,Yes,Sultanpur,272001,Hostler
+STU698,Saanvi Dewan,Sahil Ram,saanvi.dewan80@gmail.com,6/4/2004,Male,B.Tech,IT,69,78,Regular,Yes,Deoria,272001,Day Scholar
+STU699,Arhaan Sule,Yashvi Deo,arhaan.sule62@gmail.com,4/24/2000,Female,B.Tech,CSE,74,68,Regular,Yes,Ballia,272001,Hostler
+STU700,Hrishita Issac,Jayesh Chokshi,hrishita.issac19@gmail.com,9/19/2003,Female,B.Tech,CSD,63,72,Management,Yes,Jaunpur,272001,Day Scholar
+STU701,Jivin Cheema,Anaya Kata,jivin.cheema62@gmail.com,3/28/2001,Male,B.Tech,CSE-AIML,81,63,Regular,Yes,Deoria,272001,Hostler
+STU702,Sara Doshi,Lavanya Walia,sara.doshi42@gmail.com,10/15/2001,Male,B.Tech,ME,72,91,Regular,Yes,Deoria,272001,Day Scholar
+STU703,Hiran Walia,Vihaan Gour,hiran.walia20@gmail.com,8/3/2005,Male,B.Tech,EE,77,80,Lateral Entry,Yes,Jaunpur,272001,Day Scholar
+STU704,Hridaan Lall,Shanaya Doshi,hridaan.lall44@gmail.com,12/12/2002,Female,B.Tech,CSE,67,88,Regular,Yes,Sultanpur,272001,Day Scholar
+STU705,Renee Sankar,Nitara Bhatnagar,renee.sankar49@gmail.com,8/12/2000,Male,B.Tech,EC,87,94,Regular,Yes,Lucknow,272001,Day Scholar
+STU706,Anya Seth,Aarush Choudhury,anya.seth78@gmail.com,4/27/2002,Female,B.Tech,CSE,83,90,Regular,Yes,Lucknow,272001,Hostler
+STU707,Parinaaz Lalla,Kavya Shanker,parinaaz.lalla63@gmail.com,8/29/2004,Female,B.Tech,IT,77,70,Regular,Yes,Deoria,272001,Day Scholar
+STU708,Alisha Bakshi,Divit Sastry,alisha.bakshi21@gmail.com,7/27/2002,Female,B.Tech,EC,87,82,Lateral Entry,Yes,Lucknow,272001,Day Scholar
+STU709,Renee Toor,Ela Karpe,renee.toor6@gmail.com,1/20/2004,Female,B.Tech,IT,89,85,Regular,Yes,Jaunpur,272001,Day Scholar
+STU710,Gatik Dhillon,Ishaan Bhalla,gatik.dhillon47@gmail.com,7/14/2000,Male,B.Tech,EC,71,78,Regular,Yes,Jaunpur,272001,Day Scholar
+STU711,Vanya Amble,Divit Tank,vanya.amble58@gmail.com,11/23/2000,Male,B.Tech,EC,66,92,Regular,Yes,Basti,272001,Day Scholar
+STU712,Kaira Dugar,Kavya Gaba,kaira.dugar17@gmail.com,5/25/2004,Female,B.Tech,IT,67,93,Regular,Yes,Basti,272001,Day Scholar
+STU713,Stuvan Mani,Badal Datta,stuvan.mani68@gmail.com,1/31/2005,Female,B.Tech,EC,68,64,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU714,Hunar Tella,Aarav Jani,hunar.tella93@gmail.com,11/9/2001,Female,B.Tech,CSE,85,74,Management,No,Deoria,272001,Day Scholar
+STU715,Rasha Bera,Yasmin Khurana,rasha.bera9@gmail.com,6/24/2001,Male,B.Tech,IT,64,92,Management,No,Mau,272001,Hostler
+STU716,Madhav Varty,Eshani Chander,madhav.varty14@gmail.com,6/8/2001,Male,B.Tech,ME,90,63,Management,Yes,Raebareli,272001,Day Scholar
+STU717,Tarini Kuruvilla,Siya Acharya,tarini.kuruvilla11@gmail.com,3/29/2005,Male,B.Tech,CSD,84,93,Regular,Yes,Mau,272001,Day Scholar
+STU718,Khushi Buch,Onkar Koshy,khushi.buch97@gmail.com,11/18/2000,Female,B.Tech,CSD,60,84,Regular,Yes,Sultanpur,272001,Hostler
+STU719,Vihaan Bahri,Raunak Bhavsar,vihaan.bahri2@gmail.com,9/7/2002,Female,B.Tech,CSD,75,88,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU720,Sumer Singhal,Ishaan Garg,sumer.singhal32@gmail.com,6/20/2003,Female,B.Tech,EE,75,68,Management,No,Raebareli,272001,Hostler
+STU721,Advik Korpal,Hrishita Dave,advik.korpal59@gmail.com,12/2/2002,Male,B.Tech,CSE-AIML,89,64,Management,No,Gorakhpur,272001,Day Scholar
+STU722,Divyansh Buch,Nayantara Bahri,divyansh.buch2@gmail.com,1/17/2000,Female,B.Tech,EE,76,81,Regular,Yes,Jaunpur,272001,Day Scholar
+STU723,Miraan Kade,Anaya Ram,miraan.kade81@gmail.com,11/19/2002,Female,B.Tech,IT,65,82,Regular,Yes,Deoria,272001,Hostler
+STU724,Misha Ramesh,Azad Samra,misha.ramesh79@gmail.com,6/5/2001,Male,B.Tech,EE,84,87,Regular,Yes,Lucknow,272001,Day Scholar
+STU725,Anahita Soman,Dhruv Krishnan,anahita.soman59@gmail.com,11/14/2001,Male,B.Tech,EC,71,61,Regular,Yes,Raebareli,272001,Hostler
+STU726,Jivin Buch,Samar Sachar,jivin.buch10@gmail.com,3/28/2000,Male,B.Tech,CSD,63,91,Regular,Yes,Faizabad,272001,Day Scholar
+STU727,Jayesh Ravel,Aarna Rastogi,jayesh.ravel27@gmail.com,5/16/2005,Female,B.Tech,CSE,63,60,Management,Yes,Basti,272001,Day Scholar
+STU728,Jayan Chauhan,Ishita Bhardwaj,jayan.chauhan80@gmail.com,5/30/2004,Female,B.Tech,CSE-AIML,78,74,Management,No,Sultanpur,272001,Day Scholar
+STU729,Jhanvi Dube,Yuvraj  Kant,jhanvi.dube93@gmail.com,2/24/2005,Female,B.Tech,IT,76,67,Regular,Yes,Jaunpur,272001,Hostler
+STU730,Kabir Kata,Darshit Chowdhury,kabir.kata46@gmail.com,2/21/2004,Male,B.Tech,IT,94,68,Regular,Yes,Sultanpur,272001,Hostler
+STU731,Kiaan Ramanathan,Shaan Dasgupta,kiaan.ramanathan6@gmail.com,10/28/2000,Female,B.Tech,CSD,85,86,Management,No,Basti,272001,Hostler
+STU732,Seher Kapur,Nitya Khurana,seher.kapur32@gmail.com,5/16/2002,Male,B.Tech,EE,71,71,Regular,Yes,Deoria,272001,Hostler
+STU733,Yakshit Sabharwal,Zeeshan Sinha,yakshit.sabharwal95@gmail.com,11/11/2001,Male,B.Tech,IT,62,62,Lateral Entry,Yes,Sultanpur,272001,Day Scholar
+STU734,Manjari Choudhry,Farhan Kade,manjari.choudhry72@gmail.com,1/16/2005,Male,B.Tech,EE,62,82,Management,Yes,Mau,272001,Day Scholar
+STU735,Rasha Dyal,Mannat Dubey,rasha.dyal99@gmail.com,5/26/2004,Male,B.Tech,IT,63,80,Management,No,Basti,272001,Hostler
+STU736,Madhav Thaker,Purab Shenoy,madhav.thaker46@gmail.com,1/10/2001,Male,B.Tech,CSE,63,64,Regular,Yes,Azamgarh,272001,Day Scholar
+STU737,Priyansh Ramanathan,Elakshi Sridhar,priyansh.ramanathan3@gmail.com,6/15/2005,Male,B.Tech,EE,62,86,Regular,Yes,Jaunpur,272001,Hostler
+STU738,Jayesh Kashyap,Aayush Ganesan,jayesh.kashyap54@gmail.com,10/4/2000,Female,B.Tech,CSE,77,61,Management,Yes,Sultanpur,272001,Hostler
+STU739,Manjari Basu,Piya Varma,manjari.basu88@gmail.com,6/11/2001,Female,B.Tech,EE,93,94,Regular,Yes,Lucknow,272001,Hostler
+STU740,Miraan Shukla,Oorja Konda,miraan.shukla86@gmail.com,2/9/2000,Female,B.Tech,CSE,79,72,Regular,Yes,Faizabad,272001,Hostler
+STU741,Advik Kapoor,Diya Rajagopal,advik.kapoor56@gmail.com,7/29/2005,Male,B.Tech,CSE-AIML,92,63,Management,Yes,Lucknow,272001,Hostler
+STU742,Akarsh Balasubramanian,Samarth Wason,akarsh.balasubramanian23@gmail.com,12/27/2000,Female,B.Tech,CSD,91,71,Regular,Yes,Barabanki,272001,Day Scholar
+STU743,Zaina Sekhon,Indrans Baria,zaina.sekhon99@gmail.com,6/29/2002,Female,B.Tech,CSE,61,76,Regular,Yes,Deoria,272001,Hostler
+STU744,Jhanvi Korpal,Stuvan Wason,jhanvi.korpal9@gmail.com,10/1/2003,Male,B.Tech,ME,85,75,Lateral Entry,No,Raebareli,272001,Day Scholar
+STU745,Adah Barad,Dharmajan Deo,adah.barad63@gmail.com,6/8/2000,Male,B.Tech,EE,68,66,Regular,Yes,Deoria,272001,Hostler
+STU746,Samarth Bhagat,Devansh Bakshi,samarth.bhagat50@gmail.com,4/8/2000,Female,B.Tech,CSE,82,81,Regular,Yes,Lucknow,272001,Hostler
+STU747,Ojas Chadha,Hrishita Dixit,ojas.chadha65@gmail.com,3/24/2001,Male,B.Tech,IT,64,67,Regular,Yes,Faizabad,272001,Hostler
+STU748,Anya Sandal,Pari D’Alia,anya.sandal68@gmail.com,6/3/2000,Female,B.Tech,IT,92,79,Regular,Yes,Faizabad,272001,Hostler
+STU749,Saanvi Chacko,Arnav Anand,saanvi.chacko78@gmail.com,2/11/2004,Male,B.Tech,CSE,64,71,Management,Yes,Azamgarh,272001,Day Scholar
+STU750,Anya Sheth,Taran Issac,anya.sheth59@gmail.com,6/3/2000,Male,B.Tech,ME,60,67,Management,Yes,Azamgarh,272001,Day Scholar
+STU751,Farhan Barad,Baiju Som,farhan.barad97@gmail.com,2/16/2001,Male,B.Tech,CSE,68,76,Management,No,Jaunpur,272001,Hostler
+STU752,Mohanlal Malhotra,Zaina Yadav,mohanlal.malhotra77@gmail.com,3/15/2005,Female,B.Tech,IT,60,85,Management,No,Sultanpur,272001,Hostler
+STU753,Suhana Chokshi,Nayantara Hari,suhana.chokshi19@gmail.com,12/12/2000,Female,B.Tech,CSE,68,88,Regular,Yes,Lucknow,272001,Day Scholar
+STU754,Anay Ramanathan,Aarush Sampath,anay.ramanathan93@gmail.com,9/5/2001,Female,B.Tech,IT,73,67,Lateral Entry,Yes,Ballia,272001,Hostler
+STU755,Ishaan Jayaraman,Jiya Shenoy,ishaan.jayaraman33@gmail.com,7/1/2001,Male,B.Tech,IT,74,64,Management,Yes,Barabanki,272001,Day Scholar
+STU756,Mahika Sen,Bhavin Dhar,mahika.sen80@gmail.com,11/14/2001,Female,B.Tech,IT,60,67,Regular,Yes,Azamgarh,272001,Hostler
+STU757,Faiyaz Anne,Vritika Gara,faiyaz.anne66@gmail.com,7/22/2001,Male,B.Tech,CSE-AIML,75,83,Regular,Yes,Azamgarh,272001,Day Scholar
+STU758,Taimur Chauhan,Ira Issac,taimur.chauhan21@gmail.com,6/3/2005,Female,B.Tech,CSE-AIML,77,87,Regular,Yes,Faizabad,272001,Hostler
+STU759,Dharmajan Vaidya,Indrans Dey,dharmajan.vaidya69@gmail.com,6/6/2000,Female,B.Tech,Civil,61,74,Management,No,Faizabad,272001,Day Scholar
+STU760,Kavya Dass,Reyansh Bhalla,kavya.dass74@gmail.com,3/8/2004,Male,B.Tech,Civil,72,94,Lateral Entry,No,Barabanki,272001,Hostler
+STU761,Sumer Iyer,Shamik Dugar,sumer.iyer3@gmail.com,3/14/2004,Male,B.Tech,CSE-AIML,88,80,Lateral Entry,Yes,Raebareli,272001,Day Scholar
+STU762,Divit Kohli,Dhanush Kar,divit.kohli77@gmail.com,6/4/2003,Male,B.Tech,Civil,62,68,Regular,Yes,Raebareli,272001,Hostler
+STU763,Vidur Jani,Hridaan Saxena,vidur.jani80@gmail.com,11/23/2004,Male,B.Tech,CSE,85,85,Management,Yes,Faizabad,272001,Day Scholar
+STU764,Aarav Boase,Fateh Bajwa,aarav.boase65@gmail.com,8/11/2001,Male,B.Tech,CSE,63,75,Regular,Yes,Basti,272001,Day Scholar
+STU765,Romil Deol,Hrishita Dube,romil.deol40@gmail.com,1/16/2004,Female,B.Tech,CSE,74,73,Regular,Yes,Mau,272001,Hostler
+STU766,Stuvan Agate,Tarini Basu,stuvan.agate51@gmail.com,12/23/2000,Male,B.Tech,EE,79,94,Regular,Yes,Sultanpur,272001,Day Scholar
+STU767,Kaira Andra,Zara Konda,kaira.andra28@gmail.com,11/20/2003,Male,B.Tech,EC,69,90,Management,No,Ballia,272001,Hostler
+STU768,Raghav Raju,Piya Kala,raghav.raju21@gmail.com,7/30/2004,Male,B.Tech,EC,77,70,Regular,Yes,Gorakhpur,272001,Hostler
+STU769,Alia Hayer,Khushi Vohra,alia.hayer61@gmail.com,9/19/2000,Female,B.Tech,CSE,74,72,Regular,Yes,Azamgarh,272001,Day Scholar
+STU770,Damini Dave,Saksham Deol,damini.dave50@gmail.com,3/20/2002,Female,B.Tech,IT,93,63,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU771,Misha Seth,Kaira Devan,misha.seth83@gmail.com,6/16/2001,Female,B.Tech,CSE,72,92,Regular,Yes,Barabanki,272001,Day Scholar
+STU772,Indranil Mallick,Darshit Malhotra,indranil.mallick5@gmail.com,12/28/2001,Male,B.Tech,CSD,76,92,Management,Yes,Ballia,272001,Day Scholar
+STU773,Ivana Chauhan,Hridaan Kadakia,ivana.chauhan87@gmail.com,7/30/2005,Male,B.Tech,CSE,93,79,Regular,Yes,Azamgarh,272001,Hostler
+STU774,Divij Singh,Rasha Batta,divij.singh17@gmail.com,6/4/2000,Female,B.Tech,CSD,92,83,Regular,Yes,Raebareli,272001,Day Scholar
+STU775,Nitara Aurora,Rania Rana,nitara.aurora57@gmail.com,8/10/2004,Female,B.Tech,CSD,78,71,Regular,Yes,Lucknow,272001,Hostler
+STU776,Tushar Uppal,Dhanush Subramaniam,tushar.uppal7@gmail.com,9/15/2002,Male,B.Tech,EE,61,91,Regular,Yes,Azamgarh,272001,Day Scholar
+STU777,Samiha Sant,Pranay Barad,samiha.sant51@gmail.com,3/22/2000,Male,B.Tech,EC,66,65,Regular,Yes,Basti,272001,Hostler
+STU778,Amani Lalla,Mehul Sur,amani.lalla78@gmail.com,11/21/2001,Female,B.Tech,CSE,64,81,Regular,Yes,Barabanki,272001,Hostler
+STU779,Adah Goda,Abram Bajaj,adah.goda54@gmail.com,10/26/2004,Male,B.Tech,CSD,72,81,Regular,Yes,Jaunpur,272001,Hostler
+STU780,Rhea Sawhney,Aarush Mahal,rhea.sawhney10@gmail.com,4/29/2000,Male,B.Tech,CSE,63,66,Regular,Yes,Deoria,272001,Hostler
+STU781,Renee Wali,Baiju Gandhi,renee.wali86@gmail.com,8/6/2000,Male,B.Tech,IT,95,86,Regular,Yes,Raebareli,272001,Hostler
+STU782,Misha Bera,Jayesh Bansal,misha.bera16@gmail.com,3/15/2003,Female,B.Tech,ME,76,93,Management,Yes,Ballia,272001,Day Scholar
+STU783,Neelofar Vala,Nehmat Divan,neelofar.vala64@gmail.com,3/14/2002,Female,B.Tech,CSE,66,90,Regular,Yes,Deoria,272001,Hostler
+STU784,Sumer Viswanathan,Riya Suresh,sumer.viswanathan74@gmail.com,6/29/2005,Female,B.Tech,CSE,85,74,Regular,Yes,Basti,272001,Day Scholar
+STU785,Jiya Khosla,Badal Gole,jiya.khosla46@gmail.com,10/9/2000,Male,B.Tech,IT,78,77,Regular,Yes,Ballia,272001,Day Scholar
+STU786,Kashvi Gulati,Aradhya Chand,kashvi.gulati15@gmail.com,2/26/2005,Female,B.Tech,IT,78,63,Management,Yes,Azamgarh,272001,Day Scholar
+STU787,Shanaya Raman,Reyansh Vasa,shanaya.raman2@gmail.com,11/9/2002,Female,B.Tech,CSE,87,63,Management,No,Deoria,272001,Hostler
+STU788,Ishita Banerjee,Madhav Tank,ishita.banerjee9@gmail.com,9/19/2003,Female,B.Tech,CSE,89,70,Regular,Yes,Barabanki,272001,Hostler
+STU789,Farhan Swaminathan,Shayak Sankar,farhan.swaminathan38@gmail.com,11/6/2003,Male,B.Tech,CSE,95,87,Regular,Yes,Ballia,272001,Hostler
+STU790,Aarna Boase,Indrajit Savant,aarna.boase13@gmail.com,9/5/2000,Female,B.Tech,CSE,69,85,Regular,Yes,Raebareli,272001,Day Scholar
+STU791,Jiya Guha,Uthkarsh Rana,jiya.guha60@gmail.com,9/20/2002,Male,B.Tech,EE,65,81,Management,No,Deoria,272001,Day Scholar
+STU792,Shlok Dua,Zara Dugal,shlok.dua71@gmail.com,10/3/2001,Male,B.Tech,Civil,74,87,Regular,Yes,Basti,272001,Hostler
+STU793,Nirvi Bail,Fateh Ramesh,nirvi.bail2@gmail.com,11/1/2004,Male,B.Tech,CSE,84,87,Regular,Yes,Raebareli,272001,Hostler
+STU794,Anaya Mammen,Ayesha Bava,anaya.mammen37@gmail.com,10/27/2001,Female,B.Tech,CSD,95,68,Management,No,Mau,272001,Hostler
+STU795,Sahil Vala,Zeeshan Guha,sahil.vala80@gmail.com,9/5/2002,Female,B.Tech,CSE,93,93,Lateral Entry,No,Raebareli,272001,Day Scholar
+STU796,Tiya Kalita,Himmat De,tiya.kalita80@gmail.com,11/12/2004,Male,B.Tech,EE,93,79,Regular,Yes,Raebareli,272001,Day Scholar
+STU797,Neysa Saraf,Dhanuk Bahri,neysa.saraf59@gmail.com,5/3/2002,Male,B.Tech,EE,76,71,Regular,Yes,Sultanpur,272001,Day Scholar
+STU798,Trisha Babu,Rati Kota,trisha.babu63@gmail.com,6/18/2000,Female,B.Tech,IT,61,73,Regular,Yes,Mau,272001,Day Scholar
+STU799,Heer Kakar,Anya Goda,heer.kakar26@gmail.com,6/12/2001,Male,B.Tech,IT,79,66,Regular,Yes,Raebareli,272001,Day Scholar
+STU800,Yashvi Toor,Taimur Sibal,yashvi.toor72@gmail.com,6/2/2000,Female,B.Tech,IT,71,91,Regular,Yes,Gorakhpur,272001,Hostler
+STU801,Pihu Vasa,Nitya Dave,pihu.vasa53@gmail.com,3/16/2000,Male,B.Tech,Civil,69,78,Regular,Yes,Gorakhpur,272001,Hostler
+STU802,Saira Sura,Chirag Sheth,saira.sura74@gmail.com,1/4/2003,Male,B.Tech,CSE,78,62,Regular,Yes,Lucknow,272001,Day Scholar
+STU803,Rania Kalla,Emir Chand,rania.kalla38@gmail.com,9/18/2003,Female,B.Tech,EC,85,71,Regular,Yes,Jaunpur,272001,Hostler
+STU804,Kiaan Sarraf,Lagan Lal,kiaan.sarraf6@gmail.com,11/29/2001,Female,B.Tech,EE,82,95,Regular,Yes,Raebareli,272001,Day Scholar
+STU805,Trisha Lall,Kabir Basak,trisha.lall92@gmail.com,7/25/2001,Male,B.Tech,IT,77,64,Regular,Yes,Mau,272001,Hostler
+STU806,Tarini Barman,Bhamini Goda,tarini.barman4@gmail.com,8/13/2001,Female,B.Tech,ME,93,72,Regular,Yes,Sultanpur,272001,Hostler
+STU807,Himmat Venkatesh,Rasha De,himmat.venkatesh17@gmail.com,1/22/2000,Male,B.Tech,IT,71,85,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU808,Biju Virk,Rania Kulkarni,biju.virk22@gmail.com,9/28/2000,Male,B.Tech,CSE,68,78,Regular,Yes,Faizabad,272001,Day Scholar
+STU809,Lavanya Thakur,Dishani Krish,lavanya.thakur41@gmail.com,6/26/2000,Female,B.Tech,CSE,95,75,Regular,Yes,Lucknow,272001,Hostler
+STU810,Kiara Johal,Taimur Bhattacharyya,kiara.johal27@gmail.com,12/3/2002,Male,B.Tech,IT,60,63,Regular,Yes,Azamgarh,272001,Day Scholar
+STU811,Amani Balay,Damini Khosla,amani.balay87@gmail.com,2/9/2005,Male,B.Tech,IT,68,61,Regular,Yes,Jaunpur,272001,Day Scholar
+STU812,Baiju Devan,Rhea Khurana,baiju.devan26@gmail.com,1/14/2004,Female,B.Tech,EE,75,68,Regular,Yes,Basti,272001,Day Scholar
+STU813,Damini Varkey,Vihaan Vaidya,damini.varkey18@gmail.com,4/27/2002,Male,B.Tech,IT,63,64,Regular,Yes,Sultanpur,272001,Day Scholar
+STU814,Yasmin Wable,Kanav Maharaj,yasmin.wable28@gmail.com,7/14/2000,Male,B.Tech,IT,95,67,Lateral Entry,No,Jaunpur,272001,Hostler
+STU815,Tanya Gole,Yakshit Koshy,tanya.gole48@gmail.com,3/9/2002,Female,B.Tech,EE,83,92,Regular,Yes,Raebareli,272001,Day Scholar
+STU816,Ishaan Chahal,Kiaan Gandhi,ishaan.chahal42@gmail.com,6/18/2000,Male,B.Tech,IT,80,88,Regular,Yes,Mau,272001,Hostler
+STU817,Eva Sood,Samar Bhasin,eva.sood72@gmail.com,7/22/2005,Female,B.Tech,CSD,81,69,Management,No,Basti,272001,Day Scholar
+STU818,Anaya Sinha,Umang Viswanathan,anaya.sinha52@gmail.com,3/21/2002,Female,B.Tech,CSE,92,93,Regular,Yes,Faizabad,272001,Day Scholar
+STU819,Inaaya  Salvi,Neysa Chacko,inaaya..salvi26@gmail.com,10/31/2000,Female,B.Tech,CSE,85,89,Regular,Yes,Ballia,272001,Day Scholar
+STU820,Nehmat Gara,Purab Garde,nehmat.gara4@gmail.com,4/15/2000,Male,B.Tech,CSD,72,79,Regular,Yes,Basti,272001,Day Scholar
+STU821,Taran Keer,Rhea Shanker,taran.keer96@gmail.com,7/22/2000,Male,B.Tech,EC,90,60,Regular,Yes,Lucknow,272001,Hostler
+STU822,Keya Kanda,Baiju Setty,keya.kanda93@gmail.com,1/22/2003,Female,B.Tech,CSE,62,86,Regular,Yes,Mau,272001,Hostler
+STU823,Sara Gulati,Ahana  Bhavsar,sara.gulati22@gmail.com,7/31/2000,Male,B.Tech,IT,93,81,Regular,Yes,Jaunpur,272001,Hostler
+STU824,Lakshay Chowdhury,Purab Dash,lakshay.chowdhury69@gmail.com,10/1/2000,Female,B.Tech,EE,72,68,Regular,Yes,Barabanki,272001,Day Scholar
+STU825,Vedika Som,Reyansh Wali,vedika.som93@gmail.com,4/9/2000,Female,B.Tech,IT,62,74,Regular,Yes,Ballia,272001,Day Scholar
+STU826,Pihu Virk,Ivan Mand,pihu.virk38@gmail.com,5/6/2004,Male,B.Tech,EE,90,90,Regular,Yes,Faizabad,272001,Day Scholar
+STU827,Hunar Kunda,Shaan Sampath,hunar.kunda25@gmail.com,5/11/2001,Female,B.Tech,CSE,72,62,Regular,Yes,Deoria,272001,Hostler
+STU828,Zara Ramachandran,Nirvaan Setty,zara.ramachandran7@gmail.com,9/3/2001,Female,B.Tech,CSD,62,76,Regular,Yes,Mau,272001,Day Scholar
+STU829,Hansh Sem,Ishaan Gandhi,hansh.sem69@gmail.com,8/4/2000,Male,B.Tech,EC,74,89,Regular,Yes,Basti,272001,Day Scholar
+STU830,Jivika Chaudhary,Ayesha Sur,jivika.chaudhary28@gmail.com,10/10/2004,Female,B.Tech,CSE,94,78,Regular,Yes,Gorakhpur,272001,Hostler
+STU831,Adira Wason,Keya Thakur,adira.wason66@gmail.com,11/28/2004,Male,B.Tech,Civil,78,69,Regular,Yes,Gorakhpur,272001,Hostler
+STU832,Krish Ramachandran,Himmat Goyal,krish.ramachandran32@gmail.com,2/19/2001,Female,B.Tech,CSE,61,80,Regular,Yes,Ballia,272001,Day Scholar
+STU833,Pihu Keer,Nakul Buch,pihu.keer4@gmail.com,12/14/2001,Male,B.Tech,CSE-AIML,82,70,Regular,Yes,Mau,272001,Day Scholar
+STU834,Prisha Rout,Vritika Arya,prisha.rout54@gmail.com,7/25/2005,Male,B.Tech,IT,84,62,Lateral Entry,No,Faizabad,272001,Hostler
+STU835,Suhana Balakrishnan,Riya Hayer,suhana.balakrishnan6@gmail.com,4/21/2005,Male,B.Tech,IT,63,74,Lateral Entry,No,Barabanki,272001,Hostler
+STU836,Charvi Jayaraman,Jhanvi Singh,charvi.jayaraman97@gmail.com,10/25/2001,Female,B.Tech,IT,85,60,Management,Yes,Gorakhpur,272001,Day Scholar
+STU837,Aradhya Gour,Arnav Dada,aradhya.gour57@gmail.com,8/22/2003,Male,B.Tech,CSD,95,89,Regular,Yes,Sultanpur,272001,Day Scholar
+STU838,Bhamini Hayre,Kanav Borah,bhamini.hayre89@gmail.com,2/20/2000,Male,B.Tech,CSD,94,90,Regular,Yes,Raebareli,272001,Day Scholar
+STU839,Keya Edwin,Ritvik Keer,keya.edwin29@gmail.com,10/5/2004,Male,B.Tech,IT,60,95,Regular,Yes,Ballia,272001,Hostler
+STU840,Riaan Dey,Ojas Sathe,riaan.dey99@gmail.com,1/26/2002,Female,B.Tech,IT,75,68,Management,Yes,Raebareli,272001,Day Scholar
+STU841,Sara Dara,Ela Chawla,sara.dara41@gmail.com,2/21/2000,Female,B.Tech,CSE,89,65,Regular,Yes,Basti,272001,Hostler
+STU842,Myra Amble,Jayan Thaker,myra.amble62@gmail.com,2/16/2005,Male,B.Tech,CSE-AIML,76,64,Lateral Entry,Yes,Barabanki,272001,Hostler
+STU843,Vidur Acharya,Gokul Gupta,vidur.acharya35@gmail.com,10/19/2004,Male,B.Tech,CSD,77,64,Regular,Yes,Lucknow,272001,Day Scholar
+STU844,Divit Bhandari,Tushar Shere,divit.bhandari73@gmail.com,2/13/2001,Male,B.Tech,Civil,82,66,Regular,Yes,Faizabad,272001,Hostler
+STU845,Tushar Kant,Nirvaan Shere,tushar.kant50@gmail.com,6/10/2005,Male,B.Tech,CSE,88,66,Regular,Yes,Basti,272001,Day Scholar
+STU846,Kavya Khosla,Eva Andra,kavya.khosla57@gmail.com,7/20/2002,Male,B.Tech,EC,71,83,Regular,Yes,Deoria,272001,Hostler
+STU847,Shanaya Bobal,Zara Ram,shanaya.bobal4@gmail.com,11/28/2004,Female,B.Tech,EE,62,79,Regular,Yes,Lucknow,272001,Hostler
+STU848,Sana Sinha,Neysa Gara,sana.sinha94@gmail.com,11/5/2000,Male,B.Tech,EC,71,75,Regular,Yes,Faizabad,272001,Day Scholar
+STU849,Ayesha Karpe,Gatik Anne,ayesha.karpe73@gmail.com,9/16/2003,Male,B.Tech,CSE,79,92,Lateral Entry,Yes,Sultanpur,272001,Hostler
+STU850,Pari Raja,Sumer Sandhu,pari.raja86@gmail.com,6/15/2003,Male,B.Tech,IT,84,74,Regular,Yes,Ballia,272001,Day Scholar
+STU851,Himmat Lal,Vanya Karnik,himmat.lal65@gmail.com,11/23/2001,Male,B.Tech,IT,89,67,Regular,Yes,Ballia,272001,Day Scholar
+STU852,Arhaan Bora,Eva Kale,arhaan.bora56@gmail.com,5/21/2002,Male,B.Tech,IT,91,91,Regular,Yes,Basti,272001,Day Scholar
+STU853,Nitya Hayre,Romil Halder,nitya.hayre83@gmail.com,1/11/2003,Female,B.Tech,CSE,64,78,Regular,Yes,Faizabad,272001,Hostler
+STU854,Nitara Aggarwal,Farhan Kala,nitara.aggarwal17@gmail.com,9/4/2004,Male,B.Tech,IT,60,60,Regular,Yes,Deoria,272001,Day Scholar
+STU855,Amani Dugar,Dhruv Vora,amani.dugar61@gmail.com,6/7/2000,Male,B.Tech,IT,61,60,Management,No,Gorakhpur,272001,Hostler
+STU856,Dhanuk Soman,Divyansh Varughese,dhanuk.soman35@gmail.com,11/14/2003,Female,B.Tech,IT,65,80,Regular,Yes,Lucknow,272001,Hostler
+STU857,Manjari Anand,Biju Lalla,manjari.anand67@gmail.com,1/13/2001,Male,B.Tech,CSD,85,67,Regular,Yes,Faizabad,272001,Hostler
+STU858,Zaina Zachariah,Priyansh Salvi,zaina.zachariah50@gmail.com,8/3/2004,Male,B.Tech,IT,94,83,Lateral Entry,Yes,Mau,272001,Day Scholar
+STU859,Nehmat Master,Alisha Dhingra,nehmat.master81@gmail.com,6/21/2000,Female,B.Tech,EE,81,75,Management,No,Mau,272001,Day Scholar
+STU860,Mahika Bose,Riya Chadha,mahika.bose97@gmail.com,11/10/2003,Female,B.Tech,ME,71,81,Management,No,Mau,272001,Hostler
+STU861,Akarsh Shah,Mahika Mandal,akarsh.shah51@gmail.com,3/6/2001,Male,B.Tech,CSE,72,88,Regular,Yes,Faizabad,272001,Day Scholar
+STU862,Ishaan Sanghvi,Onkar Ghose,ishaan.sanghvi22@gmail.com,4/1/2004,Female,B.Tech,CSE,90,93,Regular,Yes,Basti,272001,Day Scholar
+STU863,Drishya Chaudhuri,Ayesha Dasgupta,drishya.chaudhuri83@gmail.com,8/6/2000,Male,B.Tech,EC,85,68,Regular,Yes,Sultanpur,272001,Day Scholar
+STU864,Jhanvi Garg,Dhruv Bora,jhanvi.garg18@gmail.com,7/14/2000,Female,B.Tech,EC,95,80,Regular,Yes,Gorakhpur,272001,Hostler
+STU865,Vivaan Rout,Adah Halder,vivaan.rout42@gmail.com,12/24/2004,Female,B.Tech,EC,61,70,Regular,Yes,Barabanki,272001,Hostler
+STU866,Priyansh Deep,Raghav Mallick,priyansh.deep40@gmail.com,1/5/2000,Female,B.Tech,CSD,81,68,Regular,Yes,Deoria,272001,Day Scholar
+STU867,Amira Bera,Heer Dutt,amira.bera7@gmail.com,5/29/2001,Male,B.Tech,ME,61,85,Lateral Entry,Yes,Sultanpur,272001,Hostler
+STU868,Hrishita Apte,Urvi Gola,hrishita.apte65@gmail.com,3/29/2003,Female,B.Tech,Civil,87,85,Regular,Yes,Barabanki,272001,Day Scholar
+STU869,Krish Korpal,Krish Dora,krish.korpal33@gmail.com,7/31/2001,Female,B.Tech,CSE,90,64,Regular,Yes,Barabanki,272001,Hostler
+STU870,Nayantara Dhillon,Renee Dewan,nayantara.dhillon95@gmail.com,3/24/2003,Male,B.Tech,CSE,77,86,Management,Yes,Azamgarh,272001,Hostler
+STU871,Seher Shah,Aaina Tara,seher.shah69@gmail.com,11/12/2000,Female,B.Tech,CSE,77,93,Regular,Yes,Jaunpur,272001,Day Scholar
+STU872,Trisha Chander,Yasmin Bobal,trisha.chander63@gmail.com,12/20/2003,Male,B.Tech,IT,72,69,Regular,Yes,Lucknow,272001,Hostler
+STU873,Lagan Luthra,Mannat Vasa,lagan.luthra9@gmail.com,8/7/2004,Male,B.Tech,CSE,89,68,Regular,Yes,Sultanpur,272001,Hostler
+STU874,Taran Bava,Ishaan Dani,taran.bava22@gmail.com,1/16/2000,Female,B.Tech,EE,93,94,Regular,Yes,Jaunpur,272001,Day Scholar
+STU875,Shanaya Sahni,Yakshit Karnik,shanaya.sahni85@gmail.com,6/21/2003,Male,B.Tech,EE,95,76,Regular,Yes,Gorakhpur,272001,Hostler
+STU876,Aniruddh Dugar,Dhruv Wadhwa,aniruddh.dugar27@gmail.com,5/2/2004,Female,B.Tech,CSD,91,60,Regular,Yes,Ballia,272001,Hostler
+STU877,Aradhya Bhagat,Piya Sachar,aradhya.bhagat6@gmail.com,7/10/2004,Female,B.Tech,CSE-AIML,95,65,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU878,Yuvraj  Bhakta,Farhan Chakraborty,yuvraj..bhakta61@gmail.com,4/25/2002,Male,B.Tech,CSD,77,72,Regular,Yes,Lucknow,272001,Hostler
+STU879,Ivana Taneja,Zara Koshy,ivana.taneja46@gmail.com,4/27/2002,Female,B.Tech,CSE,90,88,Regular,Yes,Lucknow,272001,Day Scholar
+STU880,Shamik Deep,Keya Srivastava,shamik.deep62@gmail.com,1/7/2000,Female,B.Tech,CSE-AIML,65,76,Regular,Yes,Barabanki,272001,Hostler
+STU881,Saksham Sarkar,Nitya Bhatnagar,saksham.sarkar40@gmail.com,6/23/2004,Male,B.Tech,IT,87,78,Regular,Yes,Barabanki,272001,Day Scholar
+STU882,Shamik Dara,Yakshit Agate,shamik.dara74@gmail.com,2/1/2002,Male,B.Tech,IT,63,85,Regular,Yes,Azamgarh,272001,Day Scholar
+STU883,Dishani Mann,Hazel Ahluwalia,dishani.mann19@gmail.com,8/23/2003,Male,B.Tech,CSE,66,76,Regular,Yes,Faizabad,272001,Day Scholar
+STU884,Mohanlal Bansal,Yakshit Sampath,mohanlal.bansal51@gmail.com,4/27/2003,Female,B.Tech,CSE,83,80,Regular,Yes,Faizabad,272001,Hostler
+STU885,Aniruddh Sankar,Kismat Ghosh,aniruddh.sankar25@gmail.com,11/9/2004,Female,B.Tech,CSE,80,69,Regular,Yes,Raebareli,272001,Day Scholar
+STU886,Darshit Dugar,Hiran Bir,darshit.dugar24@gmail.com,8/21/2004,Male,B.Tech,CSE,70,95,Regular,Yes,Gorakhpur,272001,Day Scholar
+STU887,Kimaya Anand,Saira Jayaraman,kimaya.anand66@gmail.com,7/4/2000,Female,B.Tech,CSE-AIML,92,63,Lateral Entry,No,Mau,272001,Hostler
+STU888,Eshani Kakar,Ishita Brahmbhatt,eshani.kakar4@gmail.com,11/20/2000,Male,B.Tech,CSD,60,89,Management,Yes,Deoria,272001,Hostler
+STU889,Seher Srinivas,Khushi Ghosh,seher.srinivas89@gmail.com,4/19/2002,Female,B.Tech,IT,80,91,Regular,Yes,Raebareli,272001,Day Scholar
+STU890,Myra Kapoor,Hrishita Majumdar,myra.kapoor32@gmail.com,8/4/2000,Female,B.Tech,CSE,87,67,Regular,Yes,Barabanki,272001,Day Scholar
+STU891,Faiyaz Sengupta,Amani Sathe,faiyaz.sengupta68@gmail.com,10/20/2003,Female,B.Tech,IT,61,79,Management,Yes,Barabanki,272001,Day Scholar
+STU892,Adah Maharaj,Alisha Magar,adah.maharaj96@gmail.com,10/30/2001,Male,B.Tech,CSE,67,70,Regular,Yes,Deoria,272001,Day Scholar
+STU893,Vedika Mandal,Lavanya Krishnamurthy,vedika.mandal20@gmail.com,1/7/2004,Female,B.Tech,CSD,83,75,Regular,Yes,Basti,272001,Day Scholar
+STU894,Advik Sampath,Navya Wali,advik.sampath32@gmail.com,4/13/2000,Male,B.Tech,CSD,65,81,Management,No,Mau,272001,Day Scholar
+STU895,Vanya Hari,Shanaya Sachar,vanya.hari72@gmail.com,6/15/2001,Male,B.Tech,EC,63,87,Regular,Yes,Raebareli,272001,Hostler
+STU896,Yakshit Ganesh,Keya Keer,yakshit.ganesh86@gmail.com,1/29/2000,Male,B.Tech,IT,80,78,Lateral Entry,Yes,Raebareli,272001,Hostler
+STU897,Gatik Bhakta,Heer Upadhyay,gatik.bhakta38@gmail.com,8/11/2000,Female,B.Tech,CSE,68,91,Regular,Yes,Ballia,272001,Day Scholar
+STU898,Anika Baria,Charvi Ahluwalia,anika.baria44@gmail.com,3/25/2001,Female,B.Tech,CSE,72,60,Regular,Yes,Mau,272001,Hostler
+STU899,Ira Sangha,Shray Mani,ira.sangha95@gmail.com,12/19/2000,Female,B.Tech,CSE-AIML,95,76,Regular,Yes,Faizabad,272001,Hostler
+STU900,Pari Gulati,Aaryahi Krish,pari.gulati89@gmail.com,12/16/2004,Female,B.Tech,CSE,80,84,Management,Yes,Basti,272001,Day Scholar
