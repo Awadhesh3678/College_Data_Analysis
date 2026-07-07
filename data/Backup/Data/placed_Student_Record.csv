@@ -1,0 +1,573 @@
+﻿StudentID,Name,Branch,Hometown/City,SkillsHad,ProfileSelected,CompanyName,CTC_LPA,TotalCompaniesCracked
+STU001,Ishaan Dora,CSE,Basti,Data Structures & Algorithms; Cloud Computing; Operating Systems; Machine Learning; Computer Networks; DBMS; Programming; Communication; Adaptability,QA Engineer,TechCo43,12.3,5
+STU003,Shalv Sengupta,CSD,Barabanki,Data Visualization; Cloud Computing; Programming; DevOps; Machine Learning; Emotional Intelligence; Critical Thinking; Communication,Backend Engineer,TechCo33,6.2,4
+STU004,Vihaan Dhar,CSE,Lucknow,Operating Systems; Machine Learning; Data Structures & Algorithms; Computer Networks; DBMS; Time Management; Emotional Intelligence,Backend Engineer,Infosys,3.5,4
+STU005,Mahika Karnik,CSE,Gorakhpur,Data Structures & Algorithms; DBMS; Programming; Cloud Computing; Machine Learning; Operating Systems; Computer Networks; Time Management; Adaptability,QA Engineer,TechCo51,6.3,4
+STU006,Onkar Madan,EE,Raebareli,Control Systems; Electrical Machines; Power Systems; Problem Solving; Critical Thinking,Control Systems Engineer,CoreCo11,19.9,4
+STU010,Ishita Das,ME,Gorakhpur,"Robotics, Automation, Control Systems, Adaptability; Emotional Intelligence; Adaptability",Production Engineer,CoreCo17,11.7,4
+STU012,Damini Guha,EC,Barabanki,Communication Systems; Analog Circuits; VLSI Design; Communication; Critical Thinking,Equity Research Analyst,StartCo92,7.2,1
+STU017,Gokul Krishnamurthy,ME,Mau,"Production Engineering, Industrial Engineering, Quality Control, Teamwork; Emotional Intelligence; Interpersonal Skills; Teamwork",Mechanical Engineer,CoreCo26,7.3,5
+STU020,Heer Lala,EE,Raebareli,Power Systems; Circuit Theory; Electrical Machines; Teamwork; Creativity; Leadership,Control Systems Engineer,NTPC,4.1,2
+STU022,Suhana Bhatt,IT,Jaunpur,DBMS; Data Structures & Algorithms; Cybersecurity; Mobile App Development; Adaptability; Creativity; Leadership,QA Engineer,TechCo9,17.4,5
+STU024,Sahil Chada,ME,Faizabad,"Materials Science, Metallurgy, Failure Analysis, Research Skills; Creativity; Critical Thinking",Mechanical Engineer,CoreCo26,7.3,6
+STU025,Mannat Suri,EC,Deoria,Embedded Systems; Microprocessors & Microcontrollers; Digital Electronics; Time Management; Teamwork,Financial Analyst,StartCo24,9.2,2
+STU026,Damini Issac,IT,Mau,Mobile App Development; Data Structures & Algorithms; DBMS; Web Development; Adaptability; Creativity; Critical Thinking,QA Engineer,TechCo21,6.8,4
+STU029,Samiha Ravi,IT,Barabanki,Web Development; Data Structures & Algorithms; Programming; Mobile App Development; Teamwork; Interpersonal Skills; Adaptability,Full Stack Developer,TechCo54,6.7,5
+STU031,Kimaya Sarraf,CSE-AIML,Lucknow,Natural Language Processing; Deep Learning; Machine Learning; Programming; Data Structures & Algorithms; Artificial Intelligence; Computer Vision; Time Management; Teamwork; Creativity,Frontend Engineer,Capgemini,5.1,4
+STU032,Saira Gokhale,EC,Azamgarh,Signal Processing; Analog Circuits; Creativity; Emotional Intelligence; Interpersonal Skills,Equity Research Analyst,StartCo70,7.3,1
+STU033,Oorja Raj,CSE,Deoria,Computer Networks; Programming; DBMS; Machine Learning; Operating Systems; Data Structures & Algorithms; Communication; Adaptability; Creativity,Backend Engineer,Infosys,3.5,6
+STU034,Divyansh Yohannan,ME,Deoria,"HVAC Systems, Energy Management, Sustainability, Communication; Critical Thinking; Communication; Problem Solving",Design Engineer,CoreCo14,3.6,5
+STU037,Miraan Bhakta,IT,Lucknow,DBMS; Web Development; Data Structures & Algorithms; Mobile App Development; Operating Systems; Creativity; Adaptability,Data Engineer,TechCo45,3.7,3
+STU039,Mannat Apte,CSE,Raebareli,Programming; Cloud Computing; Computer Networks; DBMS; Data Structures & Algorithms; Operating Systems; Time Management; Leadership,Backend Engineer,TechCo17,3.1,4
+STU041,Anay Guha,IT,Ballia,Cybersecurity; Mobile App Development; Web Development; Programming; Adaptability; Communication; Leadership,Data Engineer,TCS,11.8,2
+STU042,Ivana Barman,CSD,Faizabad,Programming; Data Visualization; Data Structures & Algorithms; Machine Learning; DevOps; DBMS; Cloud Computing; Critical Thinking; Creativity,QA Engineer,Accenture,10.9,4
+STU043,Prisha Sood,CSE,Faizabad,Operating Systems; Computer Networks; Data Structures & Algorithms; DBMS; Programming; Machine Learning; Leadership; Creativity; Time Management,Backend Engineer,Infosys,3.5,4
+STU044,Gatik Bir,EC,Mau,Embedded Systems; Analog Circuits; VLSI Design; Microprocessors & Microcontrollers; Creativity; Adaptability,Tax Associate,StartCo62,13,2
+STU045,Nayantara Soman,EE,Barabanki,Electrical Machines; Circuit Theory; Leadership; Critical Thinking,Electrical Engineer,CoreCo24,5.4,2
+STU046,Neysa Arya,EE,Lucknow,Power Electronics; Control Systems; Communication; Adaptability; Problem Solving,Control Systems Engineer,CoreCo15,7.4,4
+STU047,Jayan Setty,EC,Barabanki,Microprocessors & Microcontrollers; Communication Systems; VLSI Design; Digital Electronics; Interpersonal Skills; Teamwork,Risk Analyst,StartCo99,5.2,2
+STU048,Shlok Thaman,EE,Raebareli,Power Electronics; Control Systems; Interpersonal Skills; Time Management,Control Systems Engineer,CoreCo15,7.4,6
+STU050,Vedika Tak,EC,Basti,Embedded Systems; VLSI Design; Signal Processing; Microprocessors & Microcontrollers; Emotional Intelligence; Creativity; Problem Solving,Financial Analyst,StartCo24,9.2,1
+STU051,Advik Kota,CSE,Azamgarh,Computer Networks; Cloud Computing; Data Structures & Algorithms; DBMS; Machine Learning; Communication; Emotional Intelligence; Teamwork,ML Engineer,Cognizant,4,3
+STU052,Nitara Mane,EC,Ballia,Microprocessors & Microcontrollers; Signal Processing; Leadership; Creativity,Financial Analyst,StartCo64,18.1,2
+STU054,Lakshay Dhar,CSD,Sultanpur,DevOps; Programming; Data Visualization; DBMS; Adaptability; Teamwork,Frontend Engineer,TechCo56,4.4,3
+STU055,Dhanush Kar,CSE-AIML,Barabanki,Data Structures & Algorithms; Programming; Deep Learning; Machine Learning; Teamwork; Adaptability; Interpersonal Skills,Full Stack Developer,TechCo54,6.7,3
+STU056,Vardaniya Goswami,CSD,Azamgarh,Cloud Computing; Data Visualization; DevOps; DBMS; Critical Thinking; Interpersonal Skills; Teamwork,QA Engineer,TechCo51,6.3,2
+STU057,Veer Basak,CSE,Deoria,DBMS; Data Structures & Algorithms; Machine Learning; Operating Systems; Programming; Computer Networks; Cloud Computing; Creativity; Communication; Adaptability,Data Engineer,TechCo32,9.8,2
+STU058,Nitara Varughese,IT,Faizabad,Web Development; DBMS; Data Structures & Algorithms; Cybersecurity; Mobile App Development; Leadership; Interpersonal Skills; Time Management,Backend Engineer,TechCo23,10.6,5
+STU060,Inaaya  Bhavsar,CSD,Faizabad,Machine Learning; Data Visualization; DBMS; DevOps; Data Structures & Algorithms; Leadership; Adaptability,Backend Engineer,TechCo55,18.1,5
+STU061,Nayantara Lad,EE,Barabanki,Electrical Machines; Circuit Theory; Interpersonal Skills; Adaptability; Leadership,Power Systems Engineer,CoreCo28,5.7,6
+STU062,Armaan Tank,CSE,Raebareli,DBMS; Machine Learning; Computer Networks; Data Structures & Algorithms; Time Management; Adaptability; Critical Thinking,Frontend Engineer,IBM,5,4
+STU063,Shlok Rao,ME,Lucknow,"Materials Science, Metallurgy, Failure Analysis, Research Skills; Teamwork; Creativity; Leadership",Production Engineer,Siemens,7.3,2
+STU064,Emir Edwin,EE,Mau,Power Systems; Circuit Theory; Electrical Machines; Creativity; Adaptability; Interpersonal Skills,Control Systems Engineer,Tata Projects,10.8,1
+STU067,Kabir Bahl,ME,Lucknow,"3D Printing, Additive Manufacturing, Innovation, Collaboration; Critical Thinking; Communication",Production Engineer,CoreCo17,11.7,3
+STU068,Divyansh Sule,CSE,Jaunpur,Programming; Machine Learning; Data Structures & Algorithms; Cloud Computing; DBMS; Computer Networks; Operating Systems; Interpersonal Skills; Emotional Intelligence,Frontend Engineer,IBM,5,3
+STU070,Advika Sengupta,Civil,Sultanpur,AutoCAD; Building Materials; Transportation Engineering; Teamwork; Adaptability,Structural Engineer,CoreCo25,5.8,6
+STU072,Nirvaan Loyal,CSE,Raebareli,Cloud Computing; Programming; Machine Learning; Operating Systems; DBMS; Data Structures & Algorithms; Computer Networks; Emotional Intelligence; Communication; Teamwork,QA Engineer,TechCo21,6.8,3
+STU073,Arhaan Korpal,CSD,Deoria,Data Structures & Algorithms; Machine Learning; DBMS; Data Visualization; DevOps; Communication; Leadership; Interpersonal Skills,Data Engineer,TechCo12,6.7,3
+STU075,Arhaan Raja,CSE,Barabanki,Machine Learning; Computer Networks; Data Structures & Algorithms; DBMS; Programming; Cloud Computing; Communication; Time Management,Frontend Engineer,TechCo41,10.8,2
+STU076,Alia Chatterjee,CSD,Lucknow,Machine Learning; Data Visualization; DBMS; Programming; Cloud Computing; DevOps; Data Structures & Algorithms; Problem Solving; Critical Thinking; Emotional Intelligence,Frontend Engineer,TechCo47,7.5,5
+STU077,Aniruddh Gill,CSE,Lucknow,Machine Learning; DBMS; Computer Networks; Data Structures & Algorithms; Programming; Operating Systems; Problem Solving; Critical Thinking,SDE,TechCo8,11.6,7
+STU079,Nayantara Thaman,ME,Gorakhpur,"Heat Transfer, IC Engines, Combustion Systems, Attention to Detail; Leadership; Teamwork",Production Engineer,CoreCo29,8.2,3
+STU081,Saanvi Bail,IT,Deoria,DBMS; Operating Systems; Mobile App Development; Data Structures & Algorithms; Cybersecurity; Web Development; Problem Solving; Emotional Intelligence; Interpersonal Skills,QA Engineer,TechCo62,7.7,4
+STU082,Ryan Goel,ME,Azamgarh,"Heat Transfer, IC Engines, Combustion Systems, Attention to Detail; Adaptability; Communication",Design Engineer,Tata Motors,10.8,3
+STU084,Mahika Ahuja,IT,Barabanki,Cybersecurity; Data Structures & Algorithms; Web Development; DBMS; Operating Systems; Communication; Emotional Intelligence; Problem Solving,Frontend Engineer,Microsoft,5.6,5
+STU086,Adira Arora,CSE,Jaunpur,Computer Networks; Operating Systems; Programming; DBMS; Critical Thinking; Leadership,Frontend Engineer,TechCo27,6.7,1
+STU088,Nehmat Iyer,IT,Raebareli,DBMS; Programming; Web Development; Operating Systems; Cybersecurity; Leadership; Creativity; Emotional Intelligence,ML Engineer,TechCo29,8,5
+STU090,Darshit Sodhi,CSE,Raebareli,Programming; Operating Systems; Cloud Computing; Machine Learning; Computer Networks; Data Structures & Algorithms; DBMS; Adaptability; Emotional Intelligence; Time Management,Data Engineer,TechCo12,6.7,3
+STU091,Hazel Goda,CSE,Deoria,Data Structures & Algorithms; Cloud Computing; Computer Networks; Machine Learning; Operating Systems; Programming; Interpersonal Skills; Critical Thinking; Communication,Full Stack Developer,TechCo19,5.6,1
+STU092,Mehul Bath,CSE,Raebareli,Computer Networks; DBMS; Operating Systems; Data Structures & Algorithms; Programming; Cloud Computing; Machine Learning; Emotional Intelligence; Interpersonal Skills,Backend Engineer,Subex,8.6,1
+STU095,Uthkarsh Keer,CSE-AIML,Sultanpur,Programming; Data Structures & Algorithms; Deep Learning; Machine Learning; Emotional Intelligence; Teamwork,Frontend Engineer,TechCo10,6.3,4
+STU096,Samaira Konda,CSD,Sultanpur,DBMS; Cloud Computing; Data Structures & Algorithms; Data Visualization; Time Management; Adaptability; Communication,Data Engineer,Amazon,6.1,5
+STU097,Ishaan Seshadri,CSE,Raebareli,Data Structures & Algorithms; Machine Learning; Cloud Computing; Computer Networks; Leadership; Problem Solving; Time Management,SDE,TechCo49,4.5,4
+STU098,Badal Sama,CSD,Lucknow,DBMS; Data Visualization; Cloud Computing; Data Structures & Algorithms; Programming; DevOps; Time Management; Teamwork,SDE,Wipro,6,5
+STU099,Saira Toor,Civil,Jaunpur,Geotechnical Engineering; Surveying; AutoCAD; Critical Thinking; Leadership,Site Engineer,CoreCo12,11.7,6
+STU100,Tejas Manne,CSE,Deoria,Programming; Cloud Computing; DBMS; Operating Systems; Data Structures & Algorithms; Machine Learning; Teamwork; Time Management,QA Engineer,TechCo7,8.9,4
+STU103,Trisha Ghose,IT,Raebareli,DBMS; Data Structures & Algorithms; Web Development; Operating Systems; Programming; Mobile App Development; Interpersonal Skills; Leadership,ML Engineer,TechCo14,11.2,3
+STU104,Jhanvi De,CSD,Deoria,Machine Learning; DBMS; Data Visualization; DevOps; Critical Thinking; Problem Solving,SDE,TechCo40,6.3,2
+STU106,Lavanya Suresh,EE,Faizabad,Circuit Theory; Power Electronics; Electrical Machines; Emotional Intelligence; Interpersonal Skills; Leadership,Control Systems Engineer,CoreCo31,7.7,7
+STU108,Stuvan Deshmukh,CSE,Basti,DBMS; Programming; Cloud Computing; Operating Systems; Computer Networks; Emotional Intelligence; Creativity,Backend Engineer,TechCo17,3.1,2
+STU111,Kanav Konda,CSD,Barabanki,Data Structures & Algorithms; DevOps; Cloud Computing; Programming; Time Management; Leadership; Critical Thinking,Frontend Engineer,TechCo10,6.3,4
+STU112,Hrishita Raja,IT,Barabanki,Mobile App Development; Web Development; Programming; DBMS; Critical Thinking; Communication; Adaptability,Full Stack Developer,TechCo19,5.6,6
+STU113,Madhup Soni,CSE-AIML,Ballia,Programming; Natural Language Processing; Machine Learning; Computer Vision; Deep Learning; Artificial Intelligence; Data Structures & Algorithms; Leadership; Critical Thinking; Interpersonal Skills,Backend Engineer,TechCo17,3.1,4
+STU115,Trisha Chawla,IT,Faizabad,Mobile App Development; Web Development; Data Structures & Algorithms; Cybersecurity; DBMS; Adaptability; Creativity,Frontend Engineer,TechCo41,10.8,3
+STU117,Nirvi Sandhu,CSD,Basti,Machine Learning; DBMS; Cloud Computing; DevOps; Problem Solving; Creativity; Critical Thinking,Data Engineer,TechCo12,6.7,6
+STU118,Ishita Warrior,CSE,Mau,Operating Systems; Data Structures & Algorithms; Programming; Machine Learning; Computer Networks; Cloud Computing; DBMS; Critical Thinking; Interpersonal Skills,QA Engineer,TechCo51,6.3,3
+STU120,Nehmat Venkataraman,IT,Sultanpur,Operating Systems; Programming; Data Structures & Algorithms; Mobile App Development; DBMS; Cybersecurity; Interpersonal Skills; Teamwork,Frontend Engineer,Microsoft,5.6,2
+STU124,Taran Malhotra,EE,Faizabad,Control Systems; Power Electronics; Circuit Theory; Teamwork; Emotional Intelligence; Leadership,Electrical Engineer,CoreCo36,4.6,2
+STU127,Indranil Ahuja,EE,Sultanpur,Electrical Machines; Control Systems; Communication; Creativity; Teamwork,Power Systems Engineer,Cummins India,5.4,4
+STU128,Sara Soman,CSD,Azamgarh,Machine Learning; Data Structures & Algorithms; DBMS; Cloud Computing; Adaptability; Time Management,Backend Engineer,TechCo23,10.6,4
+STU129,Dhruv Sem,CSE,Sultanpur,Data Structures & Algorithms; Operating Systems; Programming; DBMS; Machine Learning; Problem Solving; Creativity; Communication,Full Stack Developer,Mphasis_1,3,4
+STU130,Ranbir Banerjee,CSD,Raebareli,Machine Learning; DBMS; DevOps; Data Structures & Algorithms; Data Visualization; Programming; Creativity; Teamwork; Adaptability,Frontend Engineer,TechCo47,7.5,3
+STU131,Shalv Chakrabarti,CSE,Ballia,Operating Systems; Machine Learning; DBMS; Computer Networks; Programming; Cloud Computing; Problem Solving; Communication; Adaptability,QA Engineer,TechCo11,6.6,4
+STU132,Tejas Kadakia,CSE,Gorakhpur,Machine Learning; Operating Systems; Data Structures & Algorithms; Programming; Cloud Computing; Communication; Problem Solving; Teamwork,Data Engineer,TechCo5,4.4,4
+STU133,Dishani Tara,EC,Gorakhpur,Signal Processing; Embedded Systems; Digital Electronics; Microprocessors & Microcontrollers; Leadership; Adaptability,Tax Associate,InMobi,5.8,1
+STU136,Sara Sani,EE,Lucknow,Power Electronics; Control Systems; Power Systems; Electrical Machines; Critical Thinking; Adaptability,Control Systems Engineer,CoreCo15,7.4,3
+STU137,Taimur Ramanathan,ME,Ballia,"HVAC Systems, Energy Management, Sustainability, Communication; Time Management; Creativity; Leadership",Production Engineer,CoreCo2,12.6,4
+STU138,Piya Roy,EE,Lucknow,Electrical Machines; Power Systems; Problem Solving; Adaptability; Communication,Electrical Engineer,CoreCo36,4.6,5
+STU139,Samaira Gala,EE,Deoria,Electrical Machines; Control Systems; Power Electronics; Circuit Theory; Creativity; Teamwork,Power Systems Engineer,CoreCo19,7,3
+STU140,Rasha Ramakrishnan,CSE,Raebareli,Data Structures & Algorithms; Programming; Machine Learning; Operating Systems; DBMS; Computer Networks; Critical Thinking; Interpersonal Skills; Problem Solving,QA Engineer,Accenture,10.9,4
+STU141,Tejas Bajwa,IT,Ballia,Data Structures & Algorithms; Cybersecurity; Mobile App Development; DBMS; Critical Thinking; Time Management; Creativity,QA Engineer,TechCo43,12.3,3
+STU142,Samiha Varma,CSE-AIML,Jaunpur,Natural Language Processing; Deep Learning; Computer Vision; Programming; Communication; Problem Solving; Emotional Intelligence,Frontend Engineer,TechCo59,6.5,1
+STU146,Ishita Mann,IT,Mau,DBMS; Programming; Operating Systems; Cybersecurity; Web Development; Mobile App Development; Teamwork; Interpersonal Skills; Leadership,Frontend Engineer,TechCo27,6.7,5
+STU148,Kashvi Dara,CSE-AIML,Basti,Data Structures & Algorithms; Machine Learning; Natural Language Processing; Programming; Time Management; Teamwork,QA Engineer,TechCo15,6.2,5
+STU149,Amira Kohli,CSE,Ballia,DBMS; Machine Learning; Data Structures & Algorithms; Programming; Cloud Computing; Operating Systems; Computer Networks; Emotional Intelligence; Critical Thinking; Problem Solving,Backend Engineer,TechCo23,10.6,6
+STU150,Onkar Golla,IT,Deoria,Web Development; Mobile App Development; Operating Systems; Cybersecurity; DBMS; Data Structures & Algorithms; Programming; Time Management; Emotional Intelligence; Problem Solving,Data Engineer,TechCo57,10.6,1
+STU151,Piya Kar,CSD,Jaunpur,Machine Learning; Data Visualization; Programming; Data Structures & Algorithms; DevOps; Creativity; Time Management,Data Engineer,TechCo12,6.7,2
+STU155,Neysa Contractor,CSE-AIML,Lucknow,Artificial Intelligence; Machine Learning; Computer Vision; Deep Learning; Creativity; Teamwork; Communication,QA Engineer,TechCo20,17.7,4
+STU158,Jivin Gole,IT,Deoria,DBMS; Programming; Mobile App Development; Cybersecurity; Web Development; Data Structures & Algorithms; Time Management; Critical Thinking,QA Engineer,TechCo43,12.3,3
+STU159,Nitya Bansal,CSD,Lucknow,Cloud Computing; DBMS; DevOps; Programming; Data Structures & Algorithms; Machine Learning; Interpersonal Skills; Emotional Intelligence; Adaptability,Frontend Engineer,Mindtree,6.4,3
+STU160,Aradhya Chhabra,CSE,Lucknow,Data Structures & Algorithms; Cloud Computing; DBMS; Machine Learning; Programming; Computer Networks; Teamwork; Creativity,Data Engineer,TechCo50,6.4,4
+STU162,Eshani Lad,CSD,Ballia,Machine Learning; DevOps; DBMS; Data Structures & Algorithms; Cloud Computing; Teamwork; Critical Thinking,ML Engineer,TechCo4,11.2,2
+STU163,Faiyaz Sandhu,EC,Barabanki,Microprocessors & Microcontrollers; Digital Electronics; Problem Solving; Communication; Time Management,Risk Analyst,StartCo80,7.1,1
+STU165,Amira Loyal,IT,Gorakhpur,Mobile App Development; Cybersecurity; DBMS; Data Structures & Algorithms; Operating Systems; Programming; Communication; Leadership,Backend Engineer,Mphasis,11.7,2
+STU166,Kashvi Trivedi,CSD,Sultanpur,DevOps; Programming; Cloud Computing; Data Structures & Algorithms; Machine Learning; Data Visualization; DBMS; Teamwork; Leadership,Backend Engineer,TechCo17,3.1,4
+STU167,Anaya Deol,CSE-AIML,Deoria,Computer Vision; Artificial Intelligence; Programming; Deep Learning; Machine Learning; Natural Language Processing; Communication; Creativity; Adaptability,Frontend Engineer,TechCo46,19,3
+STU168,Shray Batra,CSE-AIML,Faizabad,Computer Vision; Machine Learning; Data Structures & Algorithms; Natural Language Processing; Artificial Intelligence; Deep Learning; Creativity; Emotional Intelligence; Communication,Full Stack Developer,TechCo39,16.9,3
+STU169,Arnav Kant,CSE,Barabanki,Data Structures & Algorithms; Operating Systems; Computer Networks; Programming; DBMS; Machine Learning; Cloud Computing; Emotional Intelligence; Teamwork,Frontend Engineer,TechCo52,3.4,4
+STU170,Bhamini Cherian,EC,Mau,Embedded Systems; Analog Circuits; Communication Systems; VLSI Design; Adaptability; Emotional Intelligence; Teamwork,Tax Associate,InMobi,5.8,1
+STU171,Ojas Rout,Civil,Lucknow,Geotechnical Engineering; AutoCAD; Transportation Engineering; Building Materials; Creativity; Interpersonal Skills; Problem Solving,Structural Engineer,CoreCo25,5.8,6
+STU172,Aradhya Keer,EC,Gorakhpur,Communication Systems; Digital Electronics; Creativity; Communication,Investment Banking Analyst,StartCo69,4.5,1
+STU174,Lagan Sarna,EE,Raebareli,Power Electronics; Electrical Machines; Circuit Theory; Power Systems; Leadership; Teamwork,Electrical Engineer,Alstom,3.5,5
+STU177,Aaina Golla,IT,Jaunpur,Mobile App Development; Cybersecurity; Data Structures & Algorithms; Operating Systems; Emotional Intelligence; Time Management,Full Stack Developer,TechCo39,16.9,1
+STU178,Prerak Raman,EE,Ballia,Electrical Machines; Power Systems; Power Electronics; Control Systems; Time Management; Teamwork; Critical Thinking,Electrical Engineer,CoreCo24,5.4,6
+STU179,Umang Brahmbhatt,Civil,Azamgarh,Surveying; Transportation Engineering; Building Materials; Leadership; Communication; Creativity,Site Engineer,CoreCo41,8.8,2
+STU180,Shanaya Rau,CSE,Faizabad,Programming; Computer Networks; DBMS; Cloud Computing; Data Structures & Algorithms; Operating Systems; Leadership; Adaptability,Backend Engineer,Sonata Software,5.2,3
+STU181,Raunak Sathe,EC,Gorakhpur,Analog Circuits; VLSI Design; Emotional Intelligence; Leadership,Investment Banking Analyst,StartCo104,3.6,3
+STU182,Anay Agate,CSD,Deoria,Data Structures & Algorithms; Machine Learning; Data Visualization; DBMS; DevOps; Cloud Computing; Programming; Teamwork; Problem Solving; Communication,ML Engineer,Freshworks_1,6.5,3
+STU185,Raghav Bedi,ME,Lucknow,"Thermodynamics, Fluid Mechanics, MATLAB, Analysis Skills; Creativity; Emotional Intelligence",Design Engineer,CoreCo7,6.4,5
+STU186,Biju Sinha,CSE,Jaunpur,Cloud Computing; Programming; Machine Learning; Operating Systems; Critical Thinking; Teamwork,Backend Engineer,TechCo25,5.4,5
+STU187,Navya Sachdeva,CSE,Barabanki,Machine Learning; Cloud Computing; Operating Systems; Programming; Computer Networks; DBMS; Data Structures & Algorithms; Communication; Time Management,QA Engineer,TechCo62,7.7,4
+STU188,Riaan Kakar,CSE,Sultanpur,Computer Networks; Programming; Data Structures & Algorithms; Operating Systems; DBMS; Cloud Computing; Machine Learning; Critical Thinking; Leadership,Data Engineer,TechCo44,6.9,3
+STU191,Jivin Rao,CSD,Ballia,Data Structures & Algorithms; DBMS; DevOps; Data Visualization; Emotional Intelligence; Leadership; Critical Thinking,QA Engineer,TechCo15,6.2,3
+STU192,Indrajit Char,CSD,Basti,DBMS; Data Structures & Algorithms; Programming; Machine Learning; Critical Thinking; Leadership; Teamwork,Data Engineer,TechCo50,6.4,4
+STU193,Hrishita Samra,CSD,Raebareli,Machine Learning; Programming; Data Visualization; Data Structures & Algorithms; DevOps; Cloud Computing; DBMS; Critical Thinking; Interpersonal Skills; Problem Solving,Frontend Engineer,TechCo27,6.7,1
+STU194,Trisha Subramanian,IT,Mau,Cybersecurity; Data Structures & Algorithms; DBMS; Programming; Mobile App Development; Operating Systems; Teamwork; Communication; Critical Thinking,QA Engineer,TechCo62,7.7,5
+STU195,Purab Sekhon,CSE-AIML,Azamgarh,Machine Learning; Programming; Data Structures & Algorithms; Artificial Intelligence; Emotional Intelligence; Creativity,Full Stack Developer,TechCo1,19.4,4
+STU196,Sumer Chakrabarti,IT,Deoria,Web Development; Mobile App Development; Data Structures & Algorithms; DBMS; Programming; Time Management; Leadership; Critical Thinking,Frontend Engineer,Capgemini,5.1,4
+STU197,Elakshi Saran,CSD,Barabanki,DBMS; Data Visualization; Cloud Computing; Programming; Adaptability; Creativity,Full Stack Developer,TechCo1,19.4,2
+STU201,Mishti Agarwal,EE,Ballia,Electrical Machines; Circuit Theory; Power Electronics; Power Systems; Interpersonal Skills; Emotional Intelligence; Communication,Control Systems Engineer,CoreCo35,11.6,4
+STU204,Shalv Mani,Civil,Ballia,Building Materials; Transportation Engineering; AutoCAD; Teamwork; Critical Thinking; Emotional Intelligence,Site Engineer,Reliance Infrastructure,7.6,1
+STU207,Lakshit Bhakta,CSE-AIML,Ballia,Programming; Data Structures & Algorithms; Machine Learning; Computer Vision; Deep Learning; Interpersonal Skills; Critical Thinking; Adaptability,ML Engineer,TechCo4,11.2,4
+STU208,Ritvik Reddy,CSE,Deoria,Machine Learning; Data Structures & Algorithms; DBMS; Programming; Teamwork; Interpersonal Skills,Data Engineer,TechCo44,6.9,4
+STU210,Yuvraj  Sridhar,IT,Gorakhpur,Web Development; Programming; DBMS; Mobile App Development; Teamwork; Time Management; Communication,Full Stack Developer,TechCo60,6.7,6
+STU212,Shayak Bansal,ME,Deoria,"AutoCAD, SolidWorks, CAD/CAM, Manufacturing, Problem-Solving; Time Management; Emotional Intelligence; Interpersonal Skills",Design Engineer,CoreCo7,6.4,1
+STU214,Rhea Bumb,IT,Deoria,Web Development; Programming; Cybersecurity; Data Structures & Algorithms; Problem Solving; Interpersonal Skills; Critical Thinking,QA Engineer,TechCo21,6.8,3
+STU215,Shamik Suresh,CSD,Sultanpur,DBMS; Machine Learning; Programming; DevOps; Cloud Computing; Data Structures & Algorithms; Data Visualization; Creativity; Interpersonal Skills; Communication,Data Engineer,Tech Mahindra,6.8,2
+STU216,Vivaan Garde,Civil,Barabanki,Transportation Engineering; Surveying; Building Materials; Geotechnical Engineering; Critical Thinking; Teamwork,Structural Engineer,CoreCo9,4.3,7
+STU217,Tarini Saran,CSE,Gorakhpur,DBMS; Computer Networks; Data Structures & Algorithms; Machine Learning; Operating Systems; Programming; Cloud Computing; Leadership; Critical Thinking,Backend Engineer,TechCo33,6.2,2
+STU220,Seher Handa,EE,Deoria,Control Systems; Power Systems; Power Electronics; Circuit Theory; Adaptability; Critical Thinking; Communication,Control Systems Engineer,Tata Projects,10.8,7
+STU221,Seher Badami,CSE,Deoria,Machine Learning; DBMS; Cloud Computing; Operating Systems; Programming; Creativity; Adaptability; Teamwork,Data Engineer,Amazon,6.1,3
+STU223,Anvi Kumar,CSE,Raebareli,Data Structures & Algorithms; DBMS; Cloud Computing; Programming; Leadership; Problem Solving; Critical Thinking,Backend Engineer,TechCo23,10.6,3
+STU224,Dhanuk Maharaj,CSE-AIML,Azamgarh,Natural Language Processing; Data Structures & Algorithms; Deep Learning; Artificial Intelligence; Machine Learning; Interpersonal Skills; Emotional Intelligence,Full Stack Developer,HCLTech,6.4,1
+STU225,Ishaan Rastogi,CSD,Raebareli,Programming; Machine Learning; Data Visualization; Cloud Computing; DBMS; Data Structures & Algorithms; Problem Solving; Communication; Interpersonal Skills,Frontend Engineer,Capgemini,5.1,3
+STU227,Ishaan Sharaf,CSE,Ballia,Operating Systems; Computer Networks; Machine Learning; Programming; DBMS; Creativity; Teamwork,QA Engineer,TechCo61,4.6,4
+STU228,Tarini Chanda,CSE,Barabanki,Cloud Computing; Data Structures & Algorithms; DBMS; Programming; Machine Learning; Operating Systems; Time Management; Emotional Intelligence,ML Engineer,TechCo14,11.2,5
+STU229,Kismat Sengupta,IT,Sultanpur,Programming; DBMS; Web Development; Cybersecurity; Mobile App Development; Operating Systems; Time Management; Adaptability; Interpersonal Skills,Data Engineer,TechCo24,7.4,3
+STU230,Ehsaan Sandhu,Civil,Lucknow,AutoCAD; Transportation Engineering; Problem Solving; Adaptability; Communication,Site Engineer,ABB India,8.2,6
+STU231,Rohan Sule,CSD,Basti,Data Structures & Algorithms; Data Visualization; DevOps; Cloud Computing; Programming; DBMS; Time Management; Adaptability; Interpersonal Skills,QA Engineer,TechCo61,4.6,6
+STU232,Eshani Walia,CSD,Mau,DevOps; Programming; Data Structures & Algorithms; Machine Learning; DBMS; Emotional Intelligence; Problem Solving; Leadership,Data Engineer,TechCo57,10.6,3
+STU233,Hunar Ahluwalia,CSD,Mau,DevOps; Data Visualization; Programming; Cloud Computing; Machine Learning; Data Structures & Algorithms; Time Management; Adaptability,ML Engineer,TechCo58,6.7,3
+STU234,Divit Golla,CSE,Ballia,DBMS; Cloud Computing; Programming; Computer Networks; Data Structures & Algorithms; Emotional Intelligence; Interpersonal Skills,Full Stack Developer,TechCo13,6.4,5
+STU235,Prisha Rege,CSE-AIML,Deoria,Programming; Machine Learning; Natural Language Processing; Computer Vision; Communication; Interpersonal Skills; Teamwork,Backend Engineer,Subex,8.6,6
+STU236,Manjari Mann,ME,Sultanpur,"Production Engineering, Industrial Engineering, Quality Control, Teamwork; Problem Solving; Time Management; Adaptability",Design Engineer,Tata Motors,10.8,4
+STU238,Aaina Iyer,CSD,Basti,DBMS; Data Structures & Algorithms; Data Visualization; Machine Learning; Cloud Computing; Communication; Creativity; Time Management,Full Stack Developer,HCLTech,6.4,2
+STU239,Lavanya Soni,Civil,Mau,Surveying; Building Materials; Geotechnical Engineering; Structural Analysis; Communication; Emotional Intelligence,Civil Engineer,CoreCo40,8,3
+STU241,Jivin Rajan,IT,Sultanpur,Cybersecurity; Programming; Data Structures & Algorithms; Operating Systems; Leadership; Time Management; Creativity,Backend Engineer,TechCo33,6.2,1
+STU243,Aayush Sibal,IT,Jaunpur,Mobile App Development; Data Structures & Algorithms; Cybersecurity; Operating Systems; DBMS; Web Development; Problem Solving; Communication; Adaptability,Full Stack Developer,HCLTech,6.4,6
+STU245,Kabir Bhandari,CSE,Mau,Machine Learning; Operating Systems; Data Structures & Algorithms; Computer Networks; DBMS; Programming; Cloud Computing; Teamwork; Problem Solving,Frontend Engineer,TechCo27,6.7,5
+STU246,Yuvraj  Bali,EE,Gorakhpur,Control Systems; Electrical Machines; Circuit Theory; Power Electronics; Communication; Time Management; Leadership,Power Systems Engineer,Maruti Suzuki,6.9,5
+STU247,Nakul Choudhary,IT,Ballia,Operating Systems; Web Development; Data Structures & Algorithms; Cybersecurity; Programming; Teamwork; Leadership,ML Engineer,Freshworks_1,6.5,6
+STU249,Shray Bala,ME,Faizabad,"Thermodynamics, Fluid Mechanics, MATLAB, Analysis Skills; Problem Solving; Critical Thinking",Design Engineer,Ashok Leyland,6.6,7
+STU251,Farhan Bhatt,EC,Jaunpur,VLSI Design; Digital Electronics; Time Management; Teamwork; Problem Solving,Tax Associate,StartCo59,11.2,2
+STU252,Yuvraj  Agrawal,CSE,Jaunpur,Data Structures & Algorithms; DBMS; Machine Learning; Programming; Operating Systems; Cloud Computing; Computer Networks; Leadership; Teamwork,Frontend Engineer,TechCo10,6.3,1
+STU253,Krish Sunder,CSE,Raebareli,Operating Systems; Computer Networks; Machine Learning; Programming; DBMS; Cloud Computing; Interpersonal Skills; Time Management,Data Engineer,TechCo34,6.6,3
+STU254,Shanaya Wagle,CSD,Faizabad,Data Structures & Algorithms; Data Visualization; Machine Learning; Cloud Computing; DevOps; DBMS; Programming; Leadership; Creativity; Communication,Backend Engineer,TechCo23,10.6,3
+STU255,Parinaaz Rattan,CSE,Ballia,Cloud Computing; Programming; Machine Learning; Computer Networks; Emotional Intelligence; Time Management,Frontend Engineer,Microsoft,5.6,2
+STU258,Kiara Gade,CSD,Faizabad,Data Structures & Algorithms; Machine Learning; DBMS; DevOps; Cloud Computing; Data Visualization; Programming; Creativity; Time Management,Data Engineer,TechCo32,9.8,5
+STU259,Jiya Varkey,CSE,Sultanpur,DBMS; Computer Networks; Operating Systems; Programming; Machine Learning; Adaptability; Leadership; Critical Thinking,QA Engineer,TechCo62,7.7,6
+STU260,Shayak Sen,CSE,Lucknow,Machine Learning; Operating Systems; Programming; DBMS; Computer Networks; Data Structures & Algorithms; Cloud Computing; Critical Thinking; Problem Solving,Data Engineer,TCS,11.8,2
+STU261,Eva Ghose,IT,Ballia,Operating Systems; Web Development; DBMS; Cybersecurity; Programming; Interpersonal Skills; Time Management; Adaptability,Frontend Engineer,TechCo53,7.1,2
+STU262,Dhanush Kunda,EE,Azamgarh,Control Systems; Power Electronics; Electrical Machines; Circuit Theory; Teamwork; Problem Solving; Emotional Intelligence,Control Systems Engineer,CoreCo10,11,1
+STU263,Farhan Krishnan,CSE,Gorakhpur,Programming; Data Structures & Algorithms; Cloud Computing; Operating Systems; Emotional Intelligence; Critical Thinking,QA Engineer,NIIT Technologies,3.6,4
+STU265,Prerak Bhardwaj,CSD,Deoria,Data Structures & Algorithms; Programming; DBMS; DevOps; Cloud Computing; Time Management; Critical Thinking; Interpersonal Skills,Data Engineer,Amazon,6.1,3
+STU268,Jivika Upadhyay,CSD,Azamgarh,DBMS; Cloud Computing; Programming; Data Structures & Algorithms; Adaptability; Creativity,QA Engineer,Zensar,5.2,3
+STU269,Krish Rama,IT,Sultanpur,Mobile App Development; DBMS; Cybersecurity; Data Structures & Algorithms; Programming; Web Development; Teamwork; Critical Thinking; Communication,QA Engineer,TechCo43,12.3,3
+STU271,Ishita Sekhon,CSE,Sultanpur,Cloud Computing; Data Structures & Algorithms; DBMS; Operating Systems; Machine Learning; Programming; Computer Networks; Problem Solving; Time Management,Data Engineer,TCS,11.8,5
+STU273,Elakshi Shah,IT,Gorakhpur,Data Structures & Algorithms; Operating Systems; Mobile App Development; Web Development; Cybersecurity; DBMS; Creativity; Critical Thinking,QA Engineer,Accenture,10.9,2
+STU274,Sumer Dugar,IT,Raebareli,Programming; DBMS; Mobile App Development; Operating Systems; Communication; Teamwork; Critical Thinking,ML Engineer,Oracle,3.7,1
+STU275,Bhavin Banerjee,CSD,Sultanpur,Data Structures & Algorithms; DevOps; Machine Learning; DBMS; Cloud Computing; Programming; Data Visualization; Leadership; Problem Solving,Full Stack Developer,TechCo30,6.4,1
+STU276,Shamik De,IT,Jaunpur,Operating Systems; Programming; Cybersecurity; DBMS; Mobile App Development; Data Structures & Algorithms; Interpersonal Skills; Adaptability; Time Management,Full Stack Developer,Mphasis_1,3,6
+STU277,Vivaan Chatterjee,IT,Gorakhpur,Web Development; Programming; Cybersecurity; DBMS; Operating Systems; Data Structures & Algorithms; Mobile App Development; Emotional Intelligence; Critical Thinking; Creativity,Backend Engineer,TechCo23,10.6,4
+STU282,Inaaya  Master,CSE,Deoria,Programming; Cloud Computing; DBMS; Machine Learning; Interpersonal Skills; Adaptability; Leadership,ML Engineer,TechCo63,7.4,3
+STU283,Ishita Talwar,CSE-AIML,Lucknow,Machine Learning; Computer Vision; Programming; Data Structures & Algorithms; Artificial Intelligence; Deep Learning; Natural Language Processing; Interpersonal Skills; Creativity,ML Engineer,TechCo58,6.7,4
+STU285,Diya Gokhale,Civil,Jaunpur,Transportation Engineering; Building Materials; AutoCAD; Emotional Intelligence; Communication; Creativity,Civil Engineer,Mahindra & Mahindra,7.9,5
+STU288,Drishya Brar,ME,Jaunpur,"Materials Science, Metallurgy, Failure Analysis, Research Skills; Time Management; Emotional Intelligence; Leadership",Production Engineer,CoreCo29,8.2,6
+STU289,Advika Yogi,CSD,Basti,Machine Learning; DevOps; DBMS; Cloud Computing; Data Visualization; Communication; Creativity,QA Engineer,TechCo42,13.9,3
+STU291,Ivana Comar,CSE,Faizabad,DBMS; Data Structures & Algorithms; Cloud Computing; Computer Networks; Machine Learning; Operating Systems; Programming; Leadership; Time Management,ML Engineer,TechCo18,6.5,2
+STU293,Shaan Tandon,EC,Basti,Embedded Systems; Communication Systems; Creativity; Critical Thinking; Interpersonal Skills,Investment Banking Analyst,OYO,4.9,1
+STU295,Aniruddh Jani,CSD,Basti,DBMS; DevOps; Cloud Computing; Programming; Data Visualization; Machine Learning; Leadership; Time Management; Creativity,Backend Engineer,TechCo33,6.2,2
+STU297,Zaina Ramachandran,CSE-AIML,Deoria,Deep Learning; Data Structures & Algorithms; Artificial Intelligence; Computer Vision; Programming; Machine Learning; Natural Language Processing; Adaptability; Problem Solving; Creativity,SDE,Wipro,6,6
+STU298,Jhanvi Vaidya,Civil,Basti,Geotechnical Engineering; Structural Analysis; Surveying; Leadership; Teamwork,Structural Engineer,CoreCo9,4.3,4
+STU299,Manjari Ray,CSE-AIML,Lucknow,Machine Learning; Data Structures & Algorithms; Deep Learning; Artificial Intelligence; Adaptability; Interpersonal Skills,Frontend Engineer,Persistent Systems,10.8,2
+STU300,Shalv Sundaram,CSD,Deoria,Programming; Cloud Computing; Data Structures & Algorithms; Machine Learning; DevOps; Data Visualization; Teamwork; Leadership; Interpersonal Skills,ML Engineer,TechCo35,17.2,3
+STU304,Rati Vig,IT,Sultanpur,Cybersecurity; Mobile App Development; Operating Systems; Web Development; DBMS; Time Management; Emotional Intelligence,Backend Engineer,Mphasis,11.7,3
+STU305,Diya Jhaveri,CSE,Barabanki,Computer Networks; Cloud Computing; Programming; Data Structures & Algorithms; Operating Systems; DBMS; Interpersonal Skills; Creativity; Problem Solving,ML Engineer,TechCo35,17.2,2
+STU309,Kabir Baral,CSE-AIML,Mau,Data Structures & Algorithms; Natural Language Processing; Programming; Deep Learning; Machine Learning; Computer Vision; Artificial Intelligence; Interpersonal Skills; Adaptability,Backend Engineer,TechCo38,3.2,2
+STU310,Dishani Handa,IT,Basti,Cybersecurity; Mobile App Development; Operating Systems; DBMS; Data Structures & Algorithms; Programming; Web Development; Time Management; Critical Thinking,Full Stack Developer,TechCo19,5.6,6
+STU311,Anaya Sarna,EE,Jaunpur,Electrical Machines; Control Systems; Creativity; Leadership; Teamwork,Power Systems Engineer,CoreCo19,7,1
+STU313,Indrans Devi,EE,Jaunpur,Electrical Machines; Control Systems; Circuit Theory; Power Electronics; Leadership; Teamwork,Control Systems Engineer,CoreCo39,5.1,5
+STU314,Kavya Boase,CSE-AIML,Ballia,Data Structures & Algorithms; Deep Learning; Computer Vision; Machine Learning; Natural Language Processing; Critical Thinking; Teamwork; Creativity,ML Engineer,TechCo14,11.2,2
+STU315,Stuvan Kamdar,ME,Lucknow,"3D Printing, Additive Manufacturing, Innovation, Collaboration; Interpersonal Skills; Problem Solving; Creativity",Production Engineer,CoreCo34,7,5
+STU316,Aaryahi Mahal,Civil,Deoria,Transportation Engineering; Building Materials; Time Management; Leadership; Emotional Intelligence,Civil Engineer,CoreCo6,11.7,6
+STU317,Mehul Bhatti,IT,Azamgarh,Web Development; Programming; Cybersecurity; Operating Systems; DBMS; Data Structures & Algorithms; Problem Solving; Time Management; Critical Thinking,ML Engineer,TechCo36,12,4
+STU318,Urvi Kata,ME,Basti,"Robotics, Automation, Control Systems, Adaptability; Leadership; Time Management; Teamwork",Design Engineer,CoreCo3,6.6,4
+STU319,Zeeshan Kala,IT,Raebareli,Data Structures & Algorithms; Operating Systems; Web Development; DBMS; Mobile App Development; Problem Solving; Communication,QA Engineer,TechCo2,6.4,4
+STU320,Zara Wadhwa,CSE-AIML,Lucknow,Machine Learning; Computer Vision; Deep Learning; Data Structures & Algorithms; Artificial Intelligence; Natural Language Processing; Emotional Intelligence; Critical Thinking; Adaptability,Backend Engineer,Hexaware,4.6,3
+STU321,Madhup Garg,CSE,Barabanki,Computer Networks; Operating Systems; Machine Learning; Programming; Adaptability; Interpersonal Skills,Backend Engineer,Subex,8.6,4
+STU325,Damini Sarna,CSE,Jaunpur,Machine Learning; Data Structures & Algorithms; Programming; Cloud Computing; Operating Systems; DBMS; Computer Networks; Communication; Critical Thinking; Emotional Intelligence,Frontend Engineer,TechCo59,6.5,4
+STU326,Anay Dhar,CSE,Basti,Computer Networks; Programming; Cloud Computing; DBMS; Time Management; Critical Thinking,QA Engineer,TechCo62,7.7,3
+STU328,Rohan Brahmbhatt,CSE-AIML,Sultanpur,Deep Learning; Artificial Intelligence; Data Structures & Algorithms; Computer Vision; Adaptability; Emotional Intelligence,ML Engineer,TechCo58,6.7,1
+STU330,Yakshit Shah,EE,Barabanki,Electrical Machines; Circuit Theory; Power Electronics; Control Systems; Adaptability; Leadership; Time Management,Electrical Engineer,Hindustan Aeronautics Limited,9.6,3
+STU332,Hrishita Kothari,Civil,Basti,Surveying; Transportation Engineering; Geotechnical Engineering; Time Management; Communication; Interpersonal Skills,Site Engineer,ABB India,8.2,3
+STU334,Ranbir Mani,IT,Raebareli,Web Development; Cybersecurity; Data Structures & Algorithms; DBMS; Mobile App Development; Problem Solving; Critical Thinking,Data Engineer,TechCo45,3.7,5
+STU336,Aarna Kanda,CSE,Ballia,Computer Networks; Data Structures & Algorithms; Cloud Computing; Programming; DBMS; Machine Learning; Critical Thinking; Emotional Intelligence; Time Management,ML Engineer,TechCo63,7.4,3
+STU337,Neelofar Kaur,CSD,Ballia,Programming; Data Structures & Algorithms; Machine Learning; DevOps; Cloud Computing; Data Visualization; DBMS; Emotional Intelligence; Teamwork,Frontend Engineer,Mindtree,6.4,3
+STU338,Ranbir Kumar,CSD,Jaunpur,DBMS; Data Structures & Algorithms; Data Visualization; Cloud Computing; Programming; Machine Learning; DevOps; Adaptability; Creativity,ML Engineer,Oracle,3.7,6
+STU339,Sahil Chanda,CSE-AIML,Lucknow,Data Structures & Algorithms; Computer Vision; Natural Language Processing; Artificial Intelligence; Deep Learning; Communication; Problem Solving,Frontend Engineer,Persistent Systems,10.8,4
+STU340,Miraya Sharaf,EE,Jaunpur,Control Systems; Electrical Machines; Power Systems; Critical Thinking; Communication,Control Systems Engineer,CoreCo35,11.6,2
+STU342,Darshit Sidhu,CSD,Ballia,Machine Learning; Data Structures & Algorithms; DBMS; Data Visualization; Cloud Computing; Teamwork; Critical Thinking,Data Engineer,TechCo5,4.4,1
+STU343,Chirag Verma,Civil,Mau,AutoCAD; Transportation Engineering; Adaptability; Interpersonal Skills,Site Engineer,CoreCo41,8.8,1
+STU346,Ojas Vyas,EE,Azamgarh,Power Systems; Circuit Theory; Electrical Machines; Problem Solving; Communication; Teamwork,Power Systems Engineer,Cummins India,5.4,4
+STU348,Ehsaan Dutt,CSE-AIML,Azamgarh,Machine Learning; Natural Language Processing; Artificial Intelligence; Computer Vision; Data Structures & Algorithms; Deep Learning; Programming; Teamwork; Interpersonal Skills,Frontend Engineer,TechCo22,17.1,7
+STU350,Ivan Sachar,ME,Jaunpur,"AutoCAD, SolidWorks, CAD/CAM, Manufacturing, Problem-Solving; Interpersonal Skills; Time Management; Critical Thinking",Production Engineer,CoreCo34,7,1
+STU351,Madhup Sagar,Civil,Jaunpur,Structural Analysis; Building Materials; AutoCAD; Leadership; Emotional Intelligence,Site Engineer,Bosch India,10,4
+STU356,Aaryahi Bawa,EE,Sultanpur,Control Systems; Power Systems; Circuit Theory; Adaptability; Critical Thinking; Teamwork,Control Systems Engineer,NTPC,4.1,5
+STU358,Pari Hari,IT,Basti,Web Development; Operating Systems; Cybersecurity; Programming; Mobile App Development; DBMS; Problem Solving; Creativity; Time Management,QA Engineer,TechCo15,6.2,4
+STU361,Riaan Bora,CSE-AIML,Sultanpur,Natural Language Processing; Data Structures & Algorithms; Machine Learning; Programming; Deep Learning; Computer Vision; Artificial Intelligence; Teamwork; Creativity; Interpersonal Skills,ML Engineer,TechCo4,11.2,6
+STU362,Shray Borra,IT,Lucknow,Mobile App Development; Cybersecurity; Web Development; Programming; Operating Systems; Data Structures & Algorithms; DBMS; Communication; Emotional Intelligence,ML Engineer,TechCo14,11.2,4
+STU365,Vivaan Bansal,Civil,Raebareli,Transportation Engineering; Surveying; Building Materials; Leadership; Interpersonal Skills,Site Engineer,Reliance Infrastructure,7.6,4
+STU366,Gokul Ben,IT,Faizabad,DBMS; Data Structures & Algorithms; Web Development; Cybersecurity; Mobile App Development; Programming; Adaptability; Emotional Intelligence; Creativity,Data Engineer,TechCo16,7.7,2
+STU368,Kismat Raju,ME,Azamgarh,"Robotics, Automation, Control Systems, Adaptability; Interpersonal Skills; Teamwork",Production Engineer,CoreCo29,8.2,5
+STU369,Rhea Barad,EE,Sultanpur,Circuit Theory; Control Systems; Power Electronics; Power Systems; Time Management; Interpersonal Skills,Electrical Engineer,CoreCo22,3.8,1
+STU370,Dhanuk Randhawa,CSD,Barabanki,Data Visualization; Cloud Computing; Programming; DBMS; Machine Learning; DevOps; Data Structures & Algorithms; Critical Thinking; Time Management; Communication,Backend Engineer,TechCo17,3.1,4
+STU371,Aniruddh Dave,CSE-AIML,Sultanpur,Computer Vision; Machine Learning; Natural Language Processing; Programming; Deep Learning; Artificial Intelligence; Time Management; Adaptability; Interpersonal Skills,Full Stack Developer,TechCo54,6.7,4
+STU373,Ryan Mani,CSE,Deoria,Computer Networks; Cloud Computing; Operating Systems; Programming; DBMS; Machine Learning; Data Structures & Algorithms; Teamwork; Communication; Critical Thinking,ML Engineer,TechCo4,11.2,4
+STU377,Nishith Lalla,IT,Lucknow,Web Development; Data Structures & Algorithms; Cybersecurity; Programming; Mobile App Development; Problem Solving; Teamwork,Data Engineer,TechCo32,9.8,2
+STU378,Dhanush Khare,CSD,Raebareli,Machine Learning; Cloud Computing; DBMS; Data Visualization; Data Structures & Algorithms; DevOps; Teamwork; Communication; Leadership,QA Engineer,TechCo6,11.1,2
+STU379,Amani Dalal,IT,Jaunpur,Mobile App Development; Data Structures & Algorithms; Operating Systems; Cybersecurity; DBMS; Problem Solving; Adaptability; Critical Thinking,Data Engineer,Amazon,6.1,6
+STU380,Aaryahi Kala,CSD,Raebareli,Machine Learning; DBMS; Data Structures & Algorithms; DevOps; Data Visualization; Interpersonal Skills; Time Management,Backend Engineer,Mphasis,11.7,5
+STU381,Mehul Sheth,IT,Lucknow,Operating Systems; DBMS; Programming; Data Structures & Algorithms; Mobile App Development; Cybersecurity; Web Development; Problem Solving; Emotional Intelligence; Teamwork,Backend Engineer,TechCo17,3.1,3
+STU382,Adira Walia,CSD,Ballia,Cloud Computing; Machine Learning; Programming; DevOps; DBMS; Leadership; Emotional Intelligence; Creativity,ML Engineer,TechCo14,11.2,3
+STU387,Tara Sen,CSE-AIML,Barabanki,Computer Vision; Programming; Deep Learning; Data Structures & Algorithms; Artificial Intelligence; Machine Learning; Natural Language Processing; Creativity; Emotional Intelligence; Problem Solving,Frontend Engineer,TechCo46,19,3
+STU389,Bhavin Butala,IT,Barabanki,Programming; Cybersecurity; Data Structures & Algorithms; Mobile App Development; Operating Systems; Web Development; DBMS; Adaptability; Time Management; Interpersonal Skills,Data Engineer,TechCo26,13,5
+STU391,Seher Guha,Civil,Sultanpur,Structural Analysis; Building Materials; AutoCAD; Interpersonal Skills; Emotional Intelligence; Communication,Structural Engineer,CoreCo25,5.8,2
+STU394,Prerak Wali,CSE-AIML,Lucknow,Programming; Artificial Intelligence; Natural Language Processing; Data Structures & Algorithms; Machine Learning; Critical Thinking; Leadership,Full Stack Developer,TechCo60,6.7,4
+STU395,Kashvi Sachdev,IT,Ballia,Web Development; DBMS; Operating Systems; Cybersecurity; Critical Thinking; Emotional Intelligence; Adaptability,ML Engineer,TechCo35,17.2,1
+STU397,Ayesha Thaman,CSE,Deoria,DBMS; Cloud Computing; Data Structures & Algorithms; Operating Systems; Machine Learning; Programming; Computer Networks; Critical Thinking; Teamwork; Emotional Intelligence,QA Engineer,TechCo51,6.3,3
+STU399,Ritvik Ramesh,ME,Jaunpur,"Production Engineering, Industrial Engineering, Quality Control, Teamwork; Critical Thinking; Interpersonal Skills; Communication",Production Engineer,CoreCo2,12.6,3
+STU400,Myra Dhawan,ME,Jaunpur,"Materials Science, Metallurgy, Failure Analysis, Research Skills; Teamwork; Problem Solving; Time Management",Design Engineer,CoreCo7,6.4,7
+STU401,Dhanuk Shanker,IT,Raebareli,Operating Systems; Cybersecurity; Mobile App Development; Data Structures & Algorithms; Web Development; DBMS; Programming; Time Management; Problem Solving,Data Engineer,TechCo45,3.7,2
+STU402,Seher Kunda,EC,Barabanki,Communication Systems; Signal Processing; Critical Thinking; Adaptability,Financial Analyst,StartCo24,9.2,1
+STU403,Madhup Desai,IT,Basti,Data Structures & Algorithms; Operating Systems; DBMS; Programming; Cybersecurity; Problem Solving; Communication,ML Engineer,TechCo36,12,6
+STU404,Priyansh Kapadia,CSE-AIML,Lucknow,Deep Learning; Data Structures & Algorithms; Machine Learning; Computer Vision; Natural Language Processing; Artificial Intelligence; Programming; Critical Thinking; Leadership; Time Management,ML Engineer,TechCo3,5.4,3
+STU406,Urvi Grover,EC,Azamgarh,Embedded Systems; VLSI Design; Teamwork; Emotional Intelligence; Critical Thinking,Risk Analyst,Groww,5.6,4
+STU407,Madhup Roy,CSE,Lucknow,Machine Learning; Programming; Cloud Computing; Data Structures & Algorithms; Computer Networks; DBMS; Time Management; Adaptability; Creativity,Backend Engineer,Hexaware,4.6,1
+STU410,Kismat Kara,ME,Mau,"Robotics, Automation, Control Systems, Adaptability; Problem Solving; Creativity",Production Engineer,CoreCo17,11.7,1
+STU411,Vedika Sibal,CSD,Basti,Data Visualization; Programming; Machine Learning; DevOps; Data Structures & Algorithms; DBMS; Cloud Computing; Adaptability; Problem Solving,Backend Engineer,Hexaware,4.6,3
+STU413,Riya Kade,EC,Basti,Embedded Systems; VLSI Design; Creativity; Interpersonal Skills; Communication,Risk Analyst,StartCo66,8,4
+STU415,Anvi Seshadri,ME,Deoria,"Production Engineering, Industrial Engineering, Quality Control, Teamwork; Critical Thinking; Interpersonal Skills",Production Engineer,CoreCo17,11.7,3
+STU416,Dhanush Srinivas,CSE-AIML,Lucknow,Programming; Natural Language Processing; Artificial Intelligence; Data Structures & Algorithms; Deep Learning; Critical Thinking; Problem Solving,Frontend Engineer,TechCo41,10.8,1
+STU417,Parinaaz Balakrishnan,EE,Azamgarh,Control Systems; Circuit Theory; Critical Thinking; Emotional Intelligence,Control Systems Engineer,NTPC,4.1,4
+STU424,Fateh Dewan,CSE-AIML,Raebareli,Computer Vision; Machine Learning; Programming; Artificial Intelligence; Data Structures & Algorithms; Natural Language Processing; Deep Learning; Adaptability; Emotional Intelligence,QA Engineer,TechCo2,6.4,1
+STU428,Zaina Trivedi,EC,Gorakhpur,Microprocessors & Microcontrollers; Analog Circuits; Embedded Systems; VLSI Design; Critical Thinking; Teamwork; Adaptability,Financial Analyst,StartCo51,7.9,2
+STU429,Chirag Chaudhary,CSE-AIML,Gorakhpur,Natural Language Processing; Data Structures & Algorithms; Deep Learning; Machine Learning; Computer Vision; Artificial Intelligence; Programming; Leadership; Communication,Frontend Engineer,TechCo47,7.5,5
+STU430,Yuvraj  Sarna,IT,Faizabad,Mobile App Development; Data Structures & Algorithms; DBMS; Cybersecurity; Operating Systems; Web Development; Critical Thinking; Time Management; Adaptability,Frontend Engineer,Capgemini,5.1,5
+STU431,Gatik Ahuja,CSD,Lucknow,Cloud Computing; Data Visualization; DevOps; Data Structures & Algorithms; Machine Learning; Adaptability; Interpersonal Skills,SDE,RouteMobile,4.4,3
+STU432,Zeeshan Hayer,CSE,Ballia,DBMS; Operating Systems; Machine Learning; Cloud Computing; Data Structures & Algorithms; Interpersonal Skills; Emotional Intelligence; Time Management,Data Engineer,TechCo57,10.6,1
+STU433,Samiha Kari,CSE,Jaunpur,Machine Learning; Computer Networks; Data Structures & Algorithms; Operating Systems; Cloud Computing; Programming; Adaptability; Leadership,Data Engineer,Tech Mahindra,6.8,3
+STU435,Miraan Rajagopal,CSE-AIML,Lucknow,Data Structures & Algorithms; Natural Language Processing; Artificial Intelligence; Deep Learning; Programming; Machine Learning; Problem Solving; Emotional Intelligence; Critical Thinking,QA Engineer,TechCo9,17.4,3
+STU436,Tanya Loyal,CSE,Sultanpur,Programming; Data Structures & Algorithms; Operating Systems; DBMS; Machine Learning; Cloud Computing; Emotional Intelligence; Interpersonal Skills,Data Engineer,LTI,18.2,4
+STU437,Suhana Lala,ME,Sultanpur,"HVAC Systems, Energy Management, Sustainability, Communication; Teamwork; Problem Solving; Emotional Intelligence",Production Engineer,CoreCo2,12.6,3
+STU439,Aarav Upadhyay,CSD,Sultanpur,Data Visualization; DevOps; DBMS; Machine Learning; Interpersonal Skills; Communication; Creativity,Frontend Engineer,TechCo41,10.8,3
+STU440,Sana Soni,CSD,Faizabad,Data Visualization; Programming; DevOps; Cloud Computing; Machine Learning; DBMS; Adaptability; Emotional Intelligence; Time Management,Backend Engineer,Mphasis,11.7,6
+STU441,Arhaan Srivastava,EC,Mau,Digital Electronics; Embedded Systems; Emotional Intelligence; Leadership; Creativity,Investment Banking Analyst,StartCo104,3.6,2
+STU442,Shaan Rajagopal,CSE-AIML,Ballia,Machine Learning; Computer Vision; Programming; Data Structures & Algorithms; Natural Language Processing; Deep Learning; Interpersonal Skills; Time Management,Frontend Engineer,IBM,5,2
+STU443,Aarna Mallick,CSE-AIML,Raebareli,Machine Learning; Natural Language Processing; Programming; Artificial Intelligence; Computer Vision; Time Management; Leadership; Adaptability,QA Engineer,NIIT Technologies,3.6,3
+STU444,Samiha Kunda,IT,Gorakhpur,Operating Systems; Mobile App Development; Web Development; Cybersecurity; Data Structures & Algorithms; DBMS; Programming; Emotional Intelligence; Time Management,QA Engineer,TechCo15,6.2,2
+STU446,Adah Ramanathan,CSE,Raebareli,Machine Learning; DBMS; Computer Networks; Data Structures & Algorithms; Cloud Computing; Operating Systems; Programming; Teamwork; Time Management,QA Engineer,TechCo7,8.9,3
+STU447,Nirvi Kota,CSE,Barabanki,Data Structures & Algorithms; Machine Learning; Computer Networks; DBMS; Cloud Computing; Programming; Operating Systems; Interpersonal Skills; Communication; Time Management,QA Engineer,TechCo7,8.9,3
+STU448,Devansh Gupta,IT,Raebareli,Programming; DBMS; Cybersecurity; Data Structures & Algorithms; Mobile App Development; Creativity; Problem Solving; Leadership,Frontend Engineer,TechCo27,6.7,4
+STU449,Tanya Sharaf,EE,Raebareli,Circuit Theory; Power Systems; Power Electronics; Creativity; Time Management; Communication,Control Systems Engineer,Motherson Sumi,10.7,5
+STU450,Anaya Ramachandran,CSE,Deoria,DBMS; Cloud Computing; Computer Networks; Programming; Data Structures & Algorithms; Critical Thinking; Time Management,Data Engineer,TechCo44,6.9,6
+STU451,Kimaya Dutta,EE,Deoria,Control Systems; Power Systems; Communication; Emotional Intelligence; Critical Thinking,Power Systems Engineer,CoreCo28,5.7,2
+STU452,Akarsh Sinha,CSE-AIML,Deoria,Artificial Intelligence; Deep Learning; Machine Learning; Programming; Computer Vision; Adaptability; Leadership,QA Engineer,TechCo37,6.5,3
+STU453,Oorja Sabharwal,CSE,Deoria,DBMS; Machine Learning; Computer Networks; Cloud Computing; Data Structures & Algorithms; Programming; Operating Systems; Leadership; Teamwork,QA Engineer,TechCo51,6.3,4
+STU454,Nirvaan Rajagopal,IT,Gorakhpur,Data Structures & Algorithms; Web Development; Operating Systems; Programming; Mobile App Development; Creativity; Emotional Intelligence; Time Management,Data Engineer,TechCo57,10.6,2
+STU455,Zain Keer,ME,Mau,"HVAC Systems, Energy Management, Sustainability, Communication; Time Management; Teamwork; Adaptability",Production Engineer,CoreCo17,11.7,5
+STU456,Kaira Sachdeva,CSE,Sultanpur,Data Structures & Algorithms; Machine Learning; Programming; Computer Networks; Cloud Computing; Critical Thinking; Emotional Intelligence,QA Engineer,TechCo6,11.1,3
+STU457,Dishani Singhal,EE,Lucknow,Power Electronics; Power Systems; Emotional Intelligence; Adaptability,Control Systems Engineer,Motherson Sumi,10.7,2
+STU459,Sahil Manda,ME,Barabanki,"AutoCAD, SolidWorks, CAD/CAM, Manufacturing, Problem-Solving; Adaptability; Emotional Intelligence; Leadership",Production Engineer,CoreCo34,7,4
+STU463,Rania Bhargava,CSD,Barabanki,Cloud Computing; Programming; Data Structures & Algorithms; Machine Learning; DevOps; DBMS; Data Visualization; Creativity; Problem Solving,Frontend Engineer,TechCo41,10.8,4
+STU464,Heer Shetty,EE,Barabanki,Electrical Machines; Circuit Theory; Power Systems; Leadership; Time Management,Power Systems Engineer,CoreCo1,9.4,6
+STU466,Rohan Sule,ME,Mau,"Robotics, Automation, Control Systems, Adaptability; Time Management; Emotional Intelligence; Creativity",Production Engineer,CoreCo2,12.6,1
+STU469,Lagan Bandi,CSD,Gorakhpur,Machine Learning; DBMS; Data Visualization; Data Structures & Algorithms; Cloud Computing; Emotional Intelligence; Creativity; Interpersonal Skills,ML Engineer,TechCo63,7.4,6
+STU472,Lavanya Borra,IT,Ballia,Mobile App Development; Programming; Data Structures & Algorithms; Cybersecurity; Operating Systems; DBMS; Web Development; Teamwork; Time Management,QA Engineer,Google,8,2
+STU473,Jayant Sandhu,IT,Deoria,DBMS; Web Development; Operating Systems; Mobile App Development; Data Structures & Algorithms; Adaptability; Interpersonal Skills; Emotional Intelligence,QA Engineer,TechCo21,6.8,3
+STU475,Samar Sangha,ME,Deoria,"Mechanical Design, Machine Elements, ANSYS, Critical Thinking; Teamwork; Critical Thinking",Production Engineer,CoreCo17,11.7,2
+STU478,Zoya Mangal,IT,Raebareli,Programming; Web Development; Mobile App Development; Data Structures & Algorithms; Time Management; Communication,Frontend Engineer,TechCo59,6.5,1
+STU479,Zain Dara,CSE,Sultanpur,Operating Systems; Machine Learning; Data Structures & Algorithms; Computer Networks; Emotional Intelligence; Adaptability,SDE,RouteMobile,4.4,3
+STU481,Heer Amble,CSE,Gorakhpur,Operating Systems; Data Structures & Algorithms; Cloud Computing; Programming; Machine Learning; DBMS; Communication; Critical Thinking; Time Management,ML Engineer,TechCo18,6.5,5
+STU483,Samiha Chad,EE,Lucknow,Power Systems; Power Electronics; Problem Solving; Interpersonal Skills,Control Systems Engineer,CoreCo39,5.1,1
+STU484,Reyansh Ramachandran,Civil,Raebareli,Building Materials; Geotechnical Engineering; Critical Thinking; Time Management; Communication,Structural Engineer,CoreCo8,8.2,5
+STU485,Krish Chaudry,CSE,Azamgarh,Operating Systems; Cloud Computing; Computer Networks; Machine Learning; DBMS; Programming; Adaptability; Leadership,Frontend Engineer,TechCo52,3.4,4
+STU486,Bhamini Dhillon,CSE,Sultanpur,Computer Networks; Operating Systems; Data Structures & Algorithms; Programming; DBMS; Machine Learning; Cloud Computing; Adaptability; Teamwork,Backend Engineer,Mphasis,11.7,2
+STU487,Kiaan Chakrabarti,IT,Jaunpur,Programming; Cybersecurity; DBMS; Web Development; Operating Systems; Data Structures & Algorithms; Mobile App Development; Teamwork; Leadership,Frontend Engineer,TechCo59,6.5,5
+STU490,Eshani Badami,CSE,Sultanpur,Machine Learning; Cloud Computing; Operating Systems; Data Structures & Algorithms; Communication; Critical Thinking,Data Engineer,TechCo12,6.7,1
+STU491,Advik Cheema,CSE-AIML,Raebareli,Machine Learning; Computer Vision; Natural Language Processing; Artificial Intelligence; Data Structures & Algorithms; Critical Thinking; Leadership; Creativity,Data Engineer,TechCo32,9.8,5
+STU492,Dhruv Jaggi,IT,Basti,Operating Systems; Data Structures & Algorithms; DBMS; Web Development; Time Management; Emotional Intelligence; Adaptability,Data Engineer,TechCo24,7.4,3
+STU496,Rasha Jayaraman,CSE,Basti,Cloud Computing; Operating Systems; DBMS; Data Structures & Algorithms; Machine Learning; Programming; Computer Networks; Time Management; Emotional Intelligence,QA Engineer,TechCo62,7.7,4
+STU497,Saira Loke,CSE,Sultanpur,Data Structures & Algorithms; DBMS; Machine Learning; Programming; Operating Systems; Interpersonal Skills; Leadership; Communication,Frontend Engineer,Microsoft,5.6,5
+STU498,Raghav Walla,CSE-AIML,Faizabad,Machine Learning; Computer Vision; Artificial Intelligence; Deep Learning; Data Structures & Algorithms; Natural Language Processing; Programming; Time Management; Problem Solving; Teamwork,Frontend Engineer,Zoho,12.3,3
+STU500,Anika Sangha,EC,Raebareli,Signal Processing; Embedded Systems; Leadership; Time Management; Problem Solving,Financial Analyst,StartCo51,7.9,3
+STU501,Sahil Sehgal,IT,Barabanki,DBMS; Cybersecurity; Programming; Web Development; Mobile App Development; Operating Systems; Data Structures & Algorithms; Interpersonal Skills; Communication; Time Management,Backend Engineer,TechCo55,18.1,3
+STU502,Mehul Bhandari,EE,Jaunpur,Circuit Theory; Power Electronics; Control Systems; Power Systems; Emotional Intelligence; Problem Solving; Teamwork,Electrical Engineer,CoreCo22,3.8,2
+STU503,Pranay Ramesh,IT,Mau,Cybersecurity; Web Development; Mobile App Development; Operating Systems; DBMS; Data Structures & Algorithms; Adaptability; Time Management,QA Engineer,TechCo2,6.4,5
+STU504,Shayak D’Alia,IT,Jaunpur,Data Structures & Algorithms; Web Development; Cybersecurity; Operating Systems; Programming; Mobile App Development; Emotional Intelligence; Creativity; Critical Thinking,ML Engineer,TechCo18,6.5,3
+STU505,Advika Chandran,CSD,Gorakhpur,DBMS; Cloud Computing; Machine Learning; Data Structures & Algorithms; Critical Thinking; Problem Solving,Full Stack Developer,TechCo30,6.4,3
+STU506,Damini Rastogi,CSE,Gorakhpur,Cloud Computing; DBMS; Computer Networks; Operating Systems; Machine Learning; Programming; Teamwork; Communication; Time Management,QA Engineer,TechCo7,8.9,4
+STU507,Ivan Gaba,CSE,Ballia,Cloud Computing; Operating Systems; DBMS; Programming; Computer Networks; Machine Learning; Communication; Problem Solving,Frontend Engineer,TechCo10,6.3,5
+STU510,Yasmin Sharma,CSE,Azamgarh,Machine Learning; DBMS; Operating Systems; Data Structures & Algorithms; Emotional Intelligence; Teamwork; Interpersonal Skills,Data Engineer,TechCo45,3.7,2
+STU511,Zeeshan Varkey,Civil,Sultanpur,AutoCAD; Structural Analysis; Surveying; Building Materials; Communication; Emotional Intelligence,Civil Engineer,Mahindra & Mahindra,7.9,4
+STU512,Trisha Bhandari,EE,Sultanpur,Power Systems; Control Systems; Teamwork; Emotional Intelligence,Electrical Engineer,Alstom,3.5,3
+STU513,Miraya Mammen,CSD,Azamgarh,Cloud Computing; DevOps; Data Structures & Algorithms; Machine Learning; DBMS; Programming; Communication; Emotional Intelligence,ML Engineer,TechCo63,7.4,1
+STU514,Aayush Date,ME,Azamgarh,"Mechatronics, Microcontrollers, Sensors, Creativity; Interpersonal Skills; Problem Solving",Design Engineer,Tata Motors,10.8,3
+STU515,Chirag Lad,CSE,Faizabad,Operating Systems; Programming; Cloud Computing; Data Structures & Algorithms; Computer Networks; Machine Learning; Teamwork; Emotional Intelligence,Full Stack Developer,TechCo39,16.9,3
+STU517,Zaina Kara,CSE,Sultanpur,Data Structures & Algorithms; Cloud Computing; DBMS; Machine Learning; Operating Systems; Programming; Interpersonal Skills; Emotional Intelligence; Critical Thinking,Backend Engineer,Mphasis,11.7,7
+STU519,Vihaan Dyal,CSE-AIML,Barabanki,Data Structures & Algorithms; Computer Vision; Artificial Intelligence; Machine Learning; Deep Learning; Time Management; Emotional Intelligence; Adaptability,Data Engineer,Tech Mahindra,6.8,1
+STU520,Badal Goyal,CSE,Gorakhpur,Machine Learning; Programming; Cloud Computing; Operating Systems; DBMS; Data Structures & Algorithms; Computer Networks; Teamwork; Interpersonal Skills; Adaptability,Full Stack Developer,TechCo1,19.4,4
+STU521,Vaibhav Rao,EE,Deoria,Control Systems; Circuit Theory; Electrical Machines; Power Electronics; Critical Thinking; Creativity,Control Systems Engineer,CoreCo39,5.1,3
+STU523,Saanvi Grover,CSE,Mau,Data Structures & Algorithms; Operating Systems; DBMS; Cloud Computing; Computer Networks; Programming; Interpersonal Skills; Emotional Intelligence,Data Engineer,TCS,11.8,1
+STU524,Vritika Dalal,IT,Mau,DBMS; Data Structures & Algorithms; Mobile App Development; Cybersecurity; Critical Thinking; Leadership,ML Engineer,TechCo58,6.7,4
+STU525,Dharmajan Bir,CSE,Azamgarh,Operating Systems; DBMS; Data Structures & Algorithms; Computer Networks; Machine Learning; Programming; Cloud Computing; Emotional Intelligence; Teamwork; Leadership,Backend Engineer,TechCo23,10.6,6
+STU528,Shamik Kala,EE,Gorakhpur,Power Systems; Electrical Machines; Power Electronics; Leadership; Communication,Power Systems Engineer,CoreCo1,9.4,3
+STU529,Jayan Cheema,EC,Mau,Embedded Systems; Digital Electronics; Microprocessors & Microcontrollers; Analog Circuits; Teamwork; Leadership,Investment Banking Analyst,PayU,6.1,1
+STU530,Jayant Madan,EE,Basti,Power Electronics; Power Systems; Circuit Theory; Electrical Machines; Time Management; Creativity; Interpersonal Skills,Power Systems Engineer,CoreCo19,7,5
+STU531,Jhanvi Ramanathan,CSD,Gorakhpur,Cloud Computing; DevOps; Programming; Data Structures & Algorithms; Machine Learning; Emotional Intelligence; Adaptability,QA Engineer,TechCo37,6.5,5
+STU533,Kiaan Randhawa,EE,Sultanpur,Power Systems; Circuit Theory; Control Systems; Electrical Machines; Interpersonal Skills; Problem Solving,Power Systems Engineer,CoreCo19,7,3
+STU534,Anvi Setty,EC,Azamgarh,Signal Processing; Analog Circuits; Communication Systems; Time Management; Problem Solving; Communication,Tax Associate,StartCo95,9.7,2
+STU535,Nitara Krishna,CSE-AIML,Jaunpur,Computer Vision; Machine Learning; Programming; Natural Language Processing; Deep Learning; Data Structures & Algorithms; Leadership; Problem Solving; Teamwork,ML Engineer,TechCo14,11.2,6
+STU536,Zoya Tella,IT,Faizabad,Mobile App Development; Cybersecurity; DBMS; Operating Systems; Programming; Data Structures & Algorithms; Web Development; Time Management; Adaptability,QA Engineer,TechCo9,17.4,5
+STU537,Miraan Deshpande,CSE,Lucknow,Programming; Machine Learning; Operating Systems; DBMS; Computer Networks; Data Structures & Algorithms; Communication; Problem Solving,ML Engineer,TechCo35,17.2,1
+STU538,Badal Kaur,CSE-AIML,Sultanpur,Natural Language Processing; Deep Learning; Data Structures & Algorithms; Programming; Adaptability; Emotional Intelligence; Communication,Frontend Engineer,TechCo52,3.4,6
+STU539,Yakshit Kohli,ME,Deoria,"Thermodynamics, Fluid Mechanics, MATLAB, Analysis Skills; Interpersonal Skills; Creativity",Design Engineer,CoreCo14,3.6,2
+STU541,Nitya Shetty,CSD,Sultanpur,DBMS; Machine Learning; Cloud Computing; DevOps; Data Visualization; Time Management; Creativity,Backend Engineer,TechCo38,3.2,3
+STU542,Farhan Bava,CSE,Jaunpur,Computer Networks; Cloud Computing; Programming; DBMS; Emotional Intelligence; Teamwork; Adaptability,QA Engineer,TechCo15,6.2,2
+STU543,Dishani Kata,CSE-AIML,Sultanpur,Artificial Intelligence; Machine Learning; Natural Language Processing; Programming; Interpersonal Skills; Time Management; Emotional Intelligence,Full Stack Developer,TechCo1,19.4,5
+STU544,Tushar Tandon,CSE-AIML,Ballia,Computer Vision; Natural Language Processing; Deep Learning; Artificial Intelligence; Machine Learning; Programming; Leadership; Time Management,QA Engineer,TechCo61,4.6,5
+STU545,Sana Varty,IT,Azamgarh,DBMS; Programming; Mobile App Development; Operating Systems; Web Development; Emotional Intelligence; Critical Thinking,SDE,TechCo40,6.3,7
+STU548,Aarush Goel,EC,Barabanki,VLSI Design; Digital Electronics; Critical Thinking; Creativity,Equity Research Analyst,StartCo89,7.8,4
+STU549,Tushar Kumar,Civil,Basti,AutoCAD; Transportation Engineering; Geotechnical Engineering; Creativity; Adaptability; Leadership,Structural Engineer,CoreCo25,5.8,7
+STU551,Onkar Chander,CSD,Mau,Programming; Machine Learning; Data Structures & Algorithms; DBMS; DevOps; Data Visualization; Cloud Computing; Creativity; Communication; Critical Thinking,ML Engineer,Cognizant,4,3
+STU553,Shalv Swaminathan,CSD,Gorakhpur,Data Structures & Algorithms; Programming; DevOps; Cloud Computing; Interpersonal Skills; Creativity; Emotional Intelligence,QA Engineer,TechCo2,6.4,2
+STU554,Alia Dugar,EE,Deoria,Power Electronics; Control Systems; Power Systems; Circuit Theory; Communication; Critical Thinking; Emotional Intelligence,Electrical Engineer,Alstom,3.5,4
+STU558,Vardaniya Dyal,EE,Azamgarh,Control Systems; Power Electronics; Circuit Theory; Power Systems; Problem Solving; Interpersonal Skills,Electrical Engineer,Alstom,3.5,1
+STU559,Nehmat Venkatesh,CSE-AIML,Basti,Data Structures & Algorithms; Artificial Intelligence; Machine Learning; Deep Learning; Computer Vision; Problem Solving; Interpersonal Skills,Backend Engineer,TechCo31,4.9,1
+STU561,Neelofar Kuruvilla,CSE,Lucknow,Computer Networks; DBMS; Cloud Computing; Programming; Communication; Problem Solving; Creativity,Full Stack Developer,TechCo39,16.9,3
+STU562,Anvi Goda,CSE,Lucknow,Machine Learning; Programming; Data Structures & Algorithms; Operating Systems; Leadership; Problem Solving; Communication,QA Engineer,TechCo62,7.7,1
+STU564,Advika Loyal,CSE,Ballia,Computer Networks; Programming; Data Structures & Algorithms; Operating Systems; Cloud Computing; Communication; Interpersonal Skills; Leadership,QA Engineer,TechCo11,6.6,4
+STU565,Madhup Lanka,IT,Basti,DBMS; Operating Systems; Mobile App Development; Cybersecurity; Data Structures & Algorithms; Programming; Web Development; Adaptability; Interpersonal Skills; Creativity,Data Engineer,TechCo5,4.4,1
+STU566,Aarush Dewan,CSD,Barabanki,Machine Learning; DBMS; Data Structures & Algorithms; Data Visualization; Leadership; Interpersonal Skills; Teamwork,Full Stack Developer,TechCo39,16.9,4
+STU567,Sumer Taneja,IT,Azamgarh,Web Development; Data Structures & Algorithms; Mobile App Development; Programming; Operating Systems; Problem Solving; Leadership,ML Engineer,TechCo35,17.2,1
+STU568,Anay Tank,CSE,Basti,Computer Networks; DBMS; Data Structures & Algorithms; Machine Learning; Teamwork; Adaptability,QA Engineer,TechCo62,7.7,2
+STU570,Raghav Kaul,CSE,Barabanki,Data Structures & Algorithms; Computer Networks; Cloud Computing; Machine Learning; Programming; Operating Systems; Teamwork; Interpersonal Skills,Data Engineer,Birlasoft,9,5
+STU571,Aniruddh Loyal,EE,Deoria,Control Systems; Power Systems; Circuit Theory; Leadership; Creativity,Control Systems Engineer,Tata Projects,10.8,2
+STU572,Piya Kumar,CSE,Faizabad,Programming; Computer Networks; Data Structures & Algorithms; Cloud Computing; Machine Learning; Emotional Intelligence; Interpersonal Skills,Data Engineer,TechCo5,4.4,2
+STU573,Jiya Madan,ME,Faizabad,"Thermodynamics, Fluid Mechanics, MATLAB, Analysis Skills; Problem Solving; Critical Thinking; Creativity",Production Engineer,CoreCo2,12.6,5
+STU575,Jhanvi Varkey,IT,Jaunpur,Web Development; Data Structures & Algorithms; Programming; DBMS; Operating Systems; Critical Thinking; Time Management,QA Engineer,Zensar,5.2,1
+STU576,Nishith Doctor,CSE,Gorakhpur,Data Structures & Algorithms; Programming; DBMS; Computer Networks; Cloud Computing; Machine Learning; Operating Systems; Critical Thinking; Creativity,Frontend Engineer,Microsoft,5.6,4
+STU577,Manjari Rao,CSD,Sultanpur,Data Structures & Algorithms; DevOps; Cloud Computing; Data Visualization; DBMS; Teamwork; Time Management; Problem Solving,Full Stack Developer,TechCo39,16.9,4
+STU578,Kaira Kamdar,ME,Basti,"AutoCAD, SolidWorks, CAD/CAM, Manufacturing, Problem-Solving; Communication; Critical Thinking; Emotional Intelligence",Design Engineer,CoreCo14,3.6,6
+STU579,Aarav Anne,CSD,Gorakhpur,Data Visualization; Programming; Data Structures & Algorithms; DevOps; Cloud Computing; DBMS; Machine Learning; Communication; Time Management,QA Engineer,Google,8,1
+STU581,Miraya Dora,CSD,Faizabad,DBMS; Machine Learning; Cloud Computing; DevOps; Programming; Data Structures & Algorithms; Data Visualization; Critical Thinking; Emotional Intelligence,Frontend Engineer,Microsoft,5.6,5
+STU584,Romil Kalita,ME,Faizabad,"Mechatronics, Microcontrollers, Sensors, Creativity; Emotional Intelligence; Communication; Critical Thinking",Production Engineer,CoreCo29,8.2,6
+STU586,Ishita Shukla,CSD,Deoria,Data Structures & Algorithms; Cloud Computing; Machine Learning; Data Visualization; DevOps; Teamwork; Leadership; Interpersonal Skills,Backend Engineer,TechCo38,3.2,3
+STU587,Mishti Khalsa,IT,Lucknow,DBMS; Cybersecurity; Web Development; Programming; Data Structures & Algorithms; Mobile App Development; Operating Systems; Time Management; Communication; Teamwork,Frontend Engineer,TechCo41,10.8,4
+STU589,Nishith Saraf,CSD,Gorakhpur,Cloud Computing; DBMS; Data Visualization; Machine Learning; Critical Thinking; Emotional Intelligence,QA Engineer,TechCo6,11.1,1
+STU591,Kiara Sami,EC,Raebareli,Digital Electronics; Microprocessors & Microcontrollers; Communication Systems; Problem Solving; Emotional Intelligence,Financial Analyst,StartCo24,9.2,4
+STU592,Samaira Thaman,CSD,Basti,Cloud Computing; Data Visualization; Data Structures & Algorithms; DBMS; DevOps; Creativity; Communication,Data Engineer,TechCo45,3.7,3
+STU593,Sana Kala,CSE,Jaunpur,Computer Networks; Cloud Computing; Programming; Machine Learning; Data Structures & Algorithms; DBMS; Operating Systems; Teamwork; Adaptability,Data Engineer,TCS,11.8,5
+STU594,Pihu Sahota,CSE,Barabanki,Cloud Computing; Machine Learning; Data Structures & Algorithms; Computer Networks; DBMS; Programming; Operating Systems; Teamwork; Communication,QA Engineer,TechCo62,7.7,3
+STU595,Rasha Jhaveri,EC,Mau,VLSI Design; Embedded Systems; Communication Systems; Microprocessors & Microcontrollers; Interpersonal Skills; Creativity,Equity Research Analyst,StartCo92,7.2,2
+STU598,Tiya Sampath,CSE-AIML,Sultanpur,Data Structures & Algorithms; Programming; Natural Language Processing; Computer Vision; Machine Learning; Interpersonal Skills; Creativity; Leadership,SDE,TechCo8,11.6,4
+STU601,Shlok Kapur,CSD,Barabanki,DevOps; DBMS; Data Structures & Algorithms; Programming; Cloud Computing; Machine Learning; Time Management; Communication; Emotional Intelligence,ML Engineer,TechCo14,11.2,2
+STU602,Fateh Konda,CSE,Raebareli,Operating Systems; Machine Learning; Computer Networks; Programming; DBMS; Data Structures & Algorithms; Cloud Computing; Interpersonal Skills; Creativity; Leadership,QA Engineer,TechCo15,6.2,1
+STU605,Divit Ravi,CSE,Sultanpur,DBMS; Operating Systems; Data Structures & Algorithms; Machine Learning; Programming; Cloud Computing; Interpersonal Skills; Critical Thinking; Communication,Full Stack Developer,Mphasis_1,3,1
+STU607,Taimur Sandhu,CSE,Raebareli,DBMS; Machine Learning; Programming; Operating Systems; Cloud Computing; Data Structures & Algorithms; Time Management; Creativity; Leadership,Frontend Engineer,Zoho,12.3,4
+STU609,Indrans Master,EC,Mau,Analog Circuits; Communication Systems; Creativity; Communication,Tax Associate,StartCo86,5.9,4
+STU610,Lakshay Handa,CSE,Sultanpur,Data Structures & Algorithms; DBMS; Operating Systems; Cloud Computing; Computer Networks; Machine Learning; Adaptability; Critical Thinking,Frontend Engineer,TechCo22,17.1,5
+STU611,Shayak Sama,CSE,Raebareli,Cloud Computing; Operating Systems; Programming; Data Structures & Algorithms; Machine Learning; Critical Thinking; Communication,ML Engineer,TechCo63,7.4,1
+STU617,Renee Mangat,EC,Jaunpur,Communication Systems; VLSI Design; Microprocessors & Microcontrollers; Embedded Systems; Interpersonal Skills; Teamwork; Critical Thinking,Tax Associate,StartCo97,7.8,2
+STU618,Dhanush Contractor,CSD,Azamgarh,Cloud Computing; DBMS; Programming; Machine Learning; Data Structures & Algorithms; Data Visualization; DevOps; Teamwork; Creativity; Adaptability,Full Stack Developer,TechCo28,4.7,1
+STU619,Tanya Choudhary,CSD,Azamgarh,DevOps; DBMS; Data Visualization; Machine Learning; Data Structures & Algorithms; Cloud Computing; Emotional Intelligence; Problem Solving,Data Engineer,LTI,18.2,2
+STU620,Biju Lal,Civil,Faizabad,AutoCAD; Geotechnical Engineering; Creativity; Problem Solving; Emotional Intelligence,Structural Engineer,CoreCo21,7.7,4
+STU621,Heer Johal,IT,Jaunpur,Operating Systems; Data Structures & Algorithms; Mobile App Development; Programming; Time Management; Emotional Intelligence; Leadership,QA Engineer,Google,8,4
+STU622,Ojas Dhar,Civil,Lucknow,Geotechnical Engineering; Building Materials; Teamwork; Critical Thinking,Site Engineer,CoreCo41,8.8,6
+STU623,Dishani Mall,IT,Sultanpur,Data Structures & Algorithms; Operating Systems; Mobile App Development; Web Development; DBMS; Cybersecurity; Programming; Interpersonal Skills; Problem Solving,Backend Engineer,Subex,8.6,2
+STU624,Diya Kohli,CSE-AIML,Jaunpur,Data Structures & Algorithms; Artificial Intelligence; Machine Learning; Natural Language Processing; Deep Learning; Programming; Computer Vision; Interpersonal Skills; Leadership; Emotional Intelligence,QA Engineer,Zensar,5.2,3
+STU628,Tarini Banik,CSE,Faizabad,Machine Learning; Data Structures & Algorithms; Cloud Computing; Programming; Operating Systems; Computer Networks; DBMS; Leadership; Critical Thinking,QA Engineer,TechCo2,6.4,4
+STU629,Nishith Bhandari,Civil,Raebareli,Transportation Engineering; Surveying; Structural Analysis; Creativity; Emotional Intelligence; Adaptability,Structural Engineer,CoreCo25,5.8,5
+STU630,Taimur Anne,CSD,Raebareli,Cloud Computing; Programming; Data Visualization; DBMS; Creativity; Leadership,Data Engineer,TechCo44,6.9,6
+STU631,Ivana Shan,CSD,Lucknow,Programming; DBMS; Data Structures & Algorithms; Machine Learning; DevOps; Adaptability; Problem Solving,QA Engineer,TechCo62,7.7,5
+STU632,Abram Goel,IT,Barabanki,Mobile App Development; Cybersecurity; Programming; Data Structures & Algorithms; DBMS; Web Development; Operating Systems; Interpersonal Skills; Time Management,Backend Engineer,TechCo33,6.2,2
+STU635,Shamik Bassi,CSE,Gorakhpur,Programming; DBMS; Operating Systems; Machine Learning; Computer Networks; Data Structures & Algorithms; Cloud Computing; Time Management; Emotional Intelligence,QA Engineer,NIIT Technologies,3.6,7
+STU637,Shaan Borah,IT,Faizabad,Mobile App Development; Web Development; Data Structures & Algorithms; Cybersecurity; Programming; Operating Systems; Leadership; Teamwork,Backend Engineer,Subex,8.6,3
+STU638,Zara Hayre,IT,Ballia,Mobile App Development; DBMS; Operating Systems; Programming; Critical Thinking; Creativity; Leadership,Full Stack Developer,TechCo30,6.4,1
+STU639,Hansh Soman,Civil,Gorakhpur,Transportation Engineering; AutoCAD; Building Materials; Surveying; Emotional Intelligence; Creativity; Critical Thinking,Site Engineer,Larsen & Toubro,7.9,1
+STU640,Prerak Ganesh,EC,Sultanpur,Communication Systems; Digital Electronics; Problem Solving; Communication; Creativity,Risk Analyst,PharmEasy,3.8,1
+STU641,Arhaan Sachdeva,CSD,Jaunpur,Cloud Computing; Data Visualization; DBMS; Machine Learning; Communication; Emotional Intelligence,QA Engineer,Accenture,10.9,5
+STU642,Vedika Mangat,CSD,Gorakhpur,Programming; Data Structures & Algorithms; DBMS; Data Visualization; Machine Learning; Adaptability; Communication; Time Management,QA Engineer,TechCo11,6.6,1
+STU643,Gatik Dasgupta,CSE-AIML,Basti,Natural Language Processing; Deep Learning; Computer Vision; Machine Learning; Data Structures & Algorithms; Programming; Artificial Intelligence; Problem Solving; Communication,Frontend Engineer,IBM,5,2
+STU644,Abram Sood,IT,Azamgarh,Operating Systems; Programming; Mobile App Development; Web Development; Teamwork; Emotional Intelligence; Adaptability,QA Engineer,TechCo11,6.6,3
+STU646,Hiran Lalla,IT,Sultanpur,Web Development; DBMS; Operating Systems; Cybersecurity; Mobile App Development; Data Structures & Algorithms; Teamwork; Time Management,Full Stack Developer,HCLTech,6.4,3
+STU648,Dharmajan Chaudhuri,IT,Raebareli,DBMS; Web Development; Mobile App Development; Data Structures & Algorithms; Critical Thinking; Leadership,QA Engineer,TechCo43,12.3,6
+STU649,Zaina Sachdeva,CSE-AIML,Azamgarh,Artificial Intelligence; Computer Vision; Deep Learning; Programming; Natural Language Processing; Leadership; Critical Thinking,QA Engineer,TechCo62,7.7,4
+STU650,Dhanush Bala,CSD,Faizabad,Programming; DBMS; Data Structures & Algorithms; Data Visualization; Machine Learning; Time Management; Adaptability,Data Engineer,TCS,11.8,1
+STU653,Tiya Dube,CSD,Lucknow,Data Structures & Algorithms; DBMS; Machine Learning; Data Visualization; DevOps; Adaptability; Emotional Intelligence,ML Engineer,TechCo18,6.5,4
+STU654,Rohan Randhawa,ME,Ballia,"Mechatronics, Microcontrollers, Sensors, Creativity; Communication; Teamwork; Problem Solving",Production Engineer,Siemens,7.3,3
+STU656,Jivika Ravel,CSE-AIML,Mau,Natural Language Processing; Computer Vision; Artificial Intelligence; Deep Learning; Data Structures & Algorithms; Machine Learning; Programming; Adaptability; Problem Solving; Teamwork,Data Engineer,Tech Mahindra,6.8,2
+STU659,Indrajit Sha,EC,Lucknow,VLSI Design; Embedded Systems; Digital Electronics; Communication Systems; Critical Thinking; Communication; Adaptability,Equity Research Analyst,StartCo77,8.2,1
+STU660,Tiya Malhotra,CSE,Azamgarh,Cloud Computing; Programming; DBMS; Machine Learning; Operating Systems; Time Management; Problem Solving; Interpersonal Skills,QA Engineer,TechCo43,12.3,4
+STU661,Anika Koshy,EE,Mau,Electrical Machines; Power Systems; Emotional Intelligence; Leadership; Interpersonal Skills,Power Systems Engineer,CoreCo28,5.7,6
+STU663,Anahi Sachdev,IT,Azamgarh,Programming; Data Structures & Algorithms; Cybersecurity; DBMS; Interpersonal Skills; Critical Thinking; Time Management,QA Engineer,TechCo51,6.3,2
+STU668,Piya Mangat,CSD,Faizabad,Machine Learning; DBMS; Cloud Computing; Data Structures & Algorithms; Programming; Data Visualization; DevOps; Communication; Creativity,SDE,TechCo40,6.3,3
+STU671,Taran Kunda,CSE,Azamgarh,Cloud Computing; DBMS; Operating Systems; Programming; Machine Learning; Computer Networks; Data Structures & Algorithms; Teamwork; Critical Thinking,Data Engineer,TechCo32,9.8,2
+STU672,Vihaan Saxena,EC,Basti,Signal Processing; Analog Circuits; Microprocessors & Microcontrollers; Interpersonal Skills; Problem Solving; Time Management,Equity Research Analyst,Urban Company,9.6,1
+STU676,Kabir Tata,CSD,Lucknow,Data Structures & Algorithms; DevOps; Cloud Computing; Machine Learning; DBMS; Programming; Data Visualization; Problem Solving; Teamwork; Communication,ML Engineer,TechCo36,12,7
+STU678,Abram Ramesh,CSE,Deoria,Operating Systems; Computer Networks; Programming; DBMS; Adaptability; Critical Thinking,QA Engineer,TechCo43,12.3,6
+STU680,Heer Majumdar,CSE-AIML,Sultanpur,Data Structures & Algorithms; Computer Vision; Artificial Intelligence; Natural Language Processing; Machine Learning; Deep Learning; Programming; Interpersonal Skills; Teamwork; Critical Thinking,QA Engineer,TechCo62,7.7,5
+STU681,Aarna Barad,CSE-AIML,Ballia,Programming; Data Structures & Algorithms; Natural Language Processing; Machine Learning; Teamwork; Emotional Intelligence,Backend Engineer,TechCo23,10.6,4
+STU682,Sumer Basak,ME,Lucknow,"Production Engineering, Industrial Engineering, Quality Control, Teamwork; Problem Solving; Critical Thinking",Mechanical Engineer,CoreCo26,7.3,2
+STU683,Ishaan Tripathi,CSE-AIML,Gorakhpur,Programming; Machine Learning; Artificial Intelligence; Deep Learning; Computer Vision; Natural Language Processing; Data Structures & Algorithms; Communication; Interpersonal Skills; Time Management,Frontend Engineer,TechCo22,17.1,2
+STU684,Elakshi Vohra,EE,Jaunpur,Circuit Theory; Control Systems; Power Electronics; Problem Solving; Time Management; Adaptability,Electrical Engineer,CoreCo22,3.8,3
+STU687,Alisha Buch,CSD,Basti,Programming; Machine Learning; DevOps; Data Visualization; Data Structures & Algorithms; Cloud Computing; Time Management; Communication; Emotional Intelligence,Frontend Engineer,Capgemini,5.1,1
+STU688,Rania Sanghvi,CSE,Gorakhpur,Computer Networks; Operating Systems; Cloud Computing; Machine Learning; Interpersonal Skills; Teamwork; Adaptability,Data Engineer,TechCo50,6.4,1
+STU690,Sahil Khosla,EE,Gorakhpur,Control Systems; Electrical Machines; Time Management; Teamwork,Control Systems Engineer,CoreCo33,7.2,4
+STU691,Himmat Kade,CSE-AIML,Sultanpur,Deep Learning; Artificial Intelligence; Computer Vision; Machine Learning; Teamwork; Time Management; Problem Solving,Backend Engineer,TechCo33,6.2,2
+STU692,Damini Sule,CSE,Gorakhpur,Computer Networks; Data Structures & Algorithms; Cloud Computing; DBMS; Operating Systems; Machine Learning; Leadership; Interpersonal Skills,QA Engineer,TechCo6,11.1,5
+STU694,Kismat Wagle,CSE,Sultanpur,Cloud Computing; Machine Learning; Computer Networks; Operating Systems; Emotional Intelligence; Critical Thinking; Leadership,Frontend Engineer,Mindtree,6.4,1
+STU695,Piya Kanda,CSE,Faizabad,Cloud Computing; Computer Networks; Machine Learning; DBMS; Emotional Intelligence; Leadership,Full Stack Developer,TechCo30,6.4,2
+STU696,Umang Gaba,CSE,Gorakhpur,Computer Networks; DBMS; Cloud Computing; Machine Learning; Problem Solving; Teamwork; Time Management,ML Engineer,TechCo63,7.4,4
+STU697,Alia Sangha,IT,Sultanpur,Cybersecurity; Mobile App Development; DBMS; Operating Systems; Programming; Communication; Adaptability; Problem Solving,Frontend Engineer,TechCo46,19,3
+STU698,Saanvi Dewan,IT,Deoria,DBMS; Web Development; Programming; Mobile App Development; Time Management; Problem Solving; Creativity,Full Stack Developer,Mphasis_1,3,2
+STU699,Arhaan Sule,CSE,Ballia,Operating Systems; DBMS; Data Structures & Algorithms; Computer Networks; Cloud Computing; Programming; Machine Learning; Critical Thinking; Leadership,Full Stack Developer,TechCo1,19.4,1
+STU700,Hrishita Issac,CSD,Jaunpur,Data Structures & Algorithms; Data Visualization; Cloud Computing; DBMS; Machine Learning; Programming; Leadership; Time Management,Backend Engineer,Subex,8.6,2
+STU703,Hiran Walia,EE,Jaunpur,Power Systems; Electrical Machines; Power Electronics; Problem Solving; Adaptability; Critical Thinking,Control Systems Engineer,Tata Projects,10.8,4
+STU707,Parinaaz Lalla,IT,Deoria,Operating Systems; Programming; Data Structures & Algorithms; DBMS; Cybersecurity; Critical Thinking; Interpersonal Skills,Data Engineer,TechCo34,6.6,7
+STU708,Alisha Bakshi,EC,Lucknow,Communication Systems; Analog Circuits; Embedded Systems; Digital Electronics; Problem Solving; Teamwork,Equity Research Analyst,StartCo92,7.2,2
+STU709,Renee Toor,IT,Jaunpur,Data Structures & Algorithms; DBMS; Programming; Web Development; Problem Solving; Leadership,SDE,TechCo40,6.3,4
+STU710,Gatik Dhillon,EC,Jaunpur,VLSI Design; Analog Circuits; Embedded Systems; Communication Systems; Critical Thinking; Emotional Intelligence; Leadership,Tax Associate,StartCo97,7.8,2
+STU711,Vanya Amble,EC,Basti,Embedded Systems; Digital Electronics; Analog Circuits; Creativity; Communication,Equity Research Analyst,StartCo103,5.6,1
+STU715,Rasha Bera,IT,Mau,Programming; Web Development; Data Structures & Algorithms; Operating Systems; Mobile App Development; DBMS; Cybersecurity; Communication; Critical Thinking; Problem Solving,SDE,TechCo40,6.3,3
+STU718,Khushi Buch,CSD,Sultanpur,Data Visualization; DBMS; Programming; DevOps; Adaptability; Communication,Frontend Engineer,TechCo47,7.5,1
+STU719,Vihaan Bahri,CSD,Gorakhpur,Machine Learning; Data Structures & Algorithms; Programming; DevOps; Cloud Computing; Data Visualization; Problem Solving; Emotional Intelligence,QA Engineer,TechCo11,6.6,1
+STU720,Sumer Singhal,EE,Raebareli,Electrical Machines; Circuit Theory; Power Electronics; Power Systems; Teamwork; Critical Thinking,Control Systems Engineer,CoreCo31,7.7,3
+STU721,Advik Korpal,CSE-AIML,Gorakhpur,Programming; Natural Language Processing; Data Structures & Algorithms; Computer Vision; Creativity; Problem Solving,QA Engineer,TechCo15,6.2,1
+STU722,Divyansh Buch,EE,Jaunpur,Power Electronics; Control Systems; Electrical Machines; Power Systems; Creativity; Teamwork; Interpersonal Skills,Control Systems Engineer,CoreCo31,7.7,2
+STU723,Miraan Kade,IT,Deoria,Cybersecurity; Web Development; DBMS; Data Structures & Algorithms; Adaptability; Interpersonal Skills,QA Engineer,NIIT Technologies,3.6,3
+STU724,Misha Ramesh,EE,Lucknow,Power Systems; Control Systems; Circuit Theory; Critical Thinking; Teamwork; Leadership,Power Systems Engineer,Cummins India,5.4,4
+STU726,Jivin Buch,CSD,Faizabad,DBMS; DevOps; Data Visualization; Programming; Cloud Computing; Creativity; Critical Thinking; Time Management,Data Engineer,TechCo50,6.4,6
+STU728,Jayan Chauhan,CSE-AIML,Sultanpur,Deep Learning; Data Structures & Algorithms; Artificial Intelligence; Machine Learning; Communication; Adaptability,SDE,RouteMobile,4.4,4
+STU731,Kiaan Ramanathan,CSD,Basti,Programming; DevOps; DBMS; Cloud Computing; Data Visualization; Machine Learning; Adaptability; Creativity,SDE,TechCo49,4.5,4
+STU733,Yakshit Sabharwal,IT,Sultanpur,Mobile App Development; Operating Systems; Data Structures & Algorithms; Web Development; DBMS; Programming; Cybersecurity; Emotional Intelligence; Problem Solving,Full Stack Developer,TechCo30,6.4,1
+STU735,Rasha Dyal,IT,Basti,Web Development; Data Structures & Algorithms; Cybersecurity; Mobile App Development; Adaptability; Creativity; Interpersonal Skills,ML Engineer,TechCo35,17.2,1
+STU736,Madhav Thaker,CSE,Azamgarh,Operating Systems; Machine Learning; DBMS; Data Structures & Algorithms; Programming; Cloud Computing; Computer Networks; Adaptability; Teamwork,Backend Engineer,TechCo23,10.6,3
+STU737,Priyansh Ramanathan,EE,Jaunpur,Power Electronics; Power Systems; Electrical Machines; Creativity; Emotional Intelligence,Electrical Engineer,CoreCo37,6.7,5
+STU738,Jayesh Kashyap,CSE,Sultanpur,Programming; Computer Networks; Operating Systems; Data Structures & Algorithms; Cloud Computing; DBMS; Machine Learning; Critical Thinking; Emotional Intelligence,SDE,RouteMobile,4.4,3
+STU739,Manjari Basu,EE,Lucknow,Control Systems; Circuit Theory; Power Electronics; Interpersonal Skills; Communication; Teamwork,Control Systems Engineer,CoreCo33,7.2,2
+STU740,Miraan Shukla,CSE,Faizabad,Computer Networks; Programming; DBMS; Machine Learning; Cloud Computing; Critical Thinking; Adaptability,Frontend Engineer,TechCo53,7.1,2
+STU741,Advik Kapoor,CSE-AIML,Lucknow,Programming; Machine Learning; Artificial Intelligence; Deep Learning; Data Structures & Algorithms; Natural Language Processing; Interpersonal Skills; Emotional Intelligence,Data Engineer,TechCo26,13,5
+STU742,Akarsh Balasubramanian,CSD,Barabanki,DBMS; Data Visualization; Programming; DevOps; Cloud Computing; Communication; Creativity; Emotional Intelligence,SDE,RouteMobile,4.4,7
+STU747,Ojas Chadha,IT,Faizabad,Mobile App Development; Data Structures & Algorithms; Cybersecurity; Operating Systems; Web Development; Programming; DBMS; Teamwork; Communication; Leadership,Data Engineer,TechCo5,4.4,2
+STU749,Saanvi Chacko,CSE,Azamgarh,Data Structures & Algorithms; Machine Learning; Programming; Operating Systems; Computer Networks; Creativity; Adaptability,QA Engineer,TechCo15,6.2,1
+STU750,Anya Sheth,ME,Azamgarh,"AutoCAD, SolidWorks, CAD/CAM, Manufacturing, Problem-Solving; Interpersonal Skills; Time Management; Adaptability",Production Engineer,Siemens,7.3,4
+STU751,Farhan Barad,CSE,Jaunpur,DBMS; Cloud Computing; Operating Systems; Programming; Adaptability; Creativity; Communication,Backend Engineer,TechCo23,10.6,6
+STU752,Mohanlal Malhotra,IT,Sultanpur,Mobile App Development; Data Structures & Algorithms; Cybersecurity; Web Development; Operating Systems; Programming; Teamwork; Critical Thinking; Problem Solving,Backend Engineer,TechCo55,18.1,1
+STU753,Suhana Chokshi,CSE,Lucknow,Cloud Computing; Operating Systems; Computer Networks; DBMS; Data Structures & Algorithms; Machine Learning; Programming; Emotional Intelligence; Interpersonal Skills,QA Engineer,NIIT Technologies,3.6,7
+STU755,Ishaan Jayaraman,IT,Barabanki,Mobile App Development; Operating Systems; Data Structures & Algorithms; DBMS; Web Development; Programming; Adaptability; Problem Solving; Emotional Intelligence,Data Engineer,TechCo12,6.7,4
+STU757,Faiyaz Anne,CSE-AIML,Azamgarh,Natural Language Processing; Machine Learning; Deep Learning; Data Structures & Algorithms; Programming; Teamwork; Problem Solving; Leadership,Frontend Engineer,TechCo46,19,7
+STU758,Taimur Chauhan,CSE-AIML,Faizabad,Programming; Data Structures & Algorithms; Deep Learning; Computer Vision; Natural Language Processing; Machine Learning; Artificial Intelligence; Leadership; Problem Solving; Creativity,Backend Engineer,Hexaware,4.6,1
+STU759,Dharmajan Vaidya,Civil,Faizabad,Building Materials; Surveying; Geotechnical Engineering; Emotional Intelligence; Time Management; Problem Solving,Structural Engineer,CoreCo8,8.2,6
+STU760,Kavya Dass,Civil,Barabanki,Structural Analysis; Building Materials; Geotechnical Engineering; Time Management; Teamwork,Structural Engineer,CoreCo8,8.2,4
+STU761,Sumer Iyer,CSE-AIML,Raebareli,Machine Learning; Natural Language Processing; Programming; Artificial Intelligence; Data Structures & Algorithms; Adaptability; Creativity,Frontend Engineer,Microsoft,5.6,3
+STU762,Divit Kohli,Civil,Raebareli,Building Materials; AutoCAD; Geotechnical Engineering; Transportation Engineering; Interpersonal Skills; Time Management,Site Engineer,Reliance Infrastructure,7.6,5
+STU763,Vidur Jani,CSE,Faizabad,Programming; Cloud Computing; DBMS; Computer Networks; Teamwork; Problem Solving,Frontend Engineer,Persistent Systems,10.8,5
+STU765,Romil Deol,CSE,Mau,Programming; DBMS; Machine Learning; Data Structures & Algorithms; Operating Systems; Cloud Computing; Leadership; Communication; Adaptability,Backend Engineer,TechCo17,3.1,3
+STU766,Stuvan Agate,EE,Sultanpur,Control Systems; Power Electronics; Power Systems; Critical Thinking; Problem Solving,Control Systems Engineer,CoreCo11,19.9,1
+STU769,Alia Hayer,CSE,Azamgarh,DBMS; Cloud Computing; Data Structures & Algorithms; Computer Networks; Machine Learning; Problem Solving; Interpersonal Skills,Backend Engineer,Infosys,3.5,3
+STU771,Misha Seth,CSE,Barabanki,Operating Systems; Data Structures & Algorithms; Machine Learning; DBMS; Cloud Computing; Computer Networks; Programming; Emotional Intelligence; Time Management,QA Engineer,TechCo2,6.4,6
+STU772,Indranil Mallick,CSD,Ballia,DBMS; Programming; DevOps; Data Visualization; Data Structures & Algorithms; Machine Learning; Teamwork; Interpersonal Skills,QA Engineer,TechCo7,8.9,3
+STU773,Ivana Chauhan,CSE,Azamgarh,Computer Networks; Programming; DBMS; Data Structures & Algorithms; Leadership; Creativity; Problem Solving,Frontend Engineer,TechCo52,3.4,2
+STU775,Nitara Aurora,CSD,Lucknow,Programming; Cloud Computing; Data Visualization; Machine Learning; Data Structures & Algorithms; Leadership; Creativity,Data Engineer,TechCo26,13,3
+STU776,Tushar Uppal,EE,Azamgarh,Circuit Theory; Electrical Machines; Communication; Critical Thinking; Problem Solving,Power Systems Engineer,Maruti Suzuki,6.9,2
+STU777,Samiha Sant,EC,Basti,Microprocessors & Microcontrollers; Communication Systems; Analog Circuits; Teamwork; Problem Solving; Critical Thinking,Financial Analyst,StartCo94,10.6,3
+STU778,Amani Lalla,CSE,Barabanki,Data Structures & Algorithms; Machine Learning; Cloud Computing; Programming; Adaptability; Interpersonal Skills,QA Engineer,TechCo51,6.3,7
+STU779,Adah Goda,CSD,Jaunpur,Machine Learning; Cloud Computing; DBMS; Data Structures & Algorithms; Interpersonal Skills; Leadership,SDE,TechCo8,11.6,3
+STU780,Rhea Sawhney,CSE,Deoria,Operating Systems; Data Structures & Algorithms; DBMS; Machine Learning; Computer Networks; Cloud Computing; Leadership; Interpersonal Skills,ML Engineer,Freshworks_1,6.5,5
+STU781,Renee Wali,IT,Raebareli,Operating Systems; Mobile App Development; Programming; Data Structures & Algorithms; Time Management; Creativity,Full Stack Developer,TechCo60,6.7,3
+STU782,Misha Bera,ME,Ballia,"Heat Transfer, IC Engines, Combustion Systems, Attention to Detail; Adaptability; Interpersonal Skills; Leadership",Production Engineer,CoreCo5,6.9,1
+STU784,Sumer Viswanathan,CSE,Basti,Computer Networks; Operating Systems; Data Structures & Algorithms; Programming; Machine Learning; Interpersonal Skills; Time Management; Critical Thinking,QA Engineer,TechCo9,17.4,1
+STU785,Jiya Khosla,IT,Ballia,Web Development; DBMS; Data Structures & Algorithms; Operating Systems; Mobile App Development; Programming; Cybersecurity; Time Management; Critical Thinking; Teamwork,Frontend Engineer,TechCo27,6.7,4
+STU787,Shanaya Raman,CSE,Deoria,Operating Systems; DBMS; Cloud Computing; Data Structures & Algorithms; Leadership; Adaptability,Data Engineer,TechCo26,13,1
+STU788,Ishita Banerjee,CSE,Barabanki,DBMS; Data Structures & Algorithms; Programming; Computer Networks; Machine Learning; Operating Systems; Teamwork; Communication; Interpersonal Skills,Backend Engineer,Infosys,3.5,4
+STU794,Anaya Mammen,CSD,Mau,DBMS; Data Structures & Algorithms; Programming; Data Visualization; Emotional Intelligence; Communication; Teamwork,Backend Engineer,TechCo33,6.2,5
+STU795,Sahil Vala,CSE,Raebareli,Cloud Computing; Computer Networks; Machine Learning; Data Structures & Algorithms; Time Management; Creativity,QA Engineer,TechCo62,7.7,1
+STU796,Tiya Kalita,EE,Raebareli,Electrical Machines; Power Systems; Control Systems; Circuit Theory; Leadership; Teamwork; Problem Solving,Electrical Engineer,CoreCo37,6.7,3
+STU797,Neysa Saraf,EE,Sultanpur,Power Systems; Control Systems; Circuit Theory; Electrical Machines; Teamwork; Time Management; Leadership,Electrical Engineer,Alstom,3.5,1
+STU798,Trisha Babu,IT,Mau,Data Structures & Algorithms; Cybersecurity; Mobile App Development; Web Development; Programming; Critical Thinking; Time Management; Emotional Intelligence,QA Engineer,TechCo62,7.7,2
+STU799,Heer Kakar,IT,Raebareli,Mobile App Development; Web Development; Data Structures & Algorithms; Cybersecurity; Operating Systems; DBMS; Leadership; Creativity; Time Management,Frontend Engineer,TechCo46,19,2
+STU801,Pihu Vasa,Civil,Gorakhpur,Building Materials; Structural Analysis; Transportation Engineering; Emotional Intelligence; Adaptability,Structural Engineer,CoreCo25,5.8,4
+STU802,Saira Sura,CSE,Lucknow,Cloud Computing; Machine Learning; DBMS; Programming; Data Structures & Algorithms; Leadership; Problem Solving,QA Engineer,TechCo61,4.6,2
+STU803,Rania Kalla,EC,Jaunpur,Analog Circuits; Communication Systems; Digital Electronics; Creativity; Teamwork,Financial Analyst,StartCo51,7.9,4
+STU804,Kiaan Sarraf,EE,Raebareli,Power Systems; Power Electronics; Control Systems; Problem Solving; Critical Thinking; Interpersonal Skills,Power Systems Engineer,Cummins India,5.4,1
+STU806,Tarini Barman,ME,Sultanpur,"Heat Transfer, IC Engines, Combustion Systems, Attention to Detail; Teamwork; Adaptability",Mechanical Engineer,CoreCo26,7.3,4
+STU809,Lavanya Thakur,CSE,Lucknow,DBMS; Machine Learning; Data Structures & Algorithms; Programming; Operating Systems; Adaptability; Communication; Time Management,Full Stack Developer,TechCo39,16.9,2
+STU810,Kiara Johal,IT,Azamgarh,Cybersecurity; DBMS; Programming; Operating Systems; Web Development; Data Structures & Algorithms; Emotional Intelligence; Creativity,Data Engineer,TechCo34,6.6,5
+STU813,Damini Varkey,IT,Sultanpur,Web Development; Operating Systems; Mobile App Development; DBMS; Cybersecurity; Data Structures & Algorithms; Teamwork; Emotional Intelligence,QA Engineer,Accenture,10.9,4
+STU815,Tanya Gole,EE,Raebareli,Power Systems; Electrical Machines; Circuit Theory; Leadership; Adaptability; Problem Solving,Control Systems Engineer,CoreCo10,11,2
+STU816,Ishaan Chahal,IT,Mau,DBMS; Mobile App Development; Web Development; Data Structures & Algorithms; Programming; Teamwork; Critical Thinking,Backend Engineer,TechCo33,6.2,5
+STU823,Sara Gulati,IT,Jaunpur,Operating Systems; Programming; DBMS; Web Development; Data Structures & Algorithms; Emotional Intelligence; Interpersonal Skills; Leadership,Data Engineer,TechCo24,7.4,7
+STU825,Vedika Som,IT,Ballia,Cybersecurity; Operating Systems; Mobile App Development; Programming; Web Development; Adaptability; Critical Thinking,ML Engineer,TechCo3,5.4,2
+STU826,Pihu Virk,EE,Faizabad,Power Systems; Circuit Theory; Control Systems; Power Electronics; Creativity; Time Management; Leadership,Electrical Engineer,CoreCo24,5.4,5
+STU827,Hunar Kunda,CSE,Deoria,DBMS; Machine Learning; Data Structures & Algorithms; Operating Systems; Computer Networks; Programming; Critical Thinking; Time Management; Communication,Full Stack Developer,TechCo13,6.4,5
+STU828,Zara Ramachandran,CSD,Mau,Programming; Data Structures & Algorithms; Machine Learning; DBMS; DevOps; Emotional Intelligence; Communication; Interpersonal Skills,SDE,TechCo40,6.3,1
+STU830,Jivika Chaudhary,CSE,Gorakhpur,Machine Learning; Programming; Cloud Computing; Operating Systems; Interpersonal Skills; Creativity; Leadership,Data Engineer,TechCo34,6.6,1
+STU831,Adira Wason,Civil,Gorakhpur,Surveying; AutoCAD; Structural Analysis; Creativity; Interpersonal Skills,Civil Engineer,Mahindra & Mahindra,7.9,4
+STU832,Krish Ramachandran,CSE,Ballia,DBMS; Cloud Computing; Programming; Operating Systems; Data Structures & Algorithms; Machine Learning; Problem Solving; Leadership; Critical Thinking,Backend Engineer,TechCo31,4.9,3
+STU834,Prisha Rout,IT,Faizabad,Cybersecurity; DBMS; Programming; Data Structures & Algorithms; Operating Systems; Web Development; Mobile App Development; Problem Solving; Emotional Intelligence; Leadership,Frontend Engineer,TechCo27,6.7,4
+STU835,Suhana Balakrishnan,IT,Barabanki,Data Structures & Algorithms; Web Development; Mobile App Development; DBMS; Programming; Operating Systems; Interpersonal Skills; Problem Solving; Communication,Full Stack Developer,HCLTech,6.4,6
+STU836,Charvi Jayaraman,IT,Gorakhpur,Web Development; DBMS; Operating Systems; Data Structures & Algorithms; Programming; Mobile App Development; Cybersecurity; Time Management; Creativity,Data Engineer,TechCo5,4.4,1
+STU837,Aradhya Gour,CSD,Sultanpur,Cloud Computing; DBMS; Data Structures & Algorithms; DevOps; Teamwork; Communication; Critical Thinking,ML Engineer,Oracle,3.7,1
+STU839,Keya Edwin,IT,Ballia,DBMS; Operating Systems; Web Development; Mobile App Development; Cybersecurity; Data Structures & Algorithms; Communication; Teamwork; Leadership,SDE,Wipro,6,4
+STU843,Vidur Acharya,CSD,Lucknow,Programming; Cloud Computing; DBMS; Data Visualization; Leadership; Time Management; Interpersonal Skills,Data Engineer,TechCo34,6.6,4
+STU844,Divit Bhandari,Civil,Faizabad,AutoCAD; Transportation Engineering; Building Materials; Adaptability; Problem Solving,Structural Engineer,CoreCo25,5.8,5
+STU845,Tushar Kant,CSE,Basti,Operating Systems; Machine Learning; Programming; DBMS; Computer Networks; Data Structures & Algorithms; Cloud Computing; Creativity; Interpersonal Skills; Critical Thinking,Data Engineer,TechCo5,4.4,4
+STU847,Shanaya Bobal,EE,Lucknow,Control Systems; Electrical Machines; Communication; Adaptability,Electrical Engineer,CoreCo23,5.4,2
+STU848,Sana Sinha,EC,Faizabad,Communication Systems; Signal Processing; Analog Circuits; VLSI Design; Teamwork; Time Management,Equity Research Analyst,StartCo89,7.8,1
+STU849,Ayesha Karpe,CSE,Sultanpur,Operating Systems; DBMS; Programming; Data Structures & Algorithms; Computer Networks; Creativity; Emotional Intelligence,Full Stack Developer,TechCo39,16.9,2
+STU850,Pari Raja,IT,Ballia,Web Development; Cybersecurity; Operating Systems; DBMS; Mobile App Development; Adaptability; Communication; Teamwork,QA Engineer,TechCo2,6.4,3
+STU851,Himmat Lal,IT,Ballia,Web Development; DBMS; Operating Systems; Cybersecurity; Emotional Intelligence; Problem Solving; Creativity,ML Engineer,TechCo29,8,6
+STU856,Dhanuk Soman,IT,Lucknow,Cybersecurity; Programming; DBMS; Operating Systems; Interpersonal Skills; Emotional Intelligence; Time Management,QA Engineer,Zensar,5.2,1
+STU857,Manjari Anand,CSD,Faizabad,DBMS; Cloud Computing; Data Structures & Algorithms; DevOps; Data Visualization; Time Management; Problem Solving,Data Engineer,TCS,11.8,1
+STU858,Zaina Zachariah,IT,Mau,Mobile App Development; Operating Systems; DBMS; Web Development; Cybersecurity; Problem Solving; Time Management,Frontend Engineer,Persistent Systems,10.8,1
+STU859,Nehmat Master,EE,Mau,Electrical Machines; Circuit Theory; Power Electronics; Creativity; Problem Solving,Control Systems Engineer,CoreCo31,7.7,5
+STU860,Mahika Bose,ME,Mau,"Heat Transfer, IC Engines, Combustion Systems, Attention to Detail; Critical Thinking; Emotional Intelligence",Production Engineer,CoreCo5,6.9,3
+STU861,Akarsh Shah,CSE,Faizabad,DBMS; Machine Learning; Data Structures & Algorithms; Computer Networks; Programming; Cloud Computing; Emotional Intelligence; Interpersonal Skills; Teamwork,QA Engineer,TechCo42,13.9,5
+STU862,Ishaan Sanghvi,CSE,Basti,Computer Networks; Programming; DBMS; Machine Learning; Data Structures & Algorithms; Cloud Computing; Operating Systems; Problem Solving; Leadership,Frontend Engineer,TechCo52,3.4,3
+STU863,Drishya Chaudhuri,EC,Sultanpur,Microprocessors & Microcontrollers; Signal Processing; VLSI Design; Problem Solving; Critical Thinking,Risk Analyst,PharmEasy,3.8,1
+STU864,Jhanvi Garg,EC,Gorakhpur,Digital Electronics; Analog Circuits; VLSI Design; Time Management; Adaptability; Leadership,Tax Associate,StartCo62,13,2
+STU865,Vivaan Rout,EC,Barabanki,Communication Systems; Embedded Systems; Microprocessors & Microcontrollers; Leadership; Emotional Intelligence,Equity Research Analyst,StartCo92,7.2,1
+STU866,Priyansh Deep,CSD,Deoria,Data Structures & Algorithms; Programming; Cloud Computing; Data Visualization; DevOps; DBMS; Machine Learning; Critical Thinking; Emotional Intelligence; Adaptability,QA Engineer,TechCo7,8.9,2
+STU867,Amira Bera,ME,Sultanpur,"Mechanical Design, Machine Elements, ANSYS, Critical Thinking; Adaptability; Leadership; Critical Thinking",Production Engineer,CoreCo5,6.9,1
+STU868,Hrishita Apte,Civil,Barabanki,Structural Analysis; AutoCAD; Transportation Engineering; Building Materials; Communication; Problem Solving; Time Management,Site Engineer,CoreCo41,8.8,2
+STU872,Trisha Chander,IT,Lucknow,DBMS; Data Structures & Algorithms; Web Development; Programming; Mobile App Development; Operating Systems; Time Management; Adaptability; Interpersonal Skills,Data Engineer,TechCo12,6.7,2
+STU873,Lagan Luthra,CSE,Sultanpur,Machine Learning; Operating Systems; DBMS; Programming; Data Structures & Algorithms; Emotional Intelligence; Interpersonal Skills; Communication,QA Engineer,TechCo9,17.4,5
+STU874,Taran Bava,EE,Jaunpur,Power Electronics; Power Systems; Creativity; Adaptability; Emotional Intelligence,Electrical Engineer,CoreCo37,6.7,3
+STU875,Shanaya Sahni,EE,Gorakhpur,Control Systems; Power Systems; Leadership; Creativity,Electrical Engineer,Hindustan Aeronautics Limited,9.6,5
+STU877,Aradhya Bhagat,CSE-AIML,Gorakhpur,Natural Language Processing; Data Structures & Algorithms; Machine Learning; Deep Learning; Computer Vision; Artificial Intelligence; Programming; Communication; Interpersonal Skills,Backend Engineer,TechCo38,3.2,3
+STU878,Yuvraj  Bhakta,CSD,Lucknow,Data Structures & Algorithms; Data Visualization; Programming; DevOps; DBMS; Machine Learning; Cloud Computing; Adaptability; Time Management,QA Engineer,Zensar,5.2,4
+STU879,Ivana Taneja,CSE,Lucknow,Cloud Computing; Operating Systems; Machine Learning; Programming; Interpersonal Skills; Critical Thinking,Frontend Engineer,TechCo52,3.4,1
+STU880,Shamik Deep,CSE-AIML,Barabanki,Deep Learning; Data Structures & Algorithms; Computer Vision; Programming; Critical Thinking; Creativity; Communication,Backend Engineer,Subex,8.6,1
+STU882,Shamik Dara,IT,Azamgarh,Programming; Data Structures & Algorithms; Mobile App Development; Cybersecurity; Creativity; Problem Solving; Teamwork,Data Engineer,TechCo32,9.8,2
+STU884,Mohanlal Bansal,CSE,Faizabad,Data Structures & Algorithms; Computer Networks; Programming; Cloud Computing; Leadership; Interpersonal Skills,QA Engineer,Zensar,5.2,3
+STU885,Aniruddh Sankar,CSE,Raebareli,Computer Networks; Operating Systems; Machine Learning; Data Structures & Algorithms; DBMS; Leadership; Teamwork,Frontend Engineer,Zoho,12.3,3
+STU886,Darshit Dugar,CSE,Gorakhpur,Computer Networks; Machine Learning; Data Structures & Algorithms; Operating Systems; DBMS; Programming; Time Management; Adaptability; Creativity,QA Engineer,TechCo11,6.6,3
+STU888,Eshani Kakar,CSD,Deoria,Machine Learning; Cloud Computing; Programming; Data Visualization; DBMS; Data Structures & Algorithms; DevOps; Emotional Intelligence; Communication; Problem Solving,Data Engineer,TechCo34,6.6,4
+STU889,Seher Srinivas,IT,Raebareli,Operating Systems; Web Development; Data Structures & Algorithms; Programming; Mobile App Development; DBMS; Cybersecurity; Problem Solving; Time Management,Full Stack Developer,TechCo1,19.4,7
+STU891,Faiyaz Sengupta,IT,Barabanki,Operating Systems; Mobile App Development; Web Development; Cybersecurity; DBMS; Programming; Data Structures & Algorithms; Problem Solving; Time Management,QA Engineer,Accenture,10.9,7
+STU893,Vedika Mandal,CSD,Basti,Machine Learning; DBMS; Data Structures & Algorithms; Programming; Cloud Computing; Data Visualization; DevOps; Time Management; Communication; Interpersonal Skills,Data Engineer,LTI,18.2,1
+STU894,Advik Sampath,CSD,Mau,Cloud Computing; Data Structures & Algorithms; DevOps; DBMS; Leadership; Problem Solving,QA Engineer,TechCo42,13.9,4
+STU896,Yakshit Ganesh,IT,Raebareli,DBMS; Cybersecurity; Data Structures & Algorithms; Web Development; Programming; Mobile App Development; Operating Systems; Creativity; Problem Solving,Data Engineer,TechCo57,10.6,2
+STU897,Gatik Bhakta,CSE,Ballia,DBMS; Data Structures & Algorithms; Programming; Operating Systems; Interpersonal Skills; Leadership,Frontend Engineer,TechCo22,17.1,1
+STU898,Anika Baria,CSE,Mau,Operating Systems; Data Structures & Algorithms; Cloud Computing; Computer Networks; DBMS; Programming; Problem Solving; Teamwork; Creativity,Frontend Engineer,TechCo22,17.1,4
+STU899,Ira Sangha,CSE-AIML,Faizabad,Computer Vision; Programming; Natural Language Processing; Machine Learning; Deep Learning; Leadership; Teamwork; Creativity,QA Engineer,TechCo9,17.4,3

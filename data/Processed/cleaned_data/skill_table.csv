@@ -1,0 +1,91 @@
+Domain,Skill,No_of_Students,Company_Count
+Software,Artificial Intelligence,70,0
+Software,Cloud Computing,297,0
+Software,Computer Networks,183,0
+Software,Computer Vision,69,0
+Software,Cybersecurity,135,0
+Software,Data Analysis,0,78
+Software,Data Structures & Algorithms,515,17
+Software,Data Visualization,117,78
+Software,DBMS,447,87
+Software,Deep Learning,73,0
+Software,DevOps,112,0
+Software,Excel,0,42
+Software,Java,0,35
+Software,JavaScript,0,27
+Software,Machine Learning,389,28
+Software,Mobile App Development,142,0
+Software,Natural Language Processing,72,0
+Software,Operating Systems,311,0
+Software,Programming,487,63
+Software,Python,0,63
+Software,React,0,27
+Software,REST APIs,0,27
+Software,SDLC,0,18
+Software,Selenium,0,18
+Software,SQL,0,87
+Software,System Design,0,17
+Software,Web Development,138,27
+EC,Analog Circuits,26,0
+EC,Circuit Analysis & Theory,50,23
+EC,Communication Systems,34,0
+EC,Control Systems,59,0
+EC,Digital Electronics,32,19
+EC,Embedded C,0,19
+EC,Embedded Systems,35,19
+EC,Microcontrollers,32,0
+EC,Microprocessors,28,0
+EC,Signal Processing,28,0
+EC,VLSI,0,19
+EC,VLSI Design,30,0
+ME,3D Printing,3,0
+ME,Additive Manufacturing,3,0
+ME,AutoCAD,28,14
+ME,CAD,7,12
+ME,CAM,7,0
+ME,Combustion Systems,5,0
+ME,Fluid Mechanics,6,0
+ME,Heat Transfer,5,0
+ME,HVAC Systems,6,0
+ME,IC Engines,5,0
+ME,Machine Elements,5,0
+ME,Manufacturing,7,0
+ME,Manufacturing Processes,0,12
+ME,Materials Science,5,0
+ME,Mechanical Design,5,0
+ME,Mechatronics,4,0
+ME,Metallurgy,5,0
+ME,Robotics,5,0
+ME,SolidWorks,7,12
+ME,Thermodynamics,6,12
+Civil,Building Materials,31,0
+Civil,Construction Management,0,14
+Civil,Geotechnical Engineering,17,0
+Civil,Structural Analysis,18,14
+Civil,Surveying,21,0
+Civil,Transportation Engineering,28,0
+Civil,Production Engineering,6,0
+Civil,STAAD Pro,0,14
+EE,Electrical Machines,53,23
+EE,Power Electronics,48,0
+EE,Power Systems,57,23
+EE,Sensors,4,0
+EE,Sensors,4,0
+SoftSkill,Adaptability,218,0
+SoftSkill,Analysis Skills,6,0
+SoftSkill,Attention to Detail,5,0
+SoftSkill,Collaboration,3,0
+SoftSkill,Communication,223,100
+SoftSkill,Creativity,224,0
+SoftSkill,Critical Thinking,239,0
+SoftSkill,Emotional Intelligence,241,0
+SoftSkill,Innovation,3,0
+SoftSkill,Interpersonal Skills,227,0
+SoftSkill,Leadership,224,0
+SoftSkill,Negotiation,0,50
+SoftSkill,Problem Solving,213,0
+SoftSkill,Research Skills,5,0
+SoftSkill,Teamwork,229,0
+SoftSkill,Teaching Skills,0,50
+SoftSkill,Time Management,237,0
+SoftSkill,Presentation Skills,0,50

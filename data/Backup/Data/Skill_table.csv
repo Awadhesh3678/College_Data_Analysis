@@ -1,0 +1,32 @@
+Row Labels,Count of Skill,,,
+Civil,8,,,
+EC,12,,,
+EE,5,,,
+ME,20,,,
+SoftSkill,18,,,
+Software,27,,,
+Grand Total,90,,,
+,,,,
+,,,,
+Row Labels,Sum of No_of_Students,,Row Labels,Sum of Company_Count
+Web Development,138,,Web Development,27
+Time Management,237,,Teaching Skills,50
+Teamwork,229,,SQL,87
+Programming,487,,REST APIs,27
+Problem Solving,213,,React,27
+Operating Systems,311,,Python,63
+Mobile App Development,142,,Programming,63
+Machine Learning,389,,Presentation Skills,50
+Leadership,224,,Power Systems,23
+Interpersonal Skills,227,,Negotiation,50
+Emotional Intelligence,241,,Machine Learning,28
+DBMS,447,,JavaScript,27
+Data Structures & Algorithms,515,,Java,35
+Cybersecurity,135,,Excel,42
+Critical Thinking,239,,Electrical Machines,23
+Creativity,224,,DBMS,87
+Computer Networks,183,,Data Visualization,78
+Communication,223,,Data Analysis,78
+Cloud Computing,297,,Communication,100
+Adaptability,218,,Circuit Analysis & Theory,23
+Grand Total,5319,,Grand Total,988
